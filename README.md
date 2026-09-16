@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1325-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1328-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-264-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1325 skills** across 10 skill types · **264** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.8M ⭐. Platforms: 🤖 claude code: 1180 | 🧠 codex: 449 | 🔧 generic: 98 | 🖱️ cursor: 92 | 📟 cline: 10 | 🏄 windsurf: 6
+**1328 skills** across 10 skill types · **264** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.8M ⭐. Platforms: 🤖 claude code: 1183 | 🧠 codex: 451 | 🔧 generic: 98 | 🖱️ cursor: 93 | 📟 cline: 10 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🧠 🔷 **[Octop](https://github.com/TencentCloud/Octop)** 🤖🖱️🧠 R:🔴 M:🟢 — A smarter, self-hosted AI assistant — multi-user, multi-agent. by TencentCloud *(2.9k ⭐)* — discovered Sep 16
+- 🧠 🔷 **[eve](https://github.com/vercel/eve)** 🤖🧠 R:🟡 M:🟢 — The Open Framework for Building Agents by vercel *(5.2k ⭐)* — discovered Sep 16
+- 📚 🔷 **[security-audit-skill](https://github.com/cloudflare/security-audit-skill)** 🤖 R:🟡 M:🟢 — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings by cloudflare *(5.6k ⭐)* — discovered Sep 16
 - 📝 🔷 **[mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)** 🔧 R:🔴 M:🟢 — Community plugin to control Blender 3D with any LLM of your choice by ahujasid *(28.7k ⭐)* — discovered Sep 16
 - 🔌 ⭐ **[linkedin-skills](https://github.com/sergebulaev/linkedin-skills)** 🤖🧠 R:🔴 M:🟢 — Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT. by sergebulaev *(2.4k ⭐)* — discovered Sep 15
-- 🧠 🔷 **[oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** 🤖🖱️🧠 R:🔴 M:🟢 — All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages by rlaope *(1.8k ⭐)* — discovered Sep 14
-- 🔌 🔷 **[infinite-canvas](https://github.com/tigerowo/infinite-canvas)** 🤖🧠 R:🔴 M:🟢 — 开源 AI 创作工作台，集成无限画布、Agent、导演台、全景图、AI 生图、图片编辑、视频生成、画布编排等，兼容 OpenAI 接口及多种 API 服务 by tigerowo *(820 ⭐)* — discovered Sep 14
-- 🔌 🔷 **[redai](https://github.com/kpolley/redai)** 🤖🧠 R:🔴 M:🟠 — AI-driven vulnerability discovery and live validation by kpolley *(341 ⭐)* — discovered Sep 14
 
 ---
 
@@ -296,7 +296,7 @@
 - 📚 🔷 **[plastic-labs/honcho](https://github.com/plastic-labs/honcho)**  R:🟢 M:🟠 —  Memory library for building stateful agents by plastic-labs *(5.2k ⭐)*
 - 🔌 🔷 **[go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)** 🤖 R:🟡 M:🟢 — Help AI coding agents write modern Go by JetBrains *(1.9k ⭐)*
 - 📄 🔷 **[activeloopai/hivemind](https://github.com/activeloopai/hivemind)** 🤖 R:🔴 M:🟠 — One brain for all your agents by activeloopai *(1.3k ⭐)*
-- 📚 🔷 **[airllm](https://github.com/lyogavin/airllm)** 🔧 R:🔴 M:🟢 — AirLLM 70B inference with single 4GB GPU by lyogavin *(20.9k ⭐)*
+- 📚 🔷 **[airllm](https://github.com/lyogavin/airllm)** 🔧 R:🔴 M:🟠 — AirLLM 70B inference with single 4GB GPU by lyogavin *(20.9k ⭐)*
 - 📚 🔷 **[block/goose](https://github.com/block/goose)**  R:🟢 M:🟠 — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM by block *(49.7k ⭐)*
 - 📄 ⭐ **[hcom](https://github.com/aannoo/hcom)** 🤖 R:🔴 M:🟠 — Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi by aannoo *(343 ⭐)*
 - 📚 🔷 **[yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)**  R:🟢 M:🟠 — Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first. by yvgude *(2.8k ⭐)*
@@ -721,6 +721,7 @@
 - 🔌 🔷 **[playwright-skill](https://github.com/lackeyjb/playwright-skill)**  R:🔴 M:🟠 — Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation. by lackeyjb *(2.8k ⭐)*
 - 🔌 🔷 **[claude-video](https://github.com/bradautomates/claude-video)** 🤖 R:🔴 M:🟠 — Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. by bradautomates *(2.4k ⭐)*
 - 📄 🔶 **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** 🤖 R:🟡 M:🟠 — Playwright MCP server by microsoft *(34k ⭐)*
+- 🔌 🔷 **[redai](https://github.com/kpolley/redai)** 🤖🧠 R:🔴 M:🟠 — AI-driven vulnerability discovery and live validation by kpolley *(341 ⭐)*
 - 🔌 🔷 **[superpowers-chrome](https://github.com/obra/superpowers-chrome)** 🤖 R:🟢 M:🟠 — Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies by obra *(317 ⭐)*
 - 📚 🔷 **[es617/claude-replay](https://github.com/es617/claude-replay)**  R:🟢 M:✅ — Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML  replays by es617 *(726 ⭐)*
 - 📄 🔷 **[KyleAMathews/claude-code-ui](https://github.com/KyleAMathews/claude-code-ui)** 🤖 R:🟡 M:🟠 — Claude Code session tracker UI with real-time updates via Durable Streams by KyleAMathews *(413 ⭐)*
@@ -827,6 +828,7 @@
 - 📄 🔷 **[phuryn/pm-skills](https://github.com/phuryn/pm-skills)** 🤖🧠 R:🟢 M:🟠 — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. by phuryn *(19.2k ⭐)*
 - 📄 ⭐ **[eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)** 🤖🖱️🧠🏄 R:🔴 M:🟠 — An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. by eyaltoledano *(27.6k ⭐)*
 - 🔄 ⭐ **[myrlin-workbook](https://github.com/therealarthur/myrlin-workbook)** 🤖 R:🔴 M:🟢 — Workspace manager for Claude Code sessions. Embedded terminals, project discovery, drag-and-drop organization. by therealarthur *(369 ⭐)*
+- 🧠 🔷 **[oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** 🤖🖱️🧠 R:🔴 M:🟢 — All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages by rlaope *(1.8k ⭐)*
 - 📚 ⭐ **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)**  R:🟢 M:🟠 — Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark. by op7418 *(2.7k ⭐)*
 - 🔌 🔷 **[homerail](https://github.com/xiaotianfotos/homerail)** 🤖 R:🔴 M:🟢 — Voice-first local agent orchestration runtime for auditable DAG workflows. by xiaotianfotos *(939 ⭐)*
 - 🧠 ⭐ **[centaur](https://github.com/paradigmxyz/centaur)** 🤖🧠 R:🔴 M:🟢 — Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. by paradigmxyz *(1.1k ⭐)*
@@ -959,6 +961,7 @@
 - 📚 🔷 **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)**  R:🟢 M:🟠 — Clone any website with one command using AI coding agents by JCodesMore *(17.1k ⭐)*
 - 🔄 🔷 **[modly](https://github.com/lightningpixel/modly)** 🤖 R:🟡 M:🟢 — Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU by lightningpixel *(5.9k ⭐)*
 - 🖱️ ⭐ **[nexent](https://github.com/ModelEngine-Group/nexent)** 🤖🖱️🧠 R:🔴 M:🟢 — Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes. by ModelEngine-Group *(5.5k ⭐)*
+- 🔌 🔷 **[infinite-canvas](https://github.com/tigerowo/infinite-canvas)** 🤖🧠 R:🔴 M:🟢 — 开源 AI 创作工作台，集成无限画布、Agent、导演台、全景图、AI 生图、图片编辑、视频生成、画布编排等，兼容 OpenAI 接口及多种 API 服务 by tigerowo *(820 ⭐)*
 - 🔌 🔷 **[superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)**  R:🟡 M:🟠 — 🦸 AI 编程超能力 · 中文增强版 — superpowers（99k+ ⭐）完整汉化 + 6 个中国原创 skills，让 OpenClaw / Claude Code / Cursor / Windsurf / Kiro / Gemini CLI 等 14 款 AI 编程工具真正会干活 by jnMetaCode *(5.5k ⭐)*
 - 🔄 🔷 **[patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)** 🤖 R:🔴 M:🟢 — 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 by handsomestWei *(5.5k ⭐)*
 - 🔄 ⭐ **[archify](https://github.com/tt-a1i/archify)** 🤖 R:🔴 M:🟢 — Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export by tt-a1i *(3.3k ⭐)*
