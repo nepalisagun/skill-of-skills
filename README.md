@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1324-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1325-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-264-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1324 skills** across 10 skill types · **264** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.8M ⭐. Platforms: 🤖 claude code: 1180 | 🧠 codex: 449 | 🔧 generic: 97 | 🖱️ cursor: 92 | 📟 cline: 10 | 🏄 windsurf: 6
+**1325 skills** across 10 skill types · **264** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.8M ⭐. Platforms: 🤖 claude code: 1180 | 🧠 codex: 449 | 🔧 generic: 98 | 🖱️ cursor: 92 | 📟 cline: 10 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 📝 🔷 **[mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)** 🔧 R:🔴 M:🟢 — Community plugin to control Blender 3D with any LLM of your choice by ahujasid *(28.7k ⭐)* — discovered Sep 16
 - 🔌 ⭐ **[linkedin-skills](https://github.com/sergebulaev/linkedin-skills)** 🤖🧠 R:🔴 M:🟢 — Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT. by sergebulaev *(2.4k ⭐)* — discovered Sep 15
 - 🧠 🔷 **[oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** 🤖🖱️🧠 R:🔴 M:🟢 — All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages by rlaope *(1.8k ⭐)* — discovered Sep 14
 - 🔌 🔷 **[infinite-canvas](https://github.com/tigerowo/infinite-canvas)** 🤖🧠 R:🔴 M:🟢 — 开源 AI 创作工作台，集成无限画布、Agent、导演台、全景图、AI 生图、图片编辑、视频生成、画布编排等，兼容 OpenAI 接口及多种 API 服务 by tigerowo *(820 ⭐)* — discovered Sep 14
 - 🔌 🔷 **[redai](https://github.com/kpolley/redai)** 🤖🧠 R:🔴 M:🟠 — AI-driven vulnerability discovery and live validation by kpolley *(341 ⭐)* — discovered Sep 14
-- 🔄 ⭐ **[airship](https://github.com/0xnyn/airship)** 🤖 R:🔴 M:🟢 — Figma like visual editor built for Claude Code, Codex and OpenCode by 0xnyn *(684 ⭐)* — discovered Sep 14
 
 ---
 
@@ -208,7 +208,7 @@
 - 🧠 🔷 **[adk-python](https://github.com/google/adk-python)** 🤖🧠 R:🟡 M:🟢 — An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. by google *(20.4k ⭐)*
 - 📚 🔷 **[Fabric](https://github.com/danielmiessler/Fabric)**  R:🟢 M:🟠 — Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. by danielmiessler *(42.4k ⭐)*
 - 🔗 🔷 **[agentcore-cli](https://github.com/aws/agentcore-cli)** 🤖🧠 R:🔴 M:🟢 — The terminal experience for AgentCore! by aws *(262 ⭐)*
-- 🧠 ⭐ **[gortex](https://github.com/zzet/gortex)** 🤖🧠 R:🔴 M:🟢 — High-performance code graph and code intelligence engine, supports 257 languages, multi repositories,  with access via CLI, MCP Server, and API.  Built for AI coding agents - expose only needed information, cutting token usage up to 50x. 100% local. by zzet *(536 ⭐)*
+- 🧠 ⭐ **[gortex](https://github.com/zzet/gortex)** 🤖🧠 R:🔴 M:🟠 — High-performance code graph and code intelligence engine, supports 257 languages, multi repositories,  with access via CLI, MCP Server, and API.  Built for AI coding agents - expose only needed information, cutting token usage up to 50x. 100% local. by zzet *(536 ⭐)*
 - 🔌 🔷 **[WrenAI](https://github.com/Canner/WrenAI)** 🤖🧠 R:🟡 M:🟢 — GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more. by Canner *(16.1k ⭐)*
 - 🧠 🔷 **[llama_index](https://github.com/run-llama/llama_index)** 🧠 R:🔴 M:🟢 — LlamaIndex is the leading document agent and OCR platform by run-llama *(50.4k ⭐)*
 - 🔄 🔷 **[genkit](https://github.com/genkit-ai/genkit)** 🤖 R:🔴 M:🟢 — Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google by genkit-ai *(6.4k ⭐)*
@@ -563,7 +563,7 @@
 - 📄 🔷 **[openclaw-claude-code](https://github.com/Enderfga/openclaw-claude-code)** 🤖 R:🔴 M:🟠 — Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support. by Enderfga *(508 ⭐)*
 - 📚 🔶 **[wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)**  R:🟢 M:🟠 — An open-source, AI-integrated, cross-platform terminal for seamless workflows by wavetermdev *(21.3k ⭐)*
 - 🖱️ 🔷 **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** 🤖🖱️ R:🔴 M:🟠 — The Typescript MCP Framework by QuantGeekDev *(922 ⭐)*
-- 📚 🔶 **[GLM-5](https://github.com/zai-org/GLM-5)** 🤖 R:🔴 M:🟢 — GLM-5: From Vibe Coding to Agentic Engineering by zai-org *(3.9k ⭐)*
+- 📚 🔶 **[GLM-5](https://github.com/zai-org/GLM-5)** 🤖 R:🔴 M:🟠 — GLM-5: From Vibe Coding to Agentic Engineering by zai-org *(3.9k ⭐)*
 - 📄 🔷 **[registry-broker-skills](https://github.com/hashgraph-online/registry-broker-skills)** 🤖 R:🟢 M:🟠 — AI agent skills for the Universal Registry - search, chat, and register 72,000+ agents across 14+ protocols. Works with Claude, Codex, Cursor, OpenClaw, and any AI assistant. by hashgraph-online *(350 ⭐)*
 - 📚 🔶 **[WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli)**  R:🟢 M:🟠 — 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信 by WecomTeam *(2.3k ⭐)*
 - 🔌 🔷 **[coderlm](https://github.com/JaredStewart/coderlm)**  R:🟡 M:🟠 — Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebases through targeted queries instead of loading everything into context. by JaredStewart *(284 ⭐)*
@@ -675,6 +675,7 @@
 - 🧠 ⭐ **[destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** 🤖🧠 R:🔴 M:🟢 — The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. by Dicklesworthstone *(2.3k ⭐)*
 - 📚 ⭐ **[multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun)**  R:⚫ M:🟠 — Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy. by yohey-w *(1.3k ⭐)*
 - 🖱️ ⭐ **[agent-inspect](https://github.com/rajudandigam/agent-inspect)** 🤖🖱️🧠 R:🔴 M:🟢 — Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence. by rajudandigam *(506 ⭐)*
+- 🔄 ⭐ **[airship](https://github.com/0xnyn/airship)** 🤖 R:🔴 M:🟢 — Figma like visual editor built for Claude Code, Codex and OpenCode by 0xnyn *(684 ⭐)*
 - 📄 ⭐ **[claude-hud](https://github.com/jarrodwatts/claude-hud)** 🤖 R:🟢 M:🟠 — A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress by jarrodwatts *(25.4k ⭐)*
 - 🖱️ ⭐ **[tau2-bench](https://github.com/sierra-research/tau2-bench)** 🖱️🧠 R:🔴 M:🟢 — τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains by sierra-research *(1.7k ⭐)*
 - 🔄 ⭐ **[nodeterm](https://github.com/eneskirca/nodeterm)** 🤖 R:🟡 M:🟢 — Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition. by eneskirca *(944 ⭐)*
@@ -730,7 +731,7 @@
 ## 📊 Data Fetching & Analysis
 
 - 📄 ⭐ **[last30days-skill](https://github.com/mvanhorn/last30days-skill)** 🤖 R:🟢 M:🟠 — Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts by mvanhorn *(43.8k ⭐)*
-- 🔌 ⭐ **[gbrain](https://github.com/garrytan/gbrain)** 🤖🧠 R:🔴 M:🟢 — Garry's Opinionated OpenClaw/Hermes Agent Brain by garrytan *(23.3k ⭐)*
+- 🔌 ⭐ **[gbrain](https://github.com/garrytan/gbrain)** 🤖🧠 R:🔴 M:🟠 — Garry's Opinionated OpenClaw/Hermes Agent Brain by garrytan *(23.3k ⭐)*
 - 🧠 ⭐ **[feynman](https://github.com/advaitpaliwal/feynman)** 🤖🧠 R:🔴 M:🟢 — The open source AI research agent. by advaitpaliwal *(8.9k ⭐)*
 - 🧠 ⭐ **[open-science](https://github.com/aipoch/open-science)** 🤖🧠 R:🔴 M:🟢 — Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance. by aipoch *(3.8k ⭐)*
 - 🔌 🔷 **[worldmonitor](https://github.com/koala73/worldmonitor)** 🤖🧠 R:🔴 M:🟢 — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface by koala73 *(85.1k ⭐)*
