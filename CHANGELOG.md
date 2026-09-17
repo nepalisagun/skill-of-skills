@@ -5,6 +5,52 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.0] - 2026-09-17
+
+### Added
+- **TypeSafe (`jev-latest`) shadow reranking for MCP search.** With
+  `TYPESAFE_RERANK=shadow` and an API key configured, every eligible search sends
+  its post-gate top 20 names/descriptions to TypeSafe under a 3-second, one-attempt
+  timeout and records the alternative ordering, confidence distribution,
+  `any_satisfies`, latency, status and token use in the new `rerank_shadow` table.
+  The blind evaluation passed its rollout gates (hit@1 +16.7 points, nDCG@10
+  +0.124, p95 154 ms, about $0.0001/query). This stage is observation-only:
+  **served results remain unchanged**, and all network/database failures are
+  fire-and-forget. Seven-day rollout stats are available on the existing
+  secret-gated pipeline-detail health endpoint.
+
+### Changed
+- **MCP discovery now excludes only critical-risk tools by default.** The former
+  blanket high/critical gate hid 159 of 305 relevant tools in a 60-query blind
+  evaluation; 79 of the 90 perfect (grade-2) results it dropped were high-risk,
+  while 334 of 492 high/critical active tools were flagged for shell-execution
+  markers alone. Replaying the judged queries with only critical risk excluded
+  raised hit@5 from 0.84 to 0.98. `search_skills` and `get_collection` now expose
+  `risk_filter` (`exclude_critical`, `exclude_high`, or `none`), keep the old
+  `include_high_risk=true` input as a deprecated alias for `none`, report excluded
+  high/critical counts, and continue returning risk level and reasons on every
+  result. The registry sub-feed uses the same centralized default policy.
+
+## [3.9.3] - 2026-09-17
+
+### Fixed
+- **Search recall: multi-term queries no longer return nothing.** Both the web search
+  (`/api/v1/search`, `/search`) and the MCP `search_skills` tool matched with
+  `plainto_tsquery`, which ANDs every term, so intent queries such as
+  "browser automation testing" returned zero rows unless one tool mentioned every
+  word. On the MCP surface 84% of real agent searches (1,457 of 1,744 events,
+  90% of distinct queries) had logged zero results. Search now tries all-terms
+  first and, only when that finds nothing, falls back to any-term matching built
+  from bound parameters (no tsquery syntax assembled from user text). Fallback
+  results are ordered by relevance (`ts_rank`) with composite score breaking ties;
+  all-terms results keep their existing ordering (web: relevance; MCP:
+  quality-first composite), now with a deterministic composite tiebreak.
+- Responses report the mode: web JSON gains `matchMode` (`all` | `any`) and the
+  search page shows a partial-match notice; MCP results carry `match_mode`, a
+  mode-specific `ranking` string and a note, and the telemetry event records
+  `match_mode` in `props` so the fallback rate can be measured from
+  `interaction_events`.
+
 ## [3.9.2] - 2026-07-14
 
 ### Changed
