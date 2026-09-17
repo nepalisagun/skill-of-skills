@@ -5,6 +5,19 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.11.0] - 2026-09-17
+
+### Changed
+- Marked all six MCP directory tools with read-only, non-destructive,
+  idempotent, closed-world annotations so supporting clients can skip approval
+  prompts for harmless lookups.
+- Added declared output schemas and schema-validated structured content to all
+  MCP tools while preserving the disclaimer-bearing text fallback for older
+  clients.
+- Upgraded to `mcp-handler` 2.1.1 and the split MCP server SDK v2, serving the
+  2026-07-28 protocol natively alongside stateless 2025-era initialize clients
+  from the same rate-limited, telemetry-aware handler.
+
 ## [3.10.0] - 2026-09-17
 
 ### Added
