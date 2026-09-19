@@ -6,9 +6,9 @@
 [![Curated tier](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fcurated)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1,400+ skills** across 9 skill types · **280+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,400+ skills** across 9 skill types · **270+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-19 21:25 UTC; the badges above are live)*
+*(counts as of 2026-09-19 22:47 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -369,7 +369,6 @@
 - 🧠 🔷 **[speech-to-speech](https://github.com/huggingface/speech-to-speech)** 🧠 R:🟢 M:🟢 — Build local voice agents with open-source models by huggingface *(5.2k ⭐)*
 - ⌨️ 🔷 **[fastmcp](https://github.com/jlowin/fastmcp)** 🤖 R:🟡 M:✅ — 🚀 The fast, Pythonic way to build MCP servers and clients by jlowin *(25.7k ⭐)*
 - 🔌 🔷 **[MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP)** 🤖 R:🟡 M:🟢 — Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system by jau123 *(1.5k ⭐)*
-- 🔄 🔷 **[algorithms](https://github.com/williamfiset/algorithms)** 🤖 R:🟢 M:🟢 — A collection of algorithms and data structures by williamfiset *(18.7k ⭐)*
 - 📚 🔷 **[nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw)**  R:🟡 M:🟠 — GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety. by nextlevelbuilder *(3.3k ⭐)*
 - 🔌 🔷 **[google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp)** 🤖 R:🟡 M:🟢 — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool by taylorwilsdon *(2.8k ⭐)*
 - 📚 🔷 **[mudler/LocalAI](https://github.com/mudler/LocalAI)**  R:🟡 M:🟠 — LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. by mudler *(46.9k ⭐)*
@@ -1030,7 +1029,6 @@
 - 🔌 ⭐ **[claude-code](https://github.com/timothywarner-org/claude-code)** 🤖🧠 R:🟡 M:🟠 — Claude Code and Large-Context Reasoning (O'Reilly Live Learning) by timothywarner-org *(220 ⭐)*
 - 📚 ⭐ **[calesthio/Crucix](https://github.com/calesthio/Crucix)**  R:🟡 M:🟠 — Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes. by calesthio *(10.3k ⭐)*
 - 🔌 🔷 **[spec-superflow](https://github.com/MageByte-Zero/spec-superflow)** 🤖🧠 R:🟡 M:🟢 — 源码级融合 OpenSpec 规划引擎 + Superpowers 执行纪律的 AI 编程工作流插件。17 平台支持，9 skills，Spec-first，契约驱动。 by MageByte-Zero *(808 ⭐)*
-- 🧠 ⭐ **[saas-foundation](https://github.com/srksourabh/saas-foundation)** 🤖🧠 R:🟡 M:🟢 — The world's best full-stack TypeScript SaaS foundation — scaffolded, secured, and documented in one command. Claude Code skill. Generates Next.js 16, tRPC, Drizzle ORM, auth, design system, CI/CD, Docker Compose, and 8 knowledge continuity files. by srksourabh *(3 ⭐)*
 - 📄 🔶 **[openai/plugins](https://github.com/openai/plugins)** 🤖🧠 R:🟢 M:🟠 — OpenAI Plugins by openai *(3.1k ⭐)*
 - 🧠 ⭐ **[DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** 🤖🧠 R:🔴 M:🟢 — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. by melgarafael *(324 ⭐)*
 - 📚 🔷 **[code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)**  R:🟡 M:🟠 — omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode by code-yeongyu *(62.5k ⭐)*
@@ -1329,6 +1327,7 @@
 - 📚 🔶 **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)**  R:🟢 M:🟠 — Tutorials, Guides and Agent Skills Directories by heilcheng *(5.6k ⭐)*
 - 📄 🔶 **[programing-best-practices](https://github.com/dereknguyen269/programing-best-practices)** 🤖 R:🟢 M:🟠 — Awesome Programming Best Practices for Beginners by dereknguyen269 *(661 ⭐)*
 - 📚 🔶 **[quemsah/awesome-claude-plugins](https://github.com/quemsah/awesome-claude-plugins)**  R:🟢 M:🟠 — Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows by quemsah *(858 ⭐)*
+- 📝 🔷 **[gitlab-code-review](https://github.com/avinashbest/gitlab-code-review)** 🤖 R:🟡 M:🟢 — Installable GitLab merge-request code-review skill for Cursor, Claude, Codex, Gemini, and Copilot workflows.  The repository itself is the skill. From a target repository root, invoke the runner directly with branch parameters. by avinashbest *(0 ⭐)*
 - 📚 🔶 **[chauncygu/collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code)**  R:🟢 M:🟠 — 🔥 A collection of the newest Claude Code open source by chauncygu *(2.6k ⭐)*
 - 📚 🔶 **[fleurytian/awesome-claude-skills](https://github.com/fleurytian/awesome-claude-skills)**  R:🟢 M:🟠 — Claude Skills developed for brain-workers. Dev by Fleury, an Ex-McKinsey and now AI product manager. 小红书/RedNote@如宝｜AI&Anlalytics. Email me @fleurytian@gmail.com by fleurytian *(294 ⭐)*
 - 📚 🔶 **[new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills)**  R:🟡 M:🟠 — A collection of standardized Agent Skills to teach GitHub Copilot, Claude, Gemini and Cursor about modern Android development (Kotlin, Jetpack Compose, etc.). by new-silvermoon *(854 ⭐)*
