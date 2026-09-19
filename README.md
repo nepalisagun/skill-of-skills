@@ -6,9 +6,9 @@
 [![Curated tier](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fcurated)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1,300+ skills** across 9 skill types · **270+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15,200,000+ ⭐.
+**1,300+ skills** across 9 skill types · **270+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-19 14:58 UTC; the badges above are live)*
+*(counts as of 2026-09-19 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -289,6 +289,7 @@
 - 🧠 ⭐ **[mcpvault](https://github.com/bitbonsai/mcpvault)** 🤖🧠 R:🟡 M:🟠 — A lightweight Model Context Protocol (MCP) server for safe Obsidian vault access by bitbonsai *(1.4k ⭐)*
 - 🧠 🔷 **[CodexBar](https://github.com/steipete/CodexBar)** 🤖🧠 R:🟡 M:🟢 — Show usage stats for OpenAI Codex and Claude Code, without having to login. by steipete *(16k ⭐)*
 - 🔌 🔷 **[apple-skills](https://github.com/Prisma-Labs-Dev/apple-skills)** 🤖🧠 R:🟢 M:🟢 — Apple development skills for Claude Code and Codex — latest iOS 26+ APIs, SwiftUI, Liquid Glass, and more by Prisma-Labs-Dev *(331 ⭐)*
+- 🔌 🔷 **[railway-skills](https://github.com/railwayapp/railway-skills)** 🤖🧠 R:🟡 M:🟢 — Agent skills for interacting with Railway by railwayapp *(325 ⭐)*
 - 📚 🔷 **[onyx](https://github.com/onyx-dot-app/onyx)**  R:🟡 M:🟠 — Open Source AI Platform - AI Chat with advanced features that works with every LLM by onyx-dot-app *(30.4k ⭐)*
 - 📄 ⭐ **[hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)** 🧠 R:🟡 M:🟠 — The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development. by hashicorp *(1.4k ⭐)*
 - 📚 ⭐ **[ht-mcp](https://github.com/memextech/ht-mcp)**  R:🟡 M:🟠 — Pure Rust implementation of MCP server for headless terminal by memextech *(212 ⭐)*
