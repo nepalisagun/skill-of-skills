@@ -5,6 +5,40 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.12.1] - 2026-09-19
+
+### Changed
+- Demand-row triage now runs on the categorization escalation model (Sonnet) instead of
+  Haiku, and every triage verdict persists its confidence to `tools.relevance_confidence`
+  and logs it as a structured field. The first real demand run admitted a SaaS boilerplate
+  that markets itself as an "AI-agent skill"; the triage prompt now judges a product by what
+  it is, not by what it calls itself.
+
+### Fixed
+- A definitive triage decline is now classified permanent before any keyword test. The
+  failure classifier substring-matched the error message for words like `network` and
+  `timeout`, and a decline's message embeds the model's reasoning, so a repo declined as "a
+  network monitoring tool" would have been retried as transient and then recorded under a
+  prefix the demand ROI query never counted. The ROI query also tolerates that prefix now.
+
+## [3.12.0] - 2026-09-19
+
+### Added
+- Demand-driven discovery now converts low-satisfaction search observations into
+  bounded, attributable `adaptive_query` intake: 12 original queries, 24 GitHub
+  searches, 24 queued repositories, and two repositories per query per daily run.
+- The private pipeline-detail endpoint now reports a reconciled seven-day demand
+  queue cohort; operators can read it with `scripts/demand-discovery-roi.mjs`.
+- Added default-off policy and independent schedule kill switches, private run
+  logging, overlap protection, and one-command policy toggling.
+
+### Changed
+- Exactly labelled non-vendor demand rows may bypass the unchanged 200-star
+  floor, but must pass Tier 2 AI triage regardless of stars or Tier 1 markers.
+  Demand inference is capped at 10 attempts per drain/preview and one per
+  ingest-one; overflow remains pending. The preview remains read-only and WF05's
+  production drain limits, priority order, and 30-minute cadence are unchanged.
+
 ## [3.11.0] - 2026-09-17
 
 ### Changed
