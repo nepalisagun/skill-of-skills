@@ -8,7 +8,7 @@
 
 **1,300+ skills** across 10 skill types · **270+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 17,700,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-20 12:25 UTC; the badges above are live)*
+*(counts as of 2026-09-20 13:29 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔌 ⭐ **[deja-vu](https://github.com/vshulcz/deja-vu)** 🤖 R:🟡 M:🟢 — One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. by vshulcz *(878 ⭐)* — discovered Sep 20
+- 🧠 ⭐ **[OpenCreator](https://github.com/krillinai/OpenCreator)** 🤖🧠 R:🟡 M:🟢 — Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place. by krillinai *(11.9k ⭐)* — discovered Sep 20
+- 🔄 🔷 **[mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** 🔧 R:🟡 M:🟢 — No description by cloudflare *(4.3k ⭐)* — discovered Sep 20
 - 🔄 🔶 **[puppeteer-mcp-server](https://github.com/merajmehrabi/puppeteer-mcp-server)** 🔧 R:🟡 M:🔴 — This MCP server provides browser automation capabilities through Puppeteer, allowing interaction with both new browser instances and existing Chrome windows. by merajmehrabi *(484 ⭐)* — discovered Sep 19
 - 🔌 ⭐ **[gcx](https://github.com/grafana/gcx)** 🤖🧠 R:🔴 M:🟢 — A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage. by grafana *(707 ⭐)* — discovered Sep 19
-- 🔌 🔷 **[tunnel-client](https://github.com/openai/tunnel-client)** 🤖🧠 R:🟡 M:🟢 — Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet. by openai *(437 ⭐)* — discovered Sep 19
-- 🔌 🔷 **[yichen-skills](https://github.com/mcncarl/yichen-skills)** 🤖 R:🟡 M:🟢 — No description by mcncarl *(3.9k ⭐)* — discovered Sep 19
-- 📄 🔷 **[chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill)** 🤖 R:🟢 M:🟢 — 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel writing skill by PenglongHuang *(3.1k ⭐)* — discovered Sep 19
 
 ---
 
@@ -197,6 +197,7 @@
 - 🔗 🔷 **[XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** 🤖🖱️🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. by getsentry *(6.4k ⭐)*
 - 🔌 🔷 **[memsearch](https://github.com/zilliztech/memsearch)** 🤖 R:🟡 M:🟢 — A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw. by zilliztech *(2.6k ⭐)*
 - 📄 ⭐ **[browserbase/skills](https://github.com/browserbase/skills)** 🤖 R:🟡 M:🟢 — Browserbase's official collection of agent skills to access the web. by browserbase *(3.7k ⭐)*
+- 🔌 🔷 **[tunnel-client](https://github.com/openai/tunnel-client)** 🤖🧠 R:🟡 M:🟢 — Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet. by openai *(437 ⭐)*
 - 📚 🔷 **[browser-use](https://github.com/browser-use/browser-use)** 🤖🧠 R:🔴 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(115.4k ⭐)*
 - 🧠 🔷 **[CodexBar](https://github.com/steipete/CodexBar)** 🤖🧠 R:🟡 M:🟢 — Show usage stats for OpenAI Codex and Claude Code, without having to login. by steipete *(21.7k ⭐)*
 - 📄 🔷 **[vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)** 🤖🧠 R:🟡 M:🟢 — Bash for Agents by vercel-labs *(4.3k ⭐)*
@@ -899,6 +900,7 @@
 - 📄 ⭐ **[phodal/routa](https://github.com/phodal/routa)** 🤖🧠 R:🔴 M:🟢 — Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop. by phodal *(1.8k ⭐)*
 - 🔄 🔷 **[swarm-forge](https://github.com/unclebob/swarm-forge)** 🔧 R:🟡 M:🟢 — A simple tool for coordinating several AI agents. by unclebob *(3.9k ⭐)*
 - 📄 🔷 **[kimaki](https://github.com/remorses/kimaki)** 🤖🧠 R:🟡 M:🟢 — all opencode features deeply integrated inside Discord. each project is a channel. each session a thread by remorses *(1.4k ⭐)*
+- 🔌 🔷 **[yichen-skills](https://github.com/mcncarl/yichen-skills)** 🤖 R:🟡 M:🟢 — No description by mcncarl *(3.9k ⭐)*
 - 🧠 ⭐ **[Synapse](https://github.com/zai-org/Synapse)** 🤖🧠 R:🟡 M:🟢 — Self-hosted AI workspace with shareable AI teammates, shared conversations, memory, and governed access to plugins, MCP tools, and local devices. by zai-org *(512 ⭐)*
 - 📄 🔷 **[dr-claw](https://github.com/OpenLAIR/dr-claw)** 🤖🧠 R:🟡 M:🟢 — A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power.  by OpenLAIR *(1.1k ⭐)*
 - 🧠 🔷 **[nakama](https://github.com/ahmadrosid/nakama)** 🤖🧠 R:🔴 M:🟢 — It's like Hermes Agent & OpenClaw but designed to work nicely with teams. by ahmadrosid *(395 ⭐)*
@@ -1121,6 +1123,7 @@
 - 📚 🔷 **[zhu1090093659/spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop)** 🤖🧠 R:🟡 M:🟢 — Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents. by zhu1090093659 *(977 ⭐)*
 - 📚 🔷 **[plandex](https://github.com/plandex-ai/plandex)** 🔧 R:🔴 M:✅ — Open source AI coding agent. Designed for large projects and real world tasks. by plandex-ai *(15.6k ⭐)*
 - 📚 🔷 **[Mizoreww/awesome-claude-code-config](https://github.com/Mizoreww/awesome-agent-config)** 🤖🧠 R:🟡 M:🟢 — Production-ready Claude Code configuration with self-improvement loop, multi-language rules, MCP integrations, and custom skills by Mizoreww *(259 ⭐)*
+- 📄 🔷 **[chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill)** 🤖 R:🟢 M:🟢 — 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel writing skill by PenglongHuang *(3.1k ⭐)*
 - 🧠 ⭐ **[Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3)** 🧠 R:🟢 M:🟢 — Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP by beihaili *(616 ⭐)*
 - 📄 🔶 **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** 🤖 R:🟢 M:🟢 — Skills for Design Engineers by ibelick *(8.7k ⭐)*
 - 📚 🔶 **[VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)** 🤖 R:🟡 M:🟢 — A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases by VoltAgent *(25.2k ⭐)*
@@ -1482,7 +1485,9 @@
 - 🔄 🔷 **[embabel-agent](https://github.com/embabel/embabel-agent)** 🤖 R:🟢 M:🟢 — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ by embabel *(4.5k ⭐)*
 - 📚 🔷 **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** 🤖 R:🔴 M:🟢 — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration by OpenBMB *(34.3k ⭐)*
 - 🔌 🔷 **[MetaGPT](https://github.com/FoundationAgents/MetaGPT)** 🤖 R:🔴 M:✅ — 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming by FoundationAgents *(70.5k ⭐)*
+- 🧠 ⭐ **[Albatross](https://github.com/morganlinton/Albatross)** 🤖🧠 R:🔴 M:🟢 — Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box. by morganlinton *(228 ⭐)*
 - 📚 🔷 **[AutoAgent](https://github.com/HKUDS/AutoAgent)** 🧠 R:🟡 M:🟠 — "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" by HKUDS *(9.8k ⭐)*
+- 📝 🔷 **[mindfs](https://github.com/a9gent/mindfs)** 🔧 R:🟡 M:🟢 — Access your personal AI agents and workstation data anywhere, anytime through MindFS. by a9gent *(1.8k ⭐)*
 
 ---
 
