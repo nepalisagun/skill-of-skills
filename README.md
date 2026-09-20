@@ -8,7 +8,7 @@
 
 **1,300+ skills** across 10 skill types · **270+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 17,700,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-20 18:25 UTC; the badges above are live)*
+*(counts as of 2026-09-20 21:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔌 ⭐ **[claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix)** 🤖 R:🟡 M:🟢 — Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable knowledge. by oliver-kriska *(555 ⭐)* — discovered Sep 20
 - 🔌 ⭐ **[deja-vu](https://github.com/vshulcz/deja-vu)** 🤖 R:🟡 M:🟢 — One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. by vshulcz *(878 ⭐)* — discovered Sep 20
 - 🧠 ⭐ **[OpenCreator](https://github.com/krillinai/OpenCreator)** 🤖🧠 R:🟡 M:🟢 — Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place. by krillinai *(11.9k ⭐)* — discovered Sep 20
 - 🔄 🔷 **[mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** 🔧 R:🟡 M:🟢 — No description by cloudflare *(4.3k ⭐)* — discovered Sep 20
 - 🔄 🔶 **[puppeteer-mcp-server](https://github.com/merajmehrabi/puppeteer-mcp-server)** 🔧 R:🟡 M:🔴 — This MCP server provides browser automation capabilities through Puppeteer, allowing interaction with both new browser instances and existing Chrome windows. by merajmehrabi *(484 ⭐)* — discovered Sep 19
-- 🔌 ⭐ **[gcx](https://github.com/grafana/gcx)** 🤖🧠 R:🔴 M:🟢 — A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage. by grafana *(707 ⭐)* — discovered Sep 19
 
 ---
 
@@ -479,6 +479,7 @@
 - 🔌 🔷 **[CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit)** 🤖 R:🔴 M:🟢 — CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. by TencentCloudBase *(1.1k ⭐)*
 - 📚 🔷 **[AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** 🔧 R:🔴 M:🟠 — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search by SakanaAI *(7.2k ⭐)*
 - 📄 🔷 **[statewright/statewright](https://github.com/statewright/statewright)** 🤖 R:🟡 M:🟢 — State machine guardrails for AI agents by statewright *(493 ⭐)*
+- 🔌 ⭐ **[gcx](https://github.com/grafana/gcx)** 🤖🧠 R:🔴 M:🟢 — A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage. by grafana *(707 ⭐)*
 - 📄 🔷 **[tombi-toml/tombi](https://github.com/tombi-toml/tombi)** 🤖🧠 R:🟡 M:🟢 — TOML Formatter / Linter / Language Server by tombi-toml *(1.1k ⭐)*
 - 🔗 🔷 **[v10](https://github.com/videojs/v10)** 🤖🔧 R:🟢 M:🟢 — Technical preview of Video.js v10 - open source media player framework for Web and React. by videojs *(946 ⭐)*
 - 📚 🔷 **[golutra/golutra](https://github.com/golutra/golutra)** 🔧 R:🔴 M:🟢 — Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace. by golutra *(3.8k ⭐)*
