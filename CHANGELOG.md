@@ -5,6 +5,15 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.12.2] - 2026-09-20
+
+### Changed
+- The demand-discovery star exemption is off by default and now off in production. Every
+  intake source faces the same 200-star floor; reputation is the bar. The demand loop, its
+  attribution, the ROI query and the daily run remain as the mechanism by which a niche
+  repository that later earns its stars is caught.
+- The seven demand-sourced tools admitted below 200 stars were retired, reversibly.
+
 ## [3.12.1] - 2026-09-19
 
 ### Changed
