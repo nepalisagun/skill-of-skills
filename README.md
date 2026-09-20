@@ -1158,7 +1158,6 @@
 - 📚 🔷 **[ghostwright/ghost-os](https://github.com/ghostwright/ghost-os)**  R:⚫ M:🟠 — Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required. by ghostwright *(1.5k ⭐)*
 - 🖱️ 🔷 **[CADAM](https://github.com/Adam-CAD/CADAM)** 🖱️ R:🟢 M:🟠 — CADAM is the open source text-to-CAD web application by Adam-CAD *(4.1k ⭐)*
 - 📄 🔷 **[quiknode-labs/qn-guide-examples](https://github.com/quiknode-labs/qn-guide-examples)** 🤖 R:🟡 M:🟠 — A collection of example applications from QuickNode's Technical Guides by quiknode-labs *(262 ⭐)*
-- 📚 🔷 **[mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer)**  R:🟡 M:🟠 — Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups. by mcpware *(340 ⭐)*
 - 📄 🔷 **[sdk-generator](https://github.com/appwrite/sdk-generator)** 🤖🧠 R:🟡 M:🟠 — Generating SDKs for multiple programming languages and platforms ⚙️ by appwrite *(320 ⭐)*
 - 📄 🔷 **[wiseflow](https://github.com/TeamWiseFlow/xiaobei)** 🤖🧠 R:🟡 M:🟠 — 为所有人准备的AI搞钱团队，帮你把经验和方法跑成一门生意。 by TeamWiseFlow *(8.3k ⭐)*
 - 📚 🔷 **[penso/arbor](https://github.com/penso/arbor)**  R:🟡 M:🟠 — Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs. by penso *(760 ⭐)*
