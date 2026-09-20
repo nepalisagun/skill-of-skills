@@ -518,7 +518,6 @@
 - 🖱️ 🔷 **[workflow](https://github.com/vercel/workflow)** 🤖🖱️🧠 R:🟢 M:🟠 — Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript by vercel *(2.1k ⭐)*
 - 📄 🔷 **[vinhnx/VTCode](https://github.com/vinhnx/VTCode)** 🤖🧠 R:🟡 M:🟠 — VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. by vinhnx *(697 ⭐)*
 - 🔌 🔷 **[butterbase-skills](https://github.com/butterbase-ai/butterbase-skills)** 🤖 R:🟢 M:🟢 — Plugin for Butterbase.ai by butterbase-ai *(533 ⭐)*
-- 📚 🔷 **[vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts)**  R:🟡 M:🟠 — MCP Fusion - The TypeScript framework for secure MCP servers. by vinkius-labs *(253 ⭐)*
 - 🔌 🔷 **[dotai](https://github.com/udecode/dotai)** 🤖 R:🟡 M:🟠 — Context manager for all agents by udecode *(1.2k ⭐)*
 - 🔄 🔷 **[Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)** 🤖 R:🟢 M:🟠 — Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. by yifanfeng97 *(1.8k ⭐)*
 - 🔄 🔷 **[PhoneClaw](https://github.com/kellyvv/PhoneClaw)** 🤖 R:🟡 M:🟢 — Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference by kellyvv *(1.1k ⭐)*
