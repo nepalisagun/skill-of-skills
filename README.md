@@ -8,7 +8,7 @@
 
 **1,300+ skills** across 10 skill types · **290+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 17,800,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-21 15:25 UTC; the badges above are live)*
+*(counts as of 2026-09-21 18:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -58,9 +58,9 @@
 > Quality-gated momentum — what's genuinely gaining traction right now.
 
 - 🔥 📄 ⭐ **[affaan-m/ECC](https://github.com/affaan-m/ECC)** 🤖🖱️🧠 R:🟡 M:🟢 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. by affaan-m *(264.0k ⭐)*
-- 🔥 🧠 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** 🤖🧠 R:🟡 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(231.6k ⭐)*
 - 🔥 🔌 ⭐ **[superpowers](https://github.com/obra/superpowers)** 🤖🧠 R:🟡 M:🟢 — An agentic skills framework & software development methodology that works. by obra *(289.4k ⭐)*
 - 🔥 📚 🔷 **[mattpocock/skills](https://github.com/mattpocock/skills)** 🤖🧠 R:🟢 M:🟢 — Skills for Real Engineers. Straight from my .claude directory. by mattpocock *(266.6k ⭐)*
+- 🔥 🧠 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** 🤖🧠 R:🟡 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(231.6k ⭐)*
 - 🔥 🔌 ⭐ **[ponytail](https://github.com/DietrichGebert/ponytail)** 🤖🖱️🧠📟 R:🟡 M:🟢 — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. by DietrichGebert *(143.3k ⭐)*
 - 🔥 📄 🔷 **[earendil-works/pi](https://github.com/earendil-works/pi)** 🤖🧠 R:🟡 M:🟢 — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI by earendil-works *(107.9k ⭐)*
 - 🔥 🔄 ⭐ **[archify](https://github.com/tt-a1i/archify)** 🤖 R:🟢 M:🟢 — Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export by tt-a1i *(68.5k ⭐)*
