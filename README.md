@@ -8,7 +8,7 @@
 
 **1,300+ skills** across 10 skill types · **270+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 17,700,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-21 00:25 UTC; the badges above are live)*
+*(counts as of 2026-09-21 03:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
