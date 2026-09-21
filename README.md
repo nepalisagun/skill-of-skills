@@ -8,7 +8,7 @@
 
 **1,300+ skills** across 10 skill types · **290+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 17,800,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-21 12:25 UTC; the badges above are live)*
+*(counts as of 2026-09-21 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
-- 🔌 ⭐ **[pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills)** 🤖🧠 R:🟡 M:🟢 — 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'. by mohitagw15856 *(1.4k ⭐)* — discovered Sep 21
+- 🧠 🔷 **[easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent)** 🤖🧠 R:🟡 M:🟢 — 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP. by zhoushoujianwork *(494 ⭐)* — discovered Sep 21
+- 🧠 🔷 **[PanWatch](https://github.com/TNT-Likely/PanWatch)** 🧠 R:🟡 M:🟢 — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 by TNT-Likely *(1.1k ⭐)* — discovered Sep 21
+- 🔄 🔷 **[thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** 🔧 R:🟡 M:🟢 — Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light by Jakubantalik *(3.1k ⭐)* — discovered Sep 21
 - 🔄 🔷 **[hass-mcp](https://github.com/voska/hass-mcp)** 🔧 R:🟡 M:🟢 — Control and query Home Assistant from Claude and other LLMs — a Model Context Protocol (MCP) server. by voska *(345 ⭐)* — discovered Sep 21
-- 🔌 ⭐ **[claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix)** 🤖 R:🟡 M:🟢 — Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable knowledge. by oliver-kriska *(556 ⭐)* — discovered Sep 20
-- 🔌 ⭐ **[deja-vu](https://github.com/vshulcz/deja-vu)** 🤖 R:🟡 M:🟢 — One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. by vshulcz *(904 ⭐)* — discovered Sep 20
-- 🧠 ⭐ **[OpenCreator](https://github.com/krillinai/OpenCreator)** 🤖🧠 R:🟡 M:🟢 — Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place. by krillinai *(12k ⭐)* — discovered Sep 20
+- 🔌 ⭐ **[pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills)** 🤖🧠 R:🟡 M:🟢 — 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'. by mohitagw15856 *(1.4k ⭐)* — discovered Sep 21
 
 ---
 
@@ -585,7 +585,7 @@
 - 📚 🔷 **[milisp/mcp-linker](https://github.com/milisp/mcp-linker)** 🔧 R:🟡 M:🟢 — mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡mcphub by milisp *(326 ⭐)*
 - 🔄 🔷 **[sigcli](https://github.com/sigcli/sigcli)** 🤖 R:🔴 M:🟢 — The authentication CLI & Proxy for AI agents. Give agents access, not your credentials. by sigcli *(293 ⭐)*
 - 📚 🔷 **[starship/starship](https://github.com/starship/starship)** 🔧 R:🟢 M:🟢 — ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! by starship *(60k ⭐)*
-- 🧠 🔶 **[12-factor-agents](https://github.com/humanlayer/12-factor-agents)** 🤖🧠 R:🟢 M:🟠 — What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? by humanlayer *(26.3k ⭐)*
+- 🧠 🔶 **[12-factor-agents](https://github.com/humanlayer/12-factor-agents)** 🤖🧠 R:🟢 M:🔴 — What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? by humanlayer *(26.3k ⭐)*
 - 📚 🔶 **[microsoft/BitNet](https://github.com/microsoft/BitNet)** 🔧 R:🟢 M:🟢 — Official inference framework for 1-bit LLMs by microsoft *(40.3k ⭐)*
 - ⌨️ 🔷 **[webperf-snippets](https://github.com/nucliweb/webperf-snippets)** 🤖 R:🟡 M:🟢 — ⚡️ 💾  Web Performance Snippets by nucliweb *(1.4k ⭐)*
 - 📚 🔶 **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** 🤖 R:🟡 M:🟢 — Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open by pasky *(3.3k ⭐)*
@@ -1484,8 +1484,11 @@
 - 🧠 ⭐ **[Albatross](https://github.com/morganlinton/Albatross)** 🤖🧠 R:🔴 M:🟢 — Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box. by morganlinton *(228 ⭐)*
 - 📚 🔷 **[simstudioai/sim](https://github.com/simstudioai/sim)** 🤖🖱️🧠 R:🔴 M:🟢 — Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. by simstudioai *(29.7k ⭐)*
 - 🔌 🔷 **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** 🤖🧠 R:🟡 M:🟢 — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference by NVIDIA *(22.5k ⭐)*
+- 🧠 ⭐ **[OpenCreator](https://github.com/krillinai/OpenCreator)** 🤖🧠 R:🟡 M:🟢 — Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place. by krillinai *(12k ⭐)*
 - 📚 🔷 **[AutoAgent](https://github.com/HKUDS/AutoAgent)** 🧠 R:🟡 M:🟠 — "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" by HKUDS *(9.8k ⭐)*
 - 🔌 🔷 **[MetaGPT](https://github.com/FoundationAgents/MetaGPT)** 🤖 R:🔴 M:✅ — 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming by FoundationAgents *(70.5k ⭐)*
+- 🔌 ⭐ **[claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix)** 🤖 R:🟡 M:🟢 — Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable knowledge. by oliver-kriska *(556 ⭐)*
+- 🔌 ⭐ **[deja-vu](https://github.com/vshulcz/deja-vu)** 🤖 R:🟡 M:🟢 — One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. by vshulcz *(904 ⭐)*
 - 📚 🔷 **[cft0808/edict](https://github.com/cft0808/edict)** 🔧 R:🔴 M:🟢 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails by cft0808 *(16.9k ⭐)*
 - 📚 🔷 **[crewAI](https://github.com/crewAIInc/crewAI)** 🧠 R:🟡 M:🟢 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. by crewAIInc *(58.8k ⭐)*
 - 📝 🔷 **[mindfs](https://github.com/a9gent/mindfs)** 🔧 R:🟡 M:🟢 — Access your personal AI agents and workstation data anywhere, anytime through MindFS. by a9gent *(1.8k ⭐)*
