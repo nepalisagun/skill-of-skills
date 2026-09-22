@@ -8,7 +8,7 @@
 
 **1,300+ skills** across 10 skill types · **310+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 17,800,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-22 06:25 UTC; the badges above are live)*
+*(counts as of 2026-09-22 09:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
-- 🧠 🔷 **[Chanakya-Local-Friend](https://github.com/samosa-ai-com/Chanakya-Local-Friend)** 🧠 R:🟡 M:🟢 — Chanakya is an advanced, open-source, and self-hostable voice assistant designed for privacy, power, and flexibility. It leverages local AI/ML models to ensure your data stays with you. It Integrates with 1000+ third-party MCP servers including Home Assistant. by samosa-ai-com *(213 ⭐)* — discovered Sep 22
+- 🧠 ⭐ **[pdd](https://github.com/promptdriven/pdd)** 🤖🧠 R:🟡 M:🟢 — Prompt Driven Development (PDD): The Last Programming Language™. Prompt files are source; code is generated output. by promptdriven *(877 ⭐)* — discovered Sep 22
 - 🧠 🔶 **[project-nova](https://github.com/dujonwalker/project-nova)** 🧠 R:🟡 M:🟠 — A multi-agent AI architecture that connects 25+ specialized agents through n8n and MCP servers. Project NOVA routes requests to domain-specific experts, enabling control of applications from knowledge bases to DAWs, home automation to development tools. Includes system prompts, Dockerfiles, and workflows for a complete AI assistant ecosystem. by dujonwalker *(270 ⭐)* — discovered Sep 22
+- 🧠 🔷 **[Chanakya-Local-Friend](https://github.com/samosa-ai-com/Chanakya-Local-Friend)** 🧠 R:🟡 M:🟢 — Chanakya is an advanced, open-source, and self-hostable voice assistant designed for privacy, power, and flexibility. It leverages local AI/ML models to ensure your data stays with you. It Integrates with 1000+ third-party MCP servers including Home Assistant. by samosa-ai-com *(213 ⭐)* — discovered Sep 22
 - 🔌 🔷 **[newsjack](https://github.com/elvisun/newsjack)** 🤖🧠 R:🟡 M:🟢 — The open-source skills that turn your agent into a full PR team. by elvisun *(1.3k ⭐)* — discovered Sep 22
 - 🔌 🔷 **[foremerge](https://github.com/naw103/foremerge)** 🤖🖱️ R:🟡 M:🟢 — Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git. by naw103 *(462 ⭐)* — discovered Sep 21
-- 🧠 🔷 **[easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent)** 🤖🧠 R:🟡 M:🟢 — 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP. by zhoushoujianwork *(502 ⭐)* — discovered Sep 21
 
 ---
 
@@ -1487,6 +1487,7 @@
 - ⌨️ 🔷 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** 🤖 R:🔴 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(39.3k ⭐)*
 - 📄 🔷 **[kyegomez/swarms](https://github.com/kyegomez/swarms)** 🤖🧠 R:🔴 M:🟢 — The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai by kyegomez *(7.2k ⭐)*
 - 📄 🔷 **[VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)** 🤖🖱️🧠 R:🟡 M:🟢 — AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework by VoltAgent *(10.7k ⭐)*
+- 🧠 🔷 **[easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent)** 🤖🧠 R:🟡 M:🟢 — 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP. by zhoushoujianwork *(502 ⭐)*
 - 🔌 ⭐ **[pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills)** 🤖🧠 R:🟡 M:🟢 — 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'. by mohitagw15856 *(1.4k ⭐)*
 - 📚 🔷 **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** 🤖 R:🔴 M:🟢 — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration by OpenBMB *(34.4k ⭐)*
 - 📚 🔷 **[cft0808/edict](https://github.com/cft0808/edict)** 🔧 R:🔴 M:🟢 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails by cft0808 *(16.9k ⭐)*
