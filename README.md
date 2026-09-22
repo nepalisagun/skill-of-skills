@@ -695,7 +695,6 @@
 - 📄 🔶 **[qwen3_tts_rs](https://github.com/second-state/qwen3_tts_rs)** 🤖 R:🟡 M:✅ — A Rust implementation of the Qwen3 Text-to-Speech (TTS) model inference. by second-state *(233 ⭐)*
 - 📄 🔶 **[run-llama/agentfs-claude](https://github.com/run-llama/agentfs-claude)** 🧠 R:🟡 M:🟠 — Run Claude Code/Codex within AgentFS, orchestrated by LlamaIndex Workflows by run-llama *(325 ⭐)*
 - 📚 🔶 **[kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server)** 🔧 R:🟡 M:🔴 — Example of an MCP server with custom tools that can be called directly from cursor by kleneway *(338 ⭐)*
-- 📚 🔶 **[Infatoshi/OpenSquirrel](https://github.com/Infatoshi/OpenSquirrel)**  R:🟡 M:🟠 — For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it. by Infatoshi *(1.4k ⭐)*
 - 🔄 🔶 **[agent.exe](https://github.com/corbt/agent.exe)** 🔧 R:🟡 M:🔴 — No description by corbt *(3.5k ⭐)*
 - 📄 🔶 **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** 🔧 R:🔴 M:🟢 — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. by aattaran *(2.3k ⭐)*
 - 🔗 🔶 **[alfanous](https://github.com/Alfanous-team/alfanous)** 🔧 R:🟢 M:✅ — Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces... by Alfanous-team *(289 ⭐)*
