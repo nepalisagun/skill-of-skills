@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **330+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 17,900,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-23 09:25 UTC; the badges above are live)*
+*(counts as of 2026-09-23 12:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -57,8 +57,8 @@
 
 > Quality-gated momentum — what's genuinely gaining traction right now.
 
-- 🔥 🧠 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** 🤖🧠 R:🟡 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(233.6k ⭐)*
 - 🔥 📄 ⭐ **[affaan-m/ECC](https://github.com/affaan-m/ECC)** 🤖🖱️🧠 R:🟡 M:🟢 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. by affaan-m *(265.5k ⭐)*
+- 🔥 🧠 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** 🤖🧠 R:🟡 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(233.6k ⭐)*
 - 🔥 📚 🔷 **[mattpocock/skills](https://github.com/mattpocock/skills)** 🤖🧠 R:🟢 M:🟢 — Skills for Real Engineers. Straight from my .claude directory. by mattpocock *(267.9k ⭐)*
 - 🔥 🔌 ⭐ **[superpowers](https://github.com/obra/superpowers)** 🤖🧠 R:🟡 M:🟢 — An agentic skills framework & software development methodology that works. by obra *(290.3k ⭐)*
 - 🔥 🔌 ⭐ **[ponytail](https://github.com/DietrichGebert/ponytail)** 🤖🖱️🧠📟 R:🟡 M:🟢 — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. by DietrichGebert *(144.5k ⭐)*
