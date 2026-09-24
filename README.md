@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **340+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 17,900,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-24 09:25 UTC; the badges above are live)*
+*(counts as of 2026-09-24 12:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -582,7 +582,7 @@
 - 📄 🔷 **[lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust)** 🤖🧠 R:🟡 M:🟠 — 🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary by lorryjovens-hub *(1.7k ⭐)*
 - 🔄 🔷 **[homebridge-eufy](https://github.com/homebridge-plugins/homebridge-eufy)** 🤖 R:🟡 M:🟢 — Homebridge plugin to control certain Anker Eufy devices by homebridge-plugins *(222 ⭐)*
 - 📚 🔷 **[airweave](https://github.com/airweave-ai/airweave)** 🤖🖱️ R:🟡 M:✅ — Open-source context retrieval layer for AI agents by airweave-ai *(6.6k ⭐)*
-- 📚 🔷 **[chandra](https://github.com/datalab-to/chandra)** 🔧 R:🟢 M:🟢 — OCR model that handles complex tables, forms, handwriting with full layout. by datalab-to *(12.3k ⭐)*
+- 📚 🔷 **[chandra](https://github.com/datalab-to/chandra)** 🔧 R:🟢 M:✅ — OCR model that handles complex tables, forms, handwriting with full layout. by datalab-to *(12.3k ⭐)*
 - 📚 🔶 **[microsoft/BitNet](https://github.com/microsoft/BitNet)** 🔧 R:🟢 M:🟢 — Official inference framework for 1-bit LLMs by microsoft *(40.3k ⭐)*
 - 📄 🔷 **[pelikan](https://github.com/pelikan-io/pelikan)** 🤖 R:🟢 M:🟢 — Pelikan is a framework for building local or distributed caches. It comes with a highly extensible architecture, best-in-class performance, and superb operational ergonomics. You can use it to replace most of Memcached or a subset of Redis features. by pelikan-io *(295 ⭐)*
 - ⌨️ 🔷 **[marketplace](https://github.com/aiskillstore/marketplace)** 🤖🧠 R:🟡 M:🟢 — Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. by aiskillstore *(428 ⭐)*
