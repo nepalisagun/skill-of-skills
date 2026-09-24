@@ -6,9 +6,9 @@
 [![Curated tier](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fcurated)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1,400+ skills** across 10 skill types · **340+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 17,900,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,400+ skills** across 10 skill types · **340+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-24 12:25 UTC; the badges above are live)*
+*(counts as of 2026-09-24 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔄 ⭐ **[laya](https://github.com/aayushch/laya)** 🤖 R:🟡 M:🟢 — Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook,  Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK. by aayushch *(253 ⭐)* — discovered Sep 24
+- 📝 ⭐ **[agenticSeek](https://github.com/Fosowl/agenticSeek)** 🔧 R:🟡 M:🟢 — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. by Fosowl *(27.3k ⭐)* — discovered Sep 24
+- 🧠 ⭐ **[llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler)** 🤖🧠 R:🟡 M:🟢 — The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern. by atomicstrata *(2.1k ⭐)* — discovered Sep 24
 - 🧠 🔷 **[search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)** 🤖🧠 R:🟡 M:🟢 — Search & analytics data as infrastructure — MCP server for Google Search Console, Bing Webmaster Tools, Google Adsense and GA4, designed for AI agents and automation. by saurabhsharma2u *(293 ⭐)* — discovered Sep 24
 - 🔌 🔷 **[agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)** 🤖🖱️🧠 R:🟡 M:🟢 — The cross-harness self-improving memory layer for AI agents. by Asymptote-Labs *(1.3k ⭐)* — discovered Sep 23
-- 🧠 🔷 **[Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)** 🤖🧠 R:🟡 M:🟢 — Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V by AtomicBot-ai *(1.6k ⭐)* — discovered Sep 23
-- 🧠 🔶 **[mimik](https://github.com/westpoint-io/mimik)** 🤖🧠 R:🟡 M:🟢 — 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸 by westpoint-io *(1.2k ⭐)* — discovered Sep 23
-- 🧠 ⭐ **[MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** 🤖🧠 R:🟡 M:🟢 — MiMo Code: Where Models and Agents Co-Evolve by XiaomiMiMo *(13.5k ⭐)* — discovered Sep 23
 
 ---
 
@@ -754,6 +754,7 @@
 - 🔌 🔷 **[playwright-skill](https://github.com/lackeyjb/playwright-skill)** 🤖 R:🔴 M:🟢 — Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation. by lackeyjb *(3.1k ⭐)*
 - 🔄 🔷 **[forall](https://github.com/astrio-labs/forall)** 🤖 R:🟡 M:🟢 — Forall (∀) is a coding agent from Astrio that helps developers build correct software by generating spec-driven code alongside machine-checkable proofs. by astrio-labs *(577 ⭐)*
 - 🔌 🔷 **[superpowers-chrome](https://github.com/obra/superpowers-chrome)** 🤖 R:🟢 M:🟢 — Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies by obra *(354 ⭐)*
+- 🧠 🔶 **[mimik](https://github.com/westpoint-io/mimik)** 🤖🧠 R:🟡 M:🟢 — 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸 by westpoint-io *(1.2k ⭐)*
 - 📚 🔷 **[agent-skills](https://github.com/apify/agent-skills)** 🤖 R:🟢 M:🟢 — Agent Skills for Test Automation by apify *(2.4k ⭐)*
 - 🔄 🔷 **[harvey-labs](https://github.com/harveyai/harvey-labs)** 🤖 R:🟡 M:🟢 — A benchmark built to evaluate and improve agent capabilities for supporting legal work. by harveyai *(1.4k ⭐)*
 - 🔄 🔷 **[ADR](https://github.com/uber/ADR)** 🔧 R:🟡 M:🟢 — ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. by uber *(1.6k ⭐)*
@@ -1478,6 +1479,7 @@
 - 🧠 ⭐ **[OpenCreator](https://github.com/krillinai/OpenCreator)** 🤖🧠 R:🟡 M:🟢 — Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place. by krillinai *(12.3k ⭐)*
 - 🧠 🔷 **[PanWatch](https://github.com/TNT-Likely/PanWatch)** 🧠 R:🟡 M:🟢 — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 by TNT-Likely *(1.6k ⭐)*
 - 🧠 ⭐ **[munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** 🤖🧠 R:🟡 M:🟢 — local multi-agent harness by chaitanyagiri *(7.9k ⭐)*
+- 🧠 ⭐ **[MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** 🤖🧠 R:🟡 M:🟢 — MiMo Code: Where Models and Agents Co-Evolve by XiaomiMiMo *(13.5k ⭐)*
 - 🧠 ⭐ **[omnigent](https://github.com/omnigent-ai/omnigent)** 🤖🧠 R:🔴 M:🟢 — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. by omnigent-ai *(10.2k ⭐)*
 - 🧠 🔷 **[agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator)** 🤖🧠 R:🔴 M:🟢 — Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. by Untrivial-ai *(12.3k ⭐)*
 - 🧠 ⭐ **[agentos](https://github.com/rivet-dev/agentos)** 🤖🧠 R:🔴 M:🟢 — A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in. by rivet-dev *(4.7k ⭐)*
@@ -1488,6 +1490,7 @@
 - 📚 🔷 **[crewAI](https://github.com/crewAIInc/crewAI)** 🧠 R:🟡 M:🟢 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. by crewAIInc *(59k ⭐)*
 - 🔌 ⭐ **[deja-vu](https://github.com/vshulcz/deja-vu)** 🤖 R:🟡 M:🟢 — One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. by vshulcz *(935 ⭐)*
 - 🔌 🔷 **[newsjack](https://github.com/elvisun/newsjack)** 🤖🧠 R:🟡 M:🟢 — The open-source skills that turn your agent into a full PR team. by elvisun *(1.3k ⭐)*
+- 🧠 🔷 **[Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)** 🤖🧠 R:🟡 M:🟢 — Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V by AtomicBot-ai *(1.6k ⭐)*
 - 🖱️ ⭐ **[nexent](https://github.com/ModelEngine-Group/nexent)** 🤖🖱️🧠 R:🟡 M:🟢 — Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes. by ModelEngine-Group *(5.9k ⭐)*
 - 🔌 🔷 **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** 🤖🧠 R:🟡 M:🟢 — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference by NVIDIA *(22.5k ⭐)*
 - ⌨️ 🔷 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** 🤖 R:🔴 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(39.3k ⭐)*
