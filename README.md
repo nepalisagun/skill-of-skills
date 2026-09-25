@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **360+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-25 18:25 UTC; the badges above are live)*
+*(counts as of 2026-09-25 21:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -953,7 +953,7 @@
 - 🔄 🔷 **[n8n-workflows](https://github.com/Zie619/n8n-workflows)** 🤖 R:🟡 M:✅ — all of the workflows of n8n i could find (also from the site itself) by Zie619 *(56.8k ⭐)*
 - ⌨️ 🔷 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** 🤖 R:🔴 M:🟠 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(778 ⭐)*
 - 📄 🔷 **[Wechat-ggGitHub/wechat-claude-code](https://github.com/Wechat-ggGitHub/wechat-claude-code)** 🤖 R:🟡 M:🟠 — Chat with Claude Code from WeChat - a Claude Code Skill by Wechat-ggGitHub *(685 ⭐)*
-- 🔌 🔷 **[obsidian-knowledge-agent](https://github.com/Michael-OvO/obsidian-knowledge-agent)** 🤖🧠 R:🟡 M:🟢 — Agent-driven pipeline that turns raw material (PDFs, slides, syllabi, papers, URLs) into structured, teaching-quality Obsidian notes: ingest, compile, distribute. by Michael-OvO *(205 ⭐)*
+- 🔌 🔷 **[obsidian-knowledge-agent](https://github.com/Michael-OvO/obsidian-knowledge-agent)** 🤖🧠 R:🟡 M:🟠 — Agent-driven pipeline that turns raw material (PDFs, slides, syllabi, papers, URLs) into structured, teaching-quality Obsidian notes: ingest, compile, distribute. by Michael-OvO *(205 ⭐)*
 - 🔌 🔶 **[siyuan-plugin-task-note-management](https://github.com/Achuan-2/siyuan-plugin-task-note-management)** 🤖 R:🟡 M:🟢 — 一款在思源笔记里实现任务管理、项目管理功能的插件，为了践行防弹笔记法而开发。支持文档和块提醒、日历视图查看行事历、番茄钟专注、项目管理看板、任务四象限面板、习惯打卡等功能 A task note reminder plugin developed for practicing the Bullet Journal method, supporting document and block reminders, calendar view for scheduling, Pomodoro timer for focus, habit checkin and more. by Achuan-2 *(222 ⭐)*
 - 📚 🔶 **[nikilster/clawflows](https://github.com/nikilster/clawflows)** 🤖 R:🟡 M:🟢 — ⚡️ Superpowers for your Openclaw. Powerful prebuilt agent workflows. by nikilster *(1.7k ⭐)*
 - 📄 🔷 **[jezweb/roo-commander](https://github.com/jezweb/roo-commander)** 🤖🧠 R:🟡 M:✅ — Think of it like having a virtual, specialized software development team right inside your editor, orchestrated by the 👑 Roo Commander, powered by Roo Code on VS Code by jezweb *(720 ⭐)*
