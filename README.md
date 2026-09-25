@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **360+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-25 12:25 UTC; the badges above are live)*
+*(counts as of 2026-09-25 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🧠 ⭐ **[desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)** 🤖🧠 R:🟡 M:🟢 — Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. by zhukunpenglinyutong *(4.4k ⭐)* — discovered Sep 25
+- 🔌 ⭐ **[openrig](https://github.com/mvschwarz/openrig)** 🤖 R:🟡 M:🟢 — Multi-agent harness that runs Claude Code and  Codex together as one system by mvschwarz *(386 ⭐)* — discovered Sep 25
+- 🔄 🔷 **[starnet](https://github.com/androoAGI/starnet)** 🔧 R:🟡 M:🟢 — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. by androoAGI *(294 ⭐)* — discovered Sep 25
 - 🔌 🔷 **[whiteboard](https://github.com/devdotfast/whiteboard)** 🤖🧠 R:🟡 M:🟢 — open-source IDE for thoughtful software design by devdotfast *(549 ⭐)* — discovered Sep 24
 - 🔄 ⭐ **[laya](https://github.com/aayushch/laya)** 🤖 R:🟡 M:🟢 — Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook,  Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK. by aayushch *(285 ⭐)* — discovered Sep 24
-- 📝 ⭐ **[agenticSeek](https://github.com/Fosowl/agenticSeek)** 🔧 R:🟡 M:🟢 — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. by Fosowl *(27.3k ⭐)* — discovered Sep 24
-- 🧠 ⭐ **[llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler)** 🤖🧠 R:🟡 M:🟢 — The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern. by atomicstrata *(2.1k ⭐)* — discovered Sep 24
-- 🧠 🔷 **[search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)** 🤖🧠 R:🟡 M:🟢 — Search & analytics data as infrastructure — MCP server for Google Search Console, Bing Webmaster Tools, Google Adsense and GA4, designed for AI agents and automation. by saurabhsharma2u *(295 ⭐)* — discovered Sep 24
 
 ---
 
@@ -247,6 +247,7 @@
 - 🧠 ⭐ **[Automodel](https://github.com/NVIDIA-NeMo/Automodel)** 🤖🧠 R:🟡 M:🟢 — 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support by NVIDIA-NeMo *(976 ⭐)*
 - 📄 🔷 **[ComposioHQ/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills)** 🤖 R:🟡 M:🟢 — A curated list of practical Codex skills for automating workflows across the Codex CLI and API. by composio-community *(16.6k ⭐)*
 - 🧠 ⭐ **[vexa](https://github.com/Vexa-ai/vexa)** 🤖🧠 R:🟡 M:🟢 — Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS. by Vexa-ai *(2.8k ⭐)*
+- 🧠 ⭐ **[llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler)** 🤖🧠 R:🟡 M:🟢 — The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern. by atomicstrata *(2.1k ⭐)*
 - 📄 🔷 **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** 🤖🧠 R:🟡 M:🟢 — Kimi Code CLI is your next CLI agent. by MoonshotAI *(11.4k ⭐)*
 - 📚 🔷 **[xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)** 🤖🖱️ R:🟡 M:🟢 — MCP for xiaohongshu.com by xpzouying *(16k ⭐)*
 - 📄 ⭐ **[free-coding-models](https://github.com/vava-nessa/free-coding-models)** 🤖🧠 R:🟡 M:🟢 — Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time by vava-nessa *(2.8k ⭐)*
@@ -820,6 +821,7 @@
 - 🔌 🔷 **[whodb](https://github.com/clidey/whodb)** 🤖🧠 R:🟡 M:🟢 — Where data access meets operational intelligence by clidey *(5k ⭐)*
 - 🔄 ⭐ **[datagouv-mcp](https://github.com/datagouv/datagouv-mcp)** 🔧 R:🟢 M:🟢 — Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation. by datagouv *(1.6k ⭐)*
 - 🔄 🔷 **[Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** 🤖 R:⚫ M:🟢 — Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. by BigBodyCobain *(11.2k ⭐)*
+- 🧠 🔷 **[search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)** 🤖🧠 R:🟡 M:🟢 — Search & analytics data as infrastructure — MCP server for Google Search Console, Bing Webmaster Tools, Google Adsense and GA4, designed for AI agents and automation. by saurabhsharma2u *(295 ⭐)*
 - 📚 ⭐ **[justrach/codedb](https://github.com/justrach/codedb)** 🤖🧠 R:🟡 M:🟢 — Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries. by justrach *(1.4k ⭐)*
 - 🔌 🔷 **[minutes](https://github.com/silverstein/minutes)** 🤖🧠 R:🟡 M:🟢 — Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer. by silverstein *(1.5k ⭐)*
 - 🧠 🔷 **[retentioneering-tools](https://github.com/retentioneering/retentioneering-tools)** 🤖🧠 R:🟡 M:🟢 — Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientists and analysts build, validate, and cross-check product analytics, quantitative UX, customer journeys, graph-based user flows, behavioral segmentation, A/B tests, process mining models, Markov chain simulation by retentioneering *(919 ⭐)*
@@ -950,7 +952,7 @@
 - 🔌 🔷 **[learning-opportunities](https://github.com/DrCatHicks/learning-opportunities)** 🤖 R:🟡 M:🟢 — A Claude Code skill for deliberate skill development during AI-assisted coding by DrCatHicks *(2.5k ⭐)*
 - 🔄 🔷 **[n8n-workflows](https://github.com/Zie619/n8n-workflows)** 🤖 R:🟡 M:✅ — all of the workflows of n8n i could find (also from the site itself) by Zie619 *(56.8k ⭐)*
 - ⌨️ 🔷 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** 🤖 R:🔴 M:🟠 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(778 ⭐)*
-- 📄 🔷 **[Wechat-ggGitHub/wechat-claude-code](https://github.com/Wechat-ggGitHub/wechat-claude-code)** 🤖 R:🟡 M:🟢 — Chat with Claude Code from WeChat - a Claude Code Skill by Wechat-ggGitHub *(685 ⭐)*
+- 📄 🔷 **[Wechat-ggGitHub/wechat-claude-code](https://github.com/Wechat-ggGitHub/wechat-claude-code)** 🤖 R:🟡 M:🟠 — Chat with Claude Code from WeChat - a Claude Code Skill by Wechat-ggGitHub *(685 ⭐)*
 - 🔌 🔷 **[obsidian-knowledge-agent](https://github.com/Michael-OvO/obsidian-knowledge-agent)** 🤖🧠 R:🟡 M:🟢 — Agent-driven pipeline that turns raw material (PDFs, slides, syllabi, papers, URLs) into structured, teaching-quality Obsidian notes: ingest, compile, distribute. by Michael-OvO *(205 ⭐)*
 - 🔌 🔶 **[siyuan-plugin-task-note-management](https://github.com/Achuan-2/siyuan-plugin-task-note-management)** 🤖 R:🟡 M:🟢 — 一款在思源笔记里实现任务管理、项目管理功能的插件，为了践行防弹笔记法而开发。支持文档和块提醒、日历视图查看行事历、番茄钟专注、项目管理看板、任务四象限面板、习惯打卡等功能 A task note reminder plugin developed for practicing the Bullet Journal method, supporting document and block reminders, calendar view for scheduling, Pomodoro timer for focus, habit checkin and more. by Achuan-2 *(222 ⭐)*
 - 📚 🔶 **[nikilster/clawflows](https://github.com/nikilster/clawflows)** 🤖 R:🟡 M:🟢 — ⚡️ Superpowers for your Openclaw. Powerful prebuilt agent workflows. by nikilster *(1.7k ⭐)*
@@ -1475,6 +1477,7 @@
 - 🔌 ⭐ **[treg](https://github.com/superdesigndev/treg)** 🤖🧠 R:🟡 M:🟢 — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn by superdesigndev *(3.2k ⭐)*
 - 🔄 🔷 **[ax](https://github.com/google/ax)** 🔧 R:🟡 M:🟢 — Google's open agentic orchestration runtime by google *(10.6k ⭐)*
 - 🔌 ⭐ **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** 🤖🧠 R:🔴 M:🟢 — An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. by agentscope-ai *(5.7k ⭐)*
+- 📝 ⭐ **[agenticSeek](https://github.com/Fosowl/agenticSeek)** 🔧 R:🟡 M:🟢 — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. by Fosowl *(27.3k ⭐)*
 - 🧠 ⭐ **[OpenCreator](https://github.com/krillinai/OpenCreator)** 🤖🧠 R:🟡 M:🟢 — Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place. by krillinai *(12.3k ⭐)*
 - 🧠 ⭐ **[munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** 🤖🧠 R:🟡 M:🟢 — local multi-agent harness by chaitanyagiri *(7.9k ⭐)*
 - 📄 🔶 **[openai/symphony](https://github.com/openai/symphony)** 🤖🧠 R:🔴 M:🟢 — Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. by openai *(27.4k ⭐)*
