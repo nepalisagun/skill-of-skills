@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **360+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-25 06:25 UTC; the badges above are live)*
+*(counts as of 2026-09-25 09:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -1205,7 +1205,7 @@
 - 📚 🔶 **[SixHq/Overture](https://github.com/SixHq/Overture)** 🤖 R:🟡 M:✅ — Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code.  by SixHq *(640 ⭐)*
 - 📚 🔶 **[jarmuine/claude-code](https://github.com/jarmuine/claude-code)** 🔧 R:🟡 M:🟠 — Fork of instructkr/claude-code by jarmuine *(2.3k ⭐)*
 - 📄 🔶 **[terrae](https://github.com/alamenai/terrae)** 🤖 R:🟡 M:🟠 — Composable and animated components that replace imperative layers with simple props. The perfect companion for shadcn/ui. by alamenai *(244 ⭐)*
-- 🔌 🔶 **[opendesign](https://github.com/manalkaff/opendesign)** 🤖🧠 R:🟡 M:🟢 — claude.ai/design open-sourced! by manalkaff *(260 ⭐)*
+- 🔌 🔶 **[opendesign](https://github.com/manalkaff/opendesign)** 🤖🧠 R:🟡 M:✅ — claude.ai/design open-sourced! by manalkaff *(260 ⭐)*
 - 📚 🔶 **[Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)** 🤖 R:🟡 M:🟠 — Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and security classification by Leonxlnx *(2.5k ⭐)*
 - 🔌 🔶 **[makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** 🤖 R:🟢 M:🟠 — Build App with Makepad and AI skills by ZhangHanDong *(749 ⭐)*
 - 🧠 🔶 **[agents-md](https://github.com/FerroxLabs/agents-md)** 🧠 R:🟢 M:✅ — Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's four principles and Boris Cherny's Claude Code workflow. Works with Claude Code, Codex, Gemini CLI, Cursor, and the open standard. by FerroxLabs *(705 ⭐)*
