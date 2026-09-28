@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-28 12:25 UTC; the badges above are live)*
+*(counts as of 2026-09-28 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🧠 🔷 **[hermes-agent](https://github.com/adybag14-cyber/hermes-agent)** 🧠 R:🟡 M:🟢 — The agent that grows with you by adybag14-cyber *(209 ⭐)* — discovered Sep 28
+- 🔄 ⭐ **[rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii)** 🤖 R:🟡 M:🟢 — Local-first privacy guard: anonymize your documents before sharing with LLMs. by Rizzo-AI-Academy *(1.1k ⭐)* — discovered Sep 28
+- 🧠 ⭐ **[redamon](https://github.com/samugit83/redamon)** 🤖🧠 R:🟡 M:🟢 — An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention. by samugit83 *(2.7k ⭐)* — discovered Sep 28
+- 🔄 🔷 **[anythingmcp](https://github.com/HelpCode-ai/anythingmcp)** 🤖 R:🟡 M:🟢 — Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude & ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA & Business One, ERP, e-commerce. by HelpCode-ai *(530 ⭐)* — discovered Sep 28
 - 🔌 🔷 **[Diagnostics](https://github.com/AvdLee/Diagnostics)** 🤖 R:🟡 M:🟢 — Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs. by AvdLee *(1.3k ⭐)* — discovered Sep 28
-- 🧠 🔷 **[quantified-self](https://github.com/jimmykane/quantified-self)** 🤖🧠 R:🟡 M:🟢 — Analyze your data from Garmin, Suunto, Coros to one centralized app by jimmykane *(229 ⭐)* — discovered Sep 28
-- 🔌 🔷 **[honey-for-devs](https://github.com/Green-PT/honey-for-devs)** 🤖🖱️🧠📟 R:🟡 M:🟢 — Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs — write less code, less prose, and denser agent-to-agent handoffs (−53%, lossless in benchmarks) with no loss of quality. Works with Claude Code, Cursor, GitHub Copilot, Codex, Gemini CLI, Windsurf, Cline & Kiro. by Green-PT *(310 ⭐)* — discovered Sep 28
-- 🔄 🔷 **[ai-trader](https://github.com/whchien/ai-trader)** 🤖 R:🟡 M:🟠 — Backtrader-powered backtesting framework for algorithmic trading, featuring 20+ strategies, multi-market support, CLI tools, and an integrated MCP server for professional traders. by whchien *(1.1k ⭐)* — discovered Sep 28
-- 🔌 ⭐ **[agentii-investment-intelligence](https://github.com/agentii-ai/agentii-investment-intelligence)** 🤖 R:🟡 M:🟢 — Claude-type skills for institutional equity research — 25 AI agent skills with SEC   filings, XBRL financials, earnings calendars, DCF/comps/LBO models, and PPT   generation. Powered by agentii.ai data plane. Works with Claude Code, OpenCode,   Codex, OpenClaw, Goose. by agentii-ai *(206 ⭐)* — discovered Sep 28
 
 ---
 
@@ -1271,6 +1271,7 @@
 - 🔄 🔷 **[claude-code-security-review](https://github.com/anthropics/claude-code-security-review)** 🤖 R:🟡 M:🟠 — An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. by anthropics *(6.3k ⭐)*
 - 📚 🔷 **[WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources)** 🔧 R:🟢 M:🟢 — 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.  by WangRongsheng *(9k ⭐)*
 - 📚  **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** 🔧 R:🟢 M:🟢 — A collection of MCP servers. by punkpeye *(95.6k ⭐)*
+- 🔌 🔷 **[honey-for-devs](https://github.com/Green-PT/honey-for-devs)** 🤖🖱️🧠📟 R:🟡 M:🟢 — Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs — write less code, less prose, and denser agent-to-agent handoffs (−53%, lossless in benchmarks) with no loss of quality. Works with Claude Code, Cursor, GitHub Copilot, Codex, Gemini CLI, Windsurf, Cline & Kiro. by Green-PT *(310 ⭐)*
 - 📚 🔶 **[SamurAIGPT/awesome-openclaw](https://github.com/Anil-matcha/awesome-muse-connectors)** 🔧 R:🟢 M:🟢 — A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations. by Anil-matcha *(1.1k ⭐)*
 - 📚 🔷 **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** 🔧 R:🟢 M:🟠 — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code by travisvn *(15.2k ⭐)*
 - 📚 🔷 **[rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit)** 🤖🧠 R:🟡 M:✅ — The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more. by rohitg00 *(2.7k ⭐)*
@@ -1507,6 +1508,7 @@
 - 🔌 🔷 **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** 🤖🧠 R:🟡 M:🟢 — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference by NVIDIA *(22.6k ⭐)*
 - 📚 🔷 **[cft0808/edict](https://github.com/cft0808/edict)** 🔧 R:🔴 M:🟢 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails by cft0808 *(16.9k ⭐)*
 - 🧠 ⭐ **[Albatross](https://github.com/morganlinton/Albatross)** 🤖🧠 R:🔴 M:🟢 — Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box. by morganlinton *(234 ⭐)*
+- 🔌 ⭐ **[agentii-investment-intelligence](https://github.com/agentii-ai/agentii-investment-intelligence)** 🤖 R:🟡 M:🟢 — Claude-type skills for institutional equity research — 25 AI agent skills with SEC   filings, XBRL financials, earnings calendars, DCF/comps/LBO models, and PPT   generation. Powered by agentii.ai data plane. Works with Claude Code, OpenCode,   Codex, OpenClaw, Goose. by agentii-ai *(206 ⭐)*
 - 🖱️ ⭐ **[nexent](https://github.com/ModelEngine-Group/nexent)** 🤖🖱️🧠 R:🟡 M:🟢 — Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes. by ModelEngine-Group *(5.9k ⭐)*
 - ⌨️ 🔷 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** 🤖 R:🔴 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(39.4k ⭐)*
 - 📄 🔷 **[VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)** 🤖🖱️🧠 R:🟡 M:🟢 — AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework by VoltAgent *(10.7k ⭐)*
@@ -1520,11 +1522,13 @@
 - 🔄 🔷 **[embabel-agent](https://github.com/embabel/embabel-agent)** 🤖 R:🟢 M:🟢 — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ by embabel *(4.5k ⭐)*
 - 🧠 ⭐ **[EmbodiChain](https://github.com/DexForce/EmbodiChain)** 🤖🧠 R:🟡 M:🟢 — An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence. by DexForce *(228 ⭐)*
 - 📝 🔷 **[mindfs](https://github.com/a9gent/mindfs)** 🔧 R:🟡 M:🟢 — Access your personal AI agents and workstation data anywhere, anytime through MindFS. by a9gent *(1.8k ⭐)*
+- 🧠 🔷 **[quantified-self](https://github.com/jimmykane/quantified-self)** 🤖🧠 R:🟡 M:🟢 — Analyze your data from Garmin, Suunto, Coros to one centralized app by jimmykane *(229 ⭐)*
 - ⌨️ 🔷 **[langchat](https://github.com/LangChat/langchat)** 🤖 R:🟡 M:🟢 — LangChat 是由 LangChat Team 开发的开源 AI Agent 应用平台，支持多模型、Agent、知识库 RAG、Skills、MCP 与智能问数。 by LangChat *(1.3k ⭐)*
 - 🧠 🔷 **[Chanakya-Local-Friend](https://github.com/samosa-ai-com/Chanakya-Local-Friend)** 🧠 R:🟡 M:🟢 — Chanakya is an advanced, open-source, and self-hostable voice assistant designed for privacy, power, and flexibility. It leverages local AI/ML models to ensure your data stays with you. It Integrates with 1000+ third-party MCP servers including Home Assistant. by samosa-ai-com *(214 ⭐)*
 - 🧠 🔷 **[go_binance_futures](https://github.com/sorry510/go_binance_futures)** 🤖🧠 R:🟡 M:🟢 — AI agent + 币安合约量化 + 模拟交易 + 历史回测 by sorry510 *(240 ⭐)*
 - 📚 🔷 **[AutoAgent](https://github.com/HKUDS/AutoAgent)** 🧠 R:🟡 M:🟠 — "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" by HKUDS *(9.8k ⭐)*
 - 🔌 🔷 **[hive](https://github.com/rllm-org/hive)** 🤖🧠 R:🟡 M:🟠 — No description by rllm-org *(215 ⭐)*
+- 🔄 🔷 **[ai-trader](https://github.com/whchien/ai-trader)** 🤖 R:🟡 M:🟠 — Backtrader-powered backtesting framework for algorithmic trading, featuring 20+ strategies, multi-market support, CLI tools, and an integrated MCP server for professional traders. by whchien *(1.1k ⭐)*
 - 🧠 🔶 **[project-nova](https://github.com/dujonwalker/project-nova)** 🧠 R:🟡 M:🟠 — A multi-agent AI architecture that connects 25+ specialized agents through n8n and MCP servers. Project NOVA routes requests to domain-specific experts, enabling control of applications from knowledge bases to DAWs, home automation to development tools. Includes system prompts, Dockerfiles, and workflows for a complete AI assistant ecosystem. by dujonwalker *(271 ⭐)*
 
 ---
