@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-28 18:25 UTC; the badges above are live)*
+*(counts as of 2026-09-28 21:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -250,7 +250,7 @@
 - 📄 ⭐ **[kicad-happy](https://github.com/aklofas/kicad-happy)** 🤖🖱️ R:🟡 M:🟢 — AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source components, and prep boards for fabrication. by aklofas *(1.3k ⭐)*
 - 🔄 ⭐ **[coding-tools-mcp](https://github.com/xyTom/coding-tools-mcp)** 🔧 R:🟡 M:🟢 — Give any AI agent the ability to code by xyTom *(1.2k ⭐)*
 - 🔌 🔷 **[agents-cli](https://github.com/google/agents-cli)** 🤖🧠 R:🟡 M:🟢 — The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud. by google *(6k ⭐)*
-- 📄 ⭐ **[swarmclaw](https://github.com/swarmclawai/swarmclaw)** 🤖 R:🔴 M:🟢 — Build and run autonomous AI agents with OpenClaw, multiple model providers, orchestration, delegation, memory, skills, schedules, and chat   connectors. by swarmclawai *(684 ⭐)*
+- 📄 ⭐ **[swarmclaw](https://github.com/swarmclawai/swarmclaw)** 🤖 R:🔴 M:✅ — Build and run autonomous AI agents with OpenClaw, multiple model providers, orchestration, delegation, memory, skills, schedules, and chat   connectors. by swarmclawai *(684 ⭐)*
 - 📄 ⭐ **[unbrowse](https://github.com/unbrowse-ai/unbrowse)** 🤖🧠 R:🔴 M:🟢 — Unbrowse — api native browser skill/cli for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally. by unbrowse-ai *(765 ⭐)*
 - 🧠 ⭐ **[gortex](https://github.com/zzet/gortex)** 🤖🧠 R:🟢 M:🟢 — High-performance code graph and code intelligence engine, supports 257 languages, multi repositories,  with access via CLI, MCP Server, and API.  Built for AI coding agents - expose only needed information, cutting token usage up to 50x. 100% local. by zzet *(1.8k ⭐)*
 - 📚 🔷 **[yamadashy/repomix](https://github.com/yamadashy/repomix)** 🤖🖱️🧠 R:🟡 M:🟢 — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. by yamadashy *(28.5k ⭐)*
@@ -1162,7 +1162,7 @@
 - 📚 🔷 **[tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)** 🔧 R:🟢 M:🟢 — AI Agent 源码深度研究报告 by tvytlx *(5.8k ⭐)*
 - 📚 🔷 **[GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire)** 🤖🧠 R:🔴 M:✅ — Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company. by GreenSheep01201 *(1.4k ⭐)*
 - 📚 🔷 **[self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)** 🔧 R:🟢 M:🟢 — The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. by n8n-io *(15.3k ⭐)*
-- 📚 🔷 **[tabby](https://github.com/TabbyML/tabby)** 🤖 R:🟡 M:🟢 — Self-hosted AI coding assistant by TabbyML *(33.9k ⭐)*
+- 📚 🔷 **[tabby](https://github.com/TabbyML/tabby)** 🤖 R:🟡 M:✅ — Self-hosted AI coding assistant by TabbyML *(33.9k ⭐)*
 - 🔄 🔷 **[OpticalModeler](https://github.com/k-telux/OpticalModeler)** 🤖 R:🟢 M:🟢 — Evidence-gated Agent Skill for reconstructing 2D photonics schematics as physically auditable Blender optical tables with CAD, beam-path, mechanics, and render proof. by k-telux *(221 ⭐)*
 - 📚 🔷 **[zhu1090093659/spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop)** 🤖🧠 R:🟡 M:🟢 — Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents. by zhu1090093659 *(975 ⭐)*
 - 🖱️ 🔷 **[react-native-typescript-boilerplate](https://github.com/kuraydev/react-native-typescript-boilerplate)** 🤖🖱️🧠 R:🟡 M:🟢 — 🤖 AI-Ready React Native + TypeScript Boilerplate OpenAI · Anthropic · Gemini built in. New Architecture, streaming chat, typed themes, path aliases & more — production-ready from day one. by kuraydev *(452 ⭐)*
@@ -1181,7 +1181,7 @@
 - 📄 🔷 **[harness](https://github.com/xwtro0tk1t-cloud/harness)** 🤖 R:🟡 M:🟠 — Harness is an AI Agent development guardrail Meta-Skill that establishes four layers of defense for any project in one command: knowledge management, architecture constraints, feedback loops, and entropy management. by xwtro0tk1t-cloud *(265 ⭐)*
 - 📚 🔶 **[shareAI-lab/claw0](https://github.com/shareAI-lab/claw0)** 🤖🧠 R:🟡 M:🟠 — 0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch by shareAI-lab *(3.4k ⭐)*
 - 📄 🔷 **[claude-code](https://github.com/MadAppGang/claude-code)** 🤖🧠 R:🟡 M:✅ — claude code plugins marketplace by MadAppGang *(283 ⭐)*
-- 🖱️ 🔷 **[agnosticui](https://github.com/AgnosticUI/agnosticui)** 🤖🖱️ R:🟡 M:🟢 — AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with AI tools, agent-driven UIs, and prompt-ready workflows. by AgnosticUI *(825 ⭐)*
+- 🖱️ 🔷 **[agnosticui](https://github.com/AgnosticUI/agnosticui)** 🤖🖱️ R:🟡 M:✅ — AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with AI tools, agent-driven UIs, and prompt-ready workflows. by AgnosticUI *(825 ⭐)*
 - 📄 🔶 **[awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)** 🤖 R:🟡 M:🟢 — Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit by libukai *(5.1k ⭐)*
 - 🔌 🔷 **[naksha-studio](https://github.com/Adityaraj0421/naksha-studio)** 🤖🖱️🧠🏄 R:🟡 M:✅ — A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 26 roles, 60 commands, 13,800+ lines of expert design knowledge. Your agency's design brain, inside your terminal. by Adityaraj0421 *(319 ⭐)*
 - 📄 🔷 **[md2html](https://github.com/haidang1810/md2html)** 🤖 R:🟢 M:✅ — Your AI writes docs — md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language. by haidang1810 *(422 ⭐)*
