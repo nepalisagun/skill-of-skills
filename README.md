@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-28 00:25 UTC; the badges above are live)*
+*(counts as of 2026-09-28 03:00 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🧠 🔷 **[t1code](https://github.com/maria-rcks/t1code)** 🤖🧠 R:🟡 M:🟠 — T3Code, but in your terminal by maria-rcks *(522 ⭐)* — discovered Sep 28
+- 🧠 🔷 **[go_binance_futures](https://github.com/sorry510/go_binance_futures)** 🤖🧠 R:🟡 M:🟢 — AI agent + 币安合约量化 + 模拟交易 + 历史回测 by sorry510 *(240 ⭐)* — discovered Sep 28
 - 🧠 ⭐ **[EmbodiChain](https://github.com/DexForce/EmbodiChain)** 🤖🧠 R:🟡 M:🟢 — An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence. by DexForce *(228 ⭐)* — discovered Sep 27
 - ⌨️ 🔷 **[langchat](https://github.com/LangChat/langchat)** 🤖 R:🟡 M:🟢 — LangChat 是由 LangChat Team 开发的开源 AI Agent 应用平台，支持多模型、Agent、知识库 RAG、Skills、MCP 与智能问数。 by LangChat *(1.3k ⭐)* — discovered Sep 26
 - 🔌 🔷 **[web-quality-skills](https://github.com/addyosmani/web-quality-skills)** 🤖🧠 R:🟡 M:🟢 — Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. by addyosmani *(2.8k ⭐)* — discovered Sep 26
-- 📚 🔷 **[UnrealBridge](https://github.com/TornLux/UnrealBridge)** 🤖 R:🟡 M:🟢 — Typed control surface for Unreal Engine that lets AI agents introspect assets, author Blueprints/AnimBPs,   and edit levels — with reactive events and undoable writes. by TornLux *(303 ⭐)* — discovered Sep 26
-- 🧠 ⭐ **[desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)** 🤖🧠 R:🟡 M:🟢 — Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. by zhukunpenglinyutong *(4.4k ⭐)* — discovered Sep 25
 
 ---
 
@@ -545,6 +545,7 @@
 - ⌨️ 🔷 **[speckle-server](https://github.com/specklesystems/speckle-server)** 🖱️ R:🟡 M:🟢 — The Speckle Server, Frontend, 3D Viewer, & other JS utilities. by specklesystems *(845 ⭐)*
 - 🔄 🔷 **[PhoneClaw](https://github.com/kellyvv/PhoneClaw)** 🤖 R:🟡 M:🟢 — Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference by kellyvv *(1.3k ⭐)*
 - 📚 🔷 **[psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done)** 🔧 R:🟡 M:🟢 — The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI). by psi-oss *(966 ⭐)*
+- 📚 🔷 **[UnrealBridge](https://github.com/TornLux/UnrealBridge)** 🤖 R:🟡 M:🟢 — Typed control surface for Unreal Engine that lets AI agents introspect assets, author Blueprints/AnimBPs,   and edit levels — with reactive events and undoable writes. by TornLux *(303 ⭐)*
 - 🔌 🔷 **[tidy3d](https://github.com/flexcompute/tidy3d)** 🤖🧠 R:🟡 M:🟢 — fast, large scale photonic simulation platform by flexcompute *(365 ⭐)*
 - ⌨️ 🔷 **[agentset](https://github.com/agentset-ai/agentset)** 🤖🖱️🧠 R:🟡 M:🟢 — The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more. by agentset-ai *(2.1k ⭐)*
 - 📝 🔶 **[freecad-mcp](https://github.com/neka-nat/freecad-mcp)** 🔧 R:🟡 M:🟢 — FreeCAD MCP(Model Context Protocol) server by neka-nat *(2.5k ⭐)*
@@ -754,7 +755,7 @@
 - 🔌 🔷 **[playwright-skill](https://github.com/lackeyjb/playwright-skill)** 🤖 R:🔴 M:🟢 — Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation. by lackeyjb *(3.1k ⭐)*
 - ⌨️ 🔷 **[terminaI](https://github.com/Prof-Harita/terminaI)** 🧠 R:🔴 M:🟢 — Open-source, local-first alternative to Cowork-style computer assistants: real PTY terminal ops, explicit approvals, JSONL audit logs. Windows + Linux + macOS. Model agnostic. by Prof-Harita *(424 ⭐)*
 - 🔄 🔷 **[forall](https://github.com/astrio-labs/forall)** 🤖 R:🟡 M:🟢 — Forall (∀) is a coding agent from Astrio that helps developers build correct software by generating spec-driven code alongside machine-checkable proofs. by astrio-labs *(578 ⭐)*
-- 🔌 🔷 **[superpowers-chrome](https://github.com/obra/superpowers-chrome)** 🤖 R:🟢 M:🟢 — Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies by obra *(354 ⭐)*
+- 🔌 🔷 **[superpowers-chrome](https://github.com/obra/superpowers-chrome)** 🤖 R:🔴 M:🟢 — Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies by obra *(354 ⭐)*
 - ⌨️ 🔷 **[buttercut](https://github.com/barefootford/buttercut)** 🤖 R:🟡 M:🟢 — Edit Video with Claude Code by barefootford *(598 ⭐)*
 - 📄 🔷 **[pingcap/tidb](https://github.com/pingcap/tidb)** 🤖🧠 R:🟡 M:🟢 — TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. by pingcap *(40.6k ⭐)*
 - 📄 🔷 **[trailblaze](https://github.com/block/trailblaze)** 🤖 R:🟡 M:🟢 — AI-driven UI testing framework. by block *(316 ⭐)*
@@ -1496,6 +1497,7 @@
 - 📚 🔷 **[crewAI](https://github.com/crewAIInc/crewAI)** 🧠 R:🟡 M:🟢 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. by crewAIInc *(59.1k ⭐)*
 - 🧠 🔷 **[agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator)** 🤖🧠 R:🔴 M:🟢 — Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. by Untrivial-ai *(12.4k ⭐)*
 - 🔌 🔷 **[agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)** 🤖🖱️🧠 R:🟡 M:🟢 — The cross-harness self-improving memory layer for AI agents. by Asymptote-Labs *(1.6k ⭐)*
+- 🧠 ⭐ **[desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)** 🤖🧠 R:🟡 M:🟢 — Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. by zhukunpenglinyutong *(4.4k ⭐)*
 - 📄 ⭐ **[withastro/flue](https://github.com/withastro/flue)** 🤖🧠 R:🟡 M:🟢 — The sandbox agent framework. by withastro *(8.4k ⭐)*
 - 📚 ⭐ **[builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)** 🤖 R:🟡 M:🟢 — Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard. by builderz-labs *(6.3k ⭐)*
 - 🧠 ⭐ **[Albatross](https://github.com/morganlinton/Albatross)** 🤖🧠 R:🔴 M:🟢 — Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box. by morganlinton *(234 ⭐)*
