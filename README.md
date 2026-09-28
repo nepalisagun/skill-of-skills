@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-28 09:25 UTC; the badges above are live)*
+*(counts as of 2026-09-28 12:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔷 **[Diagnostics](https://github.com/AvdLee/Diagnostics)** 🤖 R:🟡 M:🟢 — Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs. by AvdLee *(1.3k ⭐)* — discovered Sep 28
 - 🧠 🔷 **[quantified-self](https://github.com/jimmykane/quantified-self)** 🤖🧠 R:🟡 M:🟢 — Analyze your data from Garmin, Suunto, Coros to one centralized app by jimmykane *(229 ⭐)* — discovered Sep 28
 - 🔌 🔷 **[honey-for-devs](https://github.com/Green-PT/honey-for-devs)** 🤖🖱️🧠📟 R:🟡 M:🟢 — Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs — write less code, less prose, and denser agent-to-agent handoffs (−53%, lossless in benchmarks) with no loss of quality. Works with Claude Code, Cursor, GitHub Copilot, Codex, Gemini CLI, Windsurf, Cline & Kiro. by Green-PT *(310 ⭐)* — discovered Sep 28
-- 🔌 ⭐ **[agentii-investment-intelligence](https://github.com/agentii-ai/agentii-investment-intelligence)** 🤖 R:🟡 M:🟢 — Claude-type skills for institutional equity research — 25 AI agent skills with SEC   filings, XBRL financials, earnings calendars, DCF/comps/LBO models, and PPT   generation. Powered by agentii.ai data plane. Works with Claude Code, OpenCode,   Codex, OpenClaw, Goose. by agentii-ai *(206 ⭐)* — discovered Sep 28
 - 🔄 🔷 **[ai-trader](https://github.com/whchien/ai-trader)** 🤖 R:🟡 M:🟠 — Backtrader-powered backtesting framework for algorithmic trading, featuring 20+ strategies, multi-market support, CLI tools, and an integrated MCP server for professional traders. by whchien *(1.1k ⭐)* — discovered Sep 28
-- 🧠 🔷 **[t1code](https://github.com/maria-rcks/t1code)** 🤖🧠 R:🟡 M:✅ — T3Code, but in your terminal by maria-rcks *(522 ⭐)* — discovered Sep 28
+- 🔌 ⭐ **[agentii-investment-intelligence](https://github.com/agentii-ai/agentii-investment-intelligence)** 🤖 R:🟡 M:🟢 — Claude-type skills for institutional equity research — 25 AI agent skills with SEC   filings, XBRL financials, earnings calendars, DCF/comps/LBO models, and PPT   generation. Powered by agentii.ai data plane. Works with Claude Code, OpenCode,   Codex, OpenClaw, Goose. by agentii-ai *(206 ⭐)* — discovered Sep 28
 
 ---
 
@@ -1120,8 +1120,8 @@
 - 📄 🔷 **[quiknode-labs/qn-guide-examples](https://github.com/quiknode-labs/qn-guide-examples)** 🤖 R:🟡 M:🟢 — A collection of example applications from QuickNode's Technical Guides by quiknode-labs *(272 ⭐)*
 - 📄 🔷 **[bruin-data/dac](https://github.com/bruin-data/dac)** 🤖🧠 R:🟡 M:🟢 — DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards. by bruin-data *(768 ⭐)*
 - 🔌 🔷 **[personal-os-skills](https://github.com/ArtemXTech/personal-os-skills)** 🤖 R:🟡 M:🟢 — Claude Code skills for Obsidian | Claude Code Lab starts Mar 17 by ArtemXTech *(537 ⭐)*
-- 📚 🔷 **[agentrove](https://github.com/Mng-dev-ai/agentrove)** 🔧 R:🔴 M:🟢 — Your own Claude Code UI, sandbox, in-browser VS Code, terminal, multi-provider support (Anthropic, OpenAI, GitHub Copilot, OpenRouter), custom skills, and MCP servers. by Mng-dev-ai *(329 ⭐)*
 - 📄 🔷 **[sdk-generator](https://github.com/appwrite/sdk-generator)** 🤖🧠 R:🟡 M:🟢 — Generating SDKs for multiple programming languages and platforms ⚙️ by appwrite *(329 ⭐)*
+- 📚 🔷 **[agentrove](https://github.com/Mng-dev-ai/agentrove)** 🔧 R:🔴 M:🟢 — Your own Claude Code UI, sandbox, in-browser VS Code, terminal, multi-provider support (Anthropic, OpenAI, GitHub Copilot, OpenRouter), custom skills, and MCP servers. by Mng-dev-ai *(329 ⭐)*
 - 📄 🔷 **[divine-mobile](https://github.com/divinevideo/divine-mobile)** 🤖🧠 R:🟡 M:🟢 — No description by divinevideo *(265 ⭐)*
 - 📚 🔷 **[penso/arbor](https://github.com/penso/arbor)** 🤖🧠 R:🟡 M:🟢 — Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs. by penso *(829 ⭐)*
 - 📚 🔶 **[VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)** 🤖 R:🟡 M:🟢 — A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases by VoltAgent *(25.4k ⭐)*
@@ -1191,6 +1191,7 @@
 - 📚 🔷 **[ghostwright/ghost-os](https://github.com/ghostwright/ghost-os)** 🤖 R:⚫ M:✅ — Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required. by ghostwright *(1.7k ⭐)*
 - 📄 🔶 **[superdesigndev/superdesign](https://github.com/superdesigndev/superdesign)** 🖱️ R:🟡 M:🟠 — AI Product Design Agent - Open Source by superdesigndev *(7k ⭐)*
 - 🔌 🔷 **[web-asset-generator](https://github.com/alonw0/web-asset-generator)** 🤖 R:🟢 M:🟠 — Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration. by alonw0 *(508 ⭐)*
+- 🧠 🔷 **[t1code](https://github.com/maria-rcks/t1code)** 🤖🧠 R:🟡 M:✅ — T3Code, but in your terminal by maria-rcks *(522 ⭐)*
 - 📚 🔷 **[glommer/codemogger](https://github.com/glommer/codemogger)** 🤖🖱️ R:🟡 M:✅ — Codemogger is a code indexing library and MCP server for AI coding agents by glommer *(344 ⭐)*
 - 🔌 🔷 **[ai-design-components](https://github.com/ancoleman/ai-design-components)** 🤖 R:🟡 M:✅ — Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude by ancoleman *(521 ⭐)*
 - 🔌 🔷 **[ClaudeForge](https://github.com/alirezarezvani/ClaudeForge)** 🤖🧠 R:🔴 M:🟠 — A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code. by alirezarezvani *(430 ⭐)*
