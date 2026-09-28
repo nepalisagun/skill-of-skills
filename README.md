@@ -940,7 +940,6 @@
 - 📄 🔷 **[shinkoku](https://github.com/kazukinagata/shinkoku)** 🤖 R:🟡 M:🟢 — 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで by kazukinagata *(360 ⭐)*
 - 🔄 ⭐ **[open-ralph-wiggum](https://github.com/Th0rgal/open-ralph-wiggum)** 🤖 R:🔴 M:✅ — Type `ralph "prompt"` to start open code in a ralph loop. Also supports a prompt file & status check. Open Code, Claude Code, Codex, Copilot by Th0rgal *(1.9k ⭐)*
 - 🔗 🔷 **[Dorothy](https://github.com/Charlie85270/Dorothy)** 🤖🖱️🧠 R:🟡 M:🟢 — Dorothy, the wife your AI agents needs. by Charlie85270 *(348 ⭐)*
-- 🔌 🔷 **[agentkits-marketing](https://github.com/aitytech/agentkits-marketing)** 🤖 R:🟡 M:🟢 — Enterprise-grade AI marketing automation for Claude Code, Cursor, GitHub Copilot, and any AI assistant supporting agents & skills by aitytech *(607 ⭐)*
 - 📄 🔷 **[codex-orchestrator](https://github.com/kingbootoshi/codex-orchestrator)** 🤖🧠 R:🔴 M:🟠 — Delegate tasks to OpenAI Codex agents via tmux sessions. Designed for Claude Code orchestration. by kingbootoshi *(351 ⭐)*
 - 📄 🔷 **[devenjarvis/lathe](https://github.com/devenjarvis/lathe)** 🤖 R:🟡 M:🟢 — Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋ by devenjarvis *(1.7k ⭐)*
 - 📄 ⭐ **[MeisnerDan/mission-control](https://github.com/MeisnerDan/mission-control)** 🤖 R:🟡 M:🟠 — Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents. by MeisnerDan *(951 ⭐)*
