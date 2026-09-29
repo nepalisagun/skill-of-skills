@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-29 12:25 UTC; the badges above are live)*
+*(counts as of 2026-09-29 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
-- 📚 🔷 **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** 🤖 R:🟡 M:🟢 — AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools. by evolsb *(457 ⭐)* — discovered Sep 29
+- 🧠 🔷 **[tuios](https://github.com/Gaurav-Gosain/tuios)** 🤖🧠 R:🟡 M:🟢 — A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. by Gaurav-Gosain *(4.3k ⭐)* — discovered Sep 29
 - 📚 🔷 **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** 🤖 R:🟡 M:🟠 — AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community by zubair-trabzada *(1.8k ⭐)* — discovered Sep 29
+- 📚 🔷 **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** 🤖 R:🟡 M:🟢 — AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools. by evolsb *(457 ⭐)* — discovered Sep 29
 - 🔄 ⭐ **[rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii)** 🤖 R:🟡 M:🟢 — Local-first privacy guard: anonymize your documents before sharing with LLMs. by Rizzo-AI-Academy *(1.1k ⭐)* — discovered Sep 28
 - 🧠 ⭐ **[redamon](https://github.com/samugit83/redamon)** 🤖🧠 R:🟡 M:🟢 — An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention. by samugit83 *(2.8k ⭐)* — discovered Sep 28
-- 🔄 🔷 **[anythingmcp](https://github.com/HelpCode-ai/anythingmcp)** 🤖 R:🟡 M:🟢 — Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude & ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA & Business One, ERP, e-commerce. by HelpCode-ai *(571 ⭐)* — discovered Sep 28
 
 ---
 
@@ -630,7 +630,7 @@
 - 📄 🔷 **[instantlyeasy/claude-code-sdk-ts](https://github.com/instantlyeasy/claude-code-sdk-ts)** 🔧 R:🟡 M:🟢 — Fluent, chainable TypeScript SDK: configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write'). Multi-level logging plus live onMessage/onToolUse callbacks give deep, CLI-compatible observability. by instantlyeasy *(207 ⭐)*
 - 📚 🔶 **[AIGuide](https://github.com/Snailclimb/AIGuide)** 🤖 R:🟢 M:🟢 — AI 应用开发、AI 编程实战与面试指南，涵盖 LLM、Agent、RAG、MCP、Claude Code、Codex 等核心技术与工程实践。 by Snailclimb *(648 ⭐)*
 - 🔌 🔷 **[claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant)** 🤖 R:🟡 M:🟢 — Claude Code skill to supercharge and manage all Home Assistant workflows by komal-SkyNET *(961 ⭐)*
-- 🔄 🔷 **[better-clawd](https://github.com/x1xhlol/better-clawd)** 🔧 R:🔴 M:🟢 — Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in. by x1xhlol *(432 ⭐)*
+- 🔄 🔷 **[better-clawd](https://github.com/x1xhlol/better-clawd)** 🔧 R:🔴 M:🟠 — Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in. by x1xhlol *(432 ⭐)*
 - 🔄 🔷 **[hass-mcp](https://github.com/voska/hass-mcp)** 🔧 R:🟡 M:🟢 — Control and query Home Assistant from Claude and other LLMs — a Model Context Protocol (MCP) server. by voska *(344 ⭐)*
 - 🔌 🔶 **[convexskills](https://github.com/waynesutton/builder-skills)** 🤖🧠 R:🟡 M:🟢 — AI agent skills and templates for building production ready apps with Convex. Patterns for queries, mutations, cron jobs, webhooks, migrations, and more. by waynesutton *(405 ⭐)*
 - 📄 🔷 **[waldzell-mcp](https://github.com/waldzellai/waldzell-mcp)** 🤖 R:🟡 M:🟢 — Waldzell AI's monorepo of MCP servers. Use in Claude Desktop, Cline, Roo Code, and more! by waldzellai *(201 ⭐)*
@@ -1125,8 +1125,8 @@
 - 📄 🔷 **[quiknode-labs/qn-guide-examples](https://github.com/quiknode-labs/qn-guide-examples)** 🤖 R:🟡 M:🟢 — A collection of example applications from QuickNode's Technical Guides by quiknode-labs *(272 ⭐)*
 - 📄 🔷 **[bruin-data/dac](https://github.com/bruin-data/dac)** 🤖🧠 R:🟡 M:🟢 — DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards. by bruin-data *(769 ⭐)*
 - 🔌 🔷 **[personal-os-skills](https://github.com/ArtemXTech/personal-os-skills)** 🤖 R:🟡 M:🟢 — Claude Code skills for Obsidian | Claude Code Lab starts Mar 17 by ArtemXTech *(538 ⭐)*
-- 📚 🔷 **[agentrove](https://github.com/Mng-dev-ai/agentrove)** 🔧 R:🔴 M:🟢 — Your own Claude Code UI, sandbox, in-browser VS Code, terminal, multi-provider support (Anthropic, OpenAI, GitHub Copilot, OpenRouter), custom skills, and MCP servers. by Mng-dev-ai *(329 ⭐)*
 - 📄 🔷 **[sdk-generator](https://github.com/appwrite/sdk-generator)** 🤖🧠 R:🟡 M:🟢 — Generating SDKs for multiple programming languages and platforms ⚙️ by appwrite *(329 ⭐)*
+- 📚 🔷 **[agentrove](https://github.com/Mng-dev-ai/agentrove)** 🔧 R:🔴 M:🟢 — Your own Claude Code UI, sandbox, in-browser VS Code, terminal, multi-provider support (Anthropic, OpenAI, GitHub Copilot, OpenRouter), custom skills, and MCP servers. by Mng-dev-ai *(329 ⭐)*
 - 📄 🔷 **[divine-mobile](https://github.com/divinevideo/divine-mobile)** 🤖🧠 R:🟡 M:🟢 — No description by divinevideo *(265 ⭐)*
 - 📚 🔷 **[penso/arbor](https://github.com/penso/arbor)** 🤖🧠 R:🟡 M:🟢 — Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs. by penso *(829 ⭐)*
 - 📚 🔷 **[milisp/codexia](https://github.com/milisp/codexia)** 🤖🧠 R:🔴 M:🟢 — Agent Workstation for Codex CLI + Claude Code — with task scheduler, git worktree & remote control, skills management by milisp *(921 ⭐)*
@@ -1497,6 +1497,7 @@
 - 📚 🔷 **[crewAI](https://github.com/crewAIInc/crewAI)** 🧠 R:🟡 M:🟢 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. by crewAIInc *(59.2k ⭐)*
 - 📄 ⭐ **[withastro/flue](https://github.com/withastro/flue)** 🤖🧠 R:🟡 M:🟢 — The sandbox agent framework. by withastro *(8.4k ⭐)*
 - 🔌 🔷 **[agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)** 🤖🖱️🧠 R:🟡 M:🟢 — The cross-harness self-improving memory layer for AI agents. by Asymptote-Labs *(1.7k ⭐)*
+- 🔄 🔷 **[anythingmcp](https://github.com/HelpCode-ai/anythingmcp)** 🤖 R:🟡 M:🟢 — Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude & ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA & Business One, ERP, e-commerce. by HelpCode-ai *(571 ⭐)*
 - 🔌 🔷 **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** 🤖🧠 R:🟡 M:🟢 — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference by NVIDIA *(22.6k ⭐)*
 - 🧠 🔷 **[PanWatch](https://github.com/TNT-Likely/PanWatch)** 🧠 R:🟡 M:🟢 — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 by TNT-Likely *(1.9k ⭐)*
 - 📚 ⭐ **[simstudioai/sim](https://github.com/simstudioai/sim)** 🤖🖱️🧠 R:🔴 M:🟢 — Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. by simstudioai *(29.7k ⭐)*
