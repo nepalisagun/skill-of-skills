@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-29 00:25 UTC; the badges above are live)*
+*(counts as of 2026-09-29 03:00 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -845,7 +845,7 @@
 - 🔗 ⭐ **[maestro](https://github.com/its-maestro-baby/maestro)** 🧠 R:🟡 M:✅ — The Bloomberg Terminal for CLI Agents, its Maestro Baby! by its-maestro-baby *(1.2k ⭐)*
 - 🔄 🔶 **[google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp)** 🔧 R:🟢 M:🟢 — No description by googleanalytics *(3.3k ⭐)*
 - 📄 🔷 **[Github-Ranking-AI](https://github.com/yuxiaopeng/Github-Ranking-AI)** 🤖🧠 R:🟢 M:🟢 — A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。 by yuxiaopeng *(547 ⭐)*
-- 🔗 🔷 **[claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability)** 🤖🔧 R:🟢 M:🟠 — Real-time monitoring for Claude Code agents through simple hook event tracking. by disler *(1.5k ⭐)*
+- 🔗 🔷 **[claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability)** 🤖🔧 R:🔴 M:🟠 — Real-time monitoring for Claude Code agents through simple hook event tracking. by disler *(1.5k ⭐)*
 - 🖱️ 🔷 **[rejourney](https://github.com/rejourneyco/rejourney)** 🤖🖱️ R:🟢 M:🟢 — Rejourney is a open source, self-hostable/hosted observability tool for web and mobile apps. Focus on lightweight and performance. by rejourneyco *(279 ⭐)*
 - 📚 🔶 **[ai-data-extraction](https://github.com/0xSero/ai-data-extraction)** 🔧 R:⚫ M:🟢 — extract all your personal data history from cursor, codex, claude-code, windsurf, and trae by 0xSero *(1.3k ⭐)*
 - 📄 🔷 **[yahoo-finance-mcp](https://github.com/Alex2Yang97/yahoo-finance-mcp)** 🔧 R:🟢 M:🟢 — This is a Model Context Protocol (MCP) server that provides comprehensive financial data from Yahoo Finance. It allows you to retrieve detailed information about stocks, including historical prices, company information, financial statements, options data, and market news. by Alex2Yang97 *(355 ⭐)*
@@ -963,7 +963,7 @@
 - 📄 🔶 **[research-companion](https://github.com/andrehuang/research-companion)** 🤖 R:🟢 M:🟠 — Strategic research thinking agents for Claude Code — idea evaluation, project triage, and structured brainstorming. Helps you decide which papers to write, not just how to write them. by andrehuang *(719 ⭐)*
 - 🔌 🔶 **[dex](https://github.com/dcramer/dex)** 🤖🧠 R:🟡 M:🟠 — Task tracking for Agents by dcramer *(384 ⭐)*
 - ⌨️ 🔶 **[outworked](https://github.com/outworked/outworked)** 🤖 R:🟡 M:✅ — Outworked - Cozy Office for Claude Code by outworked *(393 ⭐)*
-- 🔌 🔶 **[claude-diary](https://github.com/rlancemartin/claude-diary)** 🤖 R:🟢 M:🟠 — A simple memory system for claude code by rlancemartin *(380 ⭐)*
+- 🔌 🔶 **[claude-diary](https://github.com/rlancemartin/claude-diary)** 🤖 R:🟡 M:🟠 — A simple memory system for claude code by rlancemartin *(380 ⭐)*
 - 🔌 🔶 **[my-claude-devteam](https://github.com/NYCU-Chung/my-claude-devteam)** 🤖 R:🟡 M:🟠 — An engineering team in a box for Claude Code — 12 specialized agents, 15 automation hooks, and the P7/P9/P10 methodology. by NYCU-Chung *(269 ⭐)*
 - 📚 🔶 **[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)** 🤖 R:🔴 M:🟠 — Allow all your Claude Codes to message each other ad-hoc! by louislva *(2.2k ⭐)*
 - ⌨️ 🔶 **[claude-run](https://github.com/nilbuild/claude-run)** 🔧 R:🟢 M:🟠 — A beautiful web UI for browsing Claude Code conversation history. by nilbuild *(673 ⭐)*
@@ -1198,7 +1198,7 @@
 - 📚 🔷 **[nexu-io/nexu](https://github.com/nexu-io/nexu)** 🤖🧠 R:🟡 M:✅ — The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7. by nexu-io *(3.3k ⭐)*
 - 🔌 🔷 **[NextBoard](https://github.com/LeoKemp223/NextBoard)** 🤖🧠 R:🔴 M:🟠 — 面向硬件产品PCB方案设计的AI Agent，Agent会自动帮你进行需求确认，实时分析国内外各类芯片技术方案，进行器件选型，下载datasheet，输出BOM表，计算价格，输出模块原理图，最终整合成可落地技术方案。 by LeoKemp223 *(376 ⭐)*
 - ⌨️ 🔶 **[get-shit-done](https://github.com/gsd-build/get-shit-done)** 🧠📟 R:🟡 M:✅ — A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. by gsd-build *(64.4k ⭐)*
-- 🔌 🔶 **[interface-design](https://github.com/Dammyjay93/interface-design)** 🤖 R:🟢 M:✅ — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(5.7k ⭐)*
+- 🔌 🔶 **[interface-design](https://github.com/Dammyjay93/interface-design)** 🤖 R:🟡 M:✅ — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(5.7k ⭐)*
 - 📄 🔶 **[firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder)** 🔧 R:🟡 M:🟠 — 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution by firecrawl *(2.6k ⭐)*
 - 📄 🔷 **[llm-wiki](https://github.com/mduongvandinh/llm-wiki)** 🤖🧠 R:🟡 M:🟠 — Hệ thống knowledge base cá nhân hoàn toàn tự động, vận hành bởi LLM. Dựa trên pattern LLM Wiki của Andrej Karpathy. by mduongvandinh *(213 ⭐)*
 - 📚 🔶 **[ponponon/claude_code_src](https://github.com/ponponon/claude_code_src)** 🔧 R:🟡 M:✅ — 2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文件的 sourcesContent 字段里面，解压还原后有 70w 行代码 by ponponon *(2.3k ⭐)*
@@ -1450,7 +1450,7 @@
 - ⌨️ 🔷 **[zylos-core](https://github.com/zylos-ai/zylos-core)** 🤖 R:🟡 M:🟢 — 🐙 Give your AI a life — open-source agent infrastructure for team collaboration. by zylos-ai *(1.2k ⭐)*
 - 🧠 🔷 **[octo-server](https://github.com/Mininglamp-OSS/octo-server)** 🤖🧠 R:🟡 M:🟢 — 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane. by Mininglamp-OSS *(1.1k ⭐)*
 - 📚 ⭐ **[sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh)** 🤖🧠 R:🔴 M:🟢 — Self-hosted orchestrator for AI autonomous agents. Run Claude Code & Open Code in isolated linux workspaces. Manage your skills, configs and encrypted secrets with a git repo. by Th0rgal *(513 ⭐)*
-- 🔗 🔷 **[quay](https://github.com/quay/quay)** 🤖🔧 R:🟢 M:🟢 — Build, Store, and Distribute your Applications and Containers by quay *(2.8k ⭐)*
+- 🔗 🔷 **[quay](https://github.com/quay/quay)** 🤖🔧 R:🔴 M:🟢 — Build, Store, and Distribute your Applications and Containers by quay *(2.8k ⭐)*
 - 🧠 🔷 **[schaltwerk](https://github.com/2mawi2/schaltwerk)** 🤖🧠 R:🟡 M:🟢 — The IDE without editor by 2mawi2 *(288 ⭐)*
 - 🔄 🔷 **[rossoctl](https://github.com/rossoctl/rossoctl)** 🤖 R:⚫ M:🟢 — Main rossoctl repo - installer, UI and docs by rossoctl *(301 ⭐)*
 - 🔗 🔷 **[oneclickvirt](https://github.com/oneclickvirt/oneclickvirt)** 🤖 R:🔴 M:🟢 — Universal Virtualization Management Platform   可扩展的通用虚拟化管理平台，支持 Proxmox VE / LXD (GPU) / Incus (GPU) / Docker / Podman / Containerd / Qemu / Kubevirt by oneclickvirt *(372 ⭐)*
