@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-30 12:25 UTC; the badges above are live)*
+*(counts as of 2026-09-30 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔷 **[iFixAi](https://github.com/ifixai-ai/iFixAi)** 🤖 R:🟡 M:🟢 — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. by ifixai-ai *(16.7k ⭐)* — discovered Sep 30
 - 🧠 🔷 **[tuios](https://github.com/Gaurav-Gosain/tuios)** 🤖🧠 R:🟡 M:🟢 — A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. by Gaurav-Gosain *(4.3k ⭐)* — discovered Sep 29
-- 📚 🔷 **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** 🤖 R:🟡 M:🟢 — AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools. by evolsb *(458 ⭐)* — discovered Sep 29
 - 📚 🔷 **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** 🤖 R:🟡 M:🟠 — AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community by zubair-trabzada *(1.8k ⭐)* — discovered Sep 29
+- 📚 🔷 **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** 🤖 R:🟡 M:🟢 — AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools. by evolsb *(458 ⭐)* — discovered Sep 29
 - 🔄 ⭐ **[rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii)** 🤖 R:🟡 M:🟢 — Local-first privacy guard: anonymize your documents before sharing with LLMs. by Rizzo-AI-Academy *(1.1k ⭐)* — discovered Sep 28
-- 🧠 ⭐ **[redamon](https://github.com/samugit83/redamon)** 🤖🧠 R:🟡 M:🟢 — An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention. by samugit83 *(2.8k ⭐)* — discovered Sep 28
 
 ---
 
@@ -506,8 +506,8 @@
 - ⌨️ 🔷 **[dexto](https://github.com/truffle-ai/dexto)** 🤖🖱️🧠 R:🟡 M:🟢 — A coding agent and general agent harness for building and orchestrating agentic applications. by truffle-ai *(650 ⭐)*
 - 🔄 🔷 **[mcpfusion](https://github.com/vinkius-labs/mcpfusion)** 🤖 R:🟡 M:🟢 — MCP Fusion - The TypeScript framework for secure MCP servers. by vinkius-labs *(256 ⭐)*
 - 📄 🔷 **[rails-mcp-server](https://github.com/maquina-app/rails-mcp-server)** 🔧 R:🟡 M:🟢 — A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. by maquina-app *(573 ⭐)*
-- 🔗 🔷 **[llmgateway](https://github.com/theopenco/llmgateway)** 🤖🧠 R:🟡 M:🟢 — Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. by theopenco *(1.7k ⭐)*
 - 📄 🔷 **[openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk)** 🤖🧠 R:🟢 M:🟢 — Dingtalk channel plugin for OpenClaw by soimy *(1.7k ⭐)*
+- 🔗 🔷 **[llmgateway](https://github.com/theopenco/llmgateway)** 🤖🧠 R:🟡 M:🟢 — Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. by theopenco *(1.7k ⭐)*
 - 📚 🔷 **[axe](https://github.com/jrswab/axe)** 🤖🧠 R:🔴 M:🟢 — A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. by jrswab *(895 ⭐)*
 - 🔌 🔷 **[claude-video-vision](https://github.com/jordanrendric/claude-video-vision)** 🤖 R:🟡 M:🟢 — Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis by jordanrendric *(1.3k ⭐)*
 - 📄 🔷 **[chat-ollama](https://github.com/sugarforever/chat-ollama)** 🔧 R:🟡 M:🟢 — ChatOllama is an open-source AI chatbot that brings cutting-edge language models to your fingertips while keeping your data private and secure. by sugarforever *(3.5k ⭐)*
@@ -1475,6 +1475,7 @@
 ## 📦 Agent Orchestration
 
 - 📄 ⭐ **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** 🤖🧠 R:🟡 M:🟢 — A lightweight, powerful framework for multi-agent workflows by openai *(29.8k ⭐)*
+- 🧠 ⭐ **[redamon](https://github.com/samugit83/redamon)** 🤖🧠 R:🟡 M:🟢 — An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention. by samugit83 *(2.8k ⭐)*
 - 📚 ⭐ **[microsoft/agent-framework](https://github.com/microsoft/agent-framework)** 🤖🧠 R:🟡 M:🟢 — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. by microsoft *(13.9k ⭐)*
 - 🔌 ⭐ **[ruflo](https://github.com/ruvnet/ruflo)** 🤖 R:🔴 M:🟢 — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration by ruvnet *(73.5k ⭐)*
 - 🔌 ⭐ **[openrig](https://github.com/mvschwarz/openrig)** 🤖 R:🟡 M:🟢 — Multi-agent harness that runs Claude Code and  Codex together as one system by mvschwarz *(2.5k ⭐)*
