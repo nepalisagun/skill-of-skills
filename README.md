@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-30 18:25 UTC; the badges above are live)*
+*(counts as of 2026-09-30 21:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔷 **[opentikz](https://github.com/opentikz/opentikz)** 🤖 R:🟡 M:🟢 — TikZ for paper diagrams, without hand-writing TikZ — copyable icons, editable templates, and a Claude Code skill by opentikz *(257 ⭐)* — discovered Sep 30
 - 🔌 🔷 **[iFixAi](https://github.com/ifixai-ai/iFixAi)** 🤖 R:🟡 M:🟢 — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. by ifixai-ai *(16.7k ⭐)* — discovered Sep 30
 - 🧠 🔷 **[tuios](https://github.com/Gaurav-Gosain/tuios)** 🤖🧠 R:🟡 M:🟢 — A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. by Gaurav-Gosain *(4.3k ⭐)* — discovered Sep 29
 - 📚 🔷 **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** 🤖 R:🟡 M:🟢 — AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools. by evolsb *(458 ⭐)* — discovered Sep 29
 - 📚 🔷 **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** 🤖 R:🟡 M:🟠 — AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community by zubair-trabzada *(1.8k ⭐)* — discovered Sep 29
-- 🔄 ⭐ **[rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii)** 🤖 R:🟡 M:🟢 — Local-first privacy guard: anonymize your documents before sharing with LLMs. by Rizzo-AI-Academy *(1.1k ⭐)* — discovered Sep 28
 
 ---
 
@@ -1123,8 +1123,8 @@
 - 📚 🔷 **[zhu1090093659/spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop)** 🤖🧠 R:🟡 M:🟢 — Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents. by zhu1090093659 *(979 ⭐)*
 - 📄 🔷 **[quiknode-labs/qn-guide-examples](https://github.com/quiknode-labs/qn-guide-examples)** 🤖 R:🟡 M:🟢 — A collection of example applications from QuickNode's Technical Guides by quiknode-labs *(272 ⭐)*
 - 📄 🔷 **[AutoMaker-Org/automaker](https://github.com/AutoMaker-Org/automaker)** 🤖 R:🔴 M:✅ — No description by AutoMaker-Org *(3.2k ⭐)*
-- 📄 🔷 **[sdk-generator](https://github.com/appwrite/sdk-generator)** 🤖🧠 R:🟡 M:🟢 — Generating SDKs for multiple programming languages and platforms ⚙️ by appwrite *(329 ⭐)*
 - 📚 🔷 **[agentrove](https://github.com/Mng-dev-ai/agentrove)** 🔧 R:🔴 M:🟢 — Your own Claude Code UI, sandbox, in-browser VS Code, terminal, multi-provider support (Anthropic, OpenAI, GitHub Copilot, OpenRouter), custom skills, and MCP servers. by Mng-dev-ai *(329 ⭐)*
+- 📄 🔷 **[sdk-generator](https://github.com/appwrite/sdk-generator)** 🤖🧠 R:🟡 M:🟢 — Generating SDKs for multiple programming languages and platforms ⚙️ by appwrite *(329 ⭐)*
 - ⌨️ 🔷 **[agents-radar](https://github.com/duanyytop/agents-radar)** 🤖🧠 R:🟢 M:🟢 — Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions. by duanyytop *(1.1k ⭐)*
 - 📚 🔷 **[plandex](https://github.com/plandex-ai/plandex)** 🔧 R:🔴 M:✅ — Open source AI coding agent. Designed for large projects and real world tasks. by plandex-ai *(15.7k ⭐)*
 - 📄 🔷 **[divine-mobile](https://github.com/divinevideo/divine-mobile)** 🤖🧠 R:🟡 M:🟢 — No description by divinevideo *(265 ⭐)*
@@ -1226,6 +1226,7 @@
 - 📚 ⭐ **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** 🤖🧠 R:🟡 M:🟢 — 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. by alirezarezvani *(26.9k ⭐)*
 - 📚 🔷 **[f/prompts.chat](https://github.com/f/prompts.chat)** 🤖🧠 R:🟢 M:🟢 — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. by f *(171.6k ⭐)*
 - 🔌 ⭐ **[agents](https://github.com/wshobson/agents)** 🤖🖱️🧠 R:🟡 M:🟢 — Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI by wshobson *(40.1k ⭐)*
+- 🔄 ⭐ **[rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii)** 🤖 R:🟡 M:🟢 — Local-first privacy guard: anonymize your documents before sharing with LLMs. by Rizzo-AI-Academy *(1.1k ⭐)*
 - 📄 🔷 **[linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)** 🤖🧠 R:🟡 M:🟢 — An AI prompt optimizer for writing better prompts and getting better AI results. by linshenkx *(36k ⭐)*
 - 🔌 🔷 **[i-have-adhd](https://github.com/ayghri/i-have-adhd)** 🤖 R:🟢 M:🟢 — A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. by ayghri *(52.2k ⭐)*
 - 📚 ⭐ **[skills](https://github.com/trailofbits/skills)** 🤖🧠 R:🟡 M:🟢 — Supercharge your AI agents/bots with reusable skills by trailofbits *(7.3k ⭐)*
