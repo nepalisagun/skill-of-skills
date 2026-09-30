@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-30 00:25 UTC; the badges above are live)*
+*(counts as of 2026-09-30 03:00 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -510,7 +510,7 @@
 - ⌨️ 🔷 **[webperf-snippets](https://github.com/nucliweb/webperf-snippets)** 🤖 R:🟡 M:🟢 — ⚡️ 💾  Web Performance Snippets by nucliweb *(1.4k ⭐)*
 - 📚 🔷 **[reader](https://github.com/jina-ai/reader)** 🤖 R:🟡 M:🟠 — Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ by jina-ai *(12.1k ⭐)*
 - 📚 🔷 **[QVerisAI](https://github.com/QVerisAI/qveris-agent-toolkit)** 🤖 R:🟡 M:🟢 — Official QVeris capability routing network for AI agents — discover, inspect, and call real-world tools and data through one unified interface. by QVerisAI *(262 ⭐)*
-- 🔌 ⭐ **[claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)** 🤖 R:🟢 M:✅ — Intelligent prompt improver hook for Claude Code. Type vibes, ship precision. by severity1 *(1.9k ⭐)*
+- 🔌 ⭐ **[claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)** 🤖 R:🟡 M:✅ — Intelligent prompt improver hook for Claude Code. Type vibes, ship precision. by severity1 *(1.9k ⭐)*
 - ⌨️ 🔷 **[claude-subconscious](https://github.com/letta-ai/claude-subconscious)** 🤖 R:🟡 M:🟢 — Give Claude Code a subconscious by letta-ai *(2.9k ⭐)*
 - 📚 ⭐ **[mofa](https://github.com/mofa-org/mofa)** 🤖🖱️🧠🏄 R:🟡 M:🟢 — MoFA - Modular Framework for Agents. Modular, Compositional and Programmable. by mofa-org *(290 ⭐)*
 - 🔌 🔷 **[nuxt-skills](https://github.com/onmax/nuxt-skills)** 🤖 R:🟢 M:🟢 — Vue, Nuxt, and NuxtHub skills for AI coding assistants. by onmax *(714 ⭐)*
@@ -1463,7 +1463,7 @@
 - 📚 🔷 **[abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control)** 🧠 R:🟢 M:🟢 — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway. by abhi1693 *(4.1k ⭐)*
 - 🧠 🔶 **[daytona](https://github.com/daytonaio/daytona)** 🤖🧠 R:🟢 M:🟢 — Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code by daytonaio *(71.7k ⭐)*
 - 📚 🔷 **[coasts](https://github.com/coast-guard/coasts)** 🧠 R:🟡 M:✅ — Localhost service isolation and orchestration for git worktrees. by coast-guard *(430 ⭐)*
-- 🔗 🔷 **[claude-code-webui](https://github.com/sugyan/claude-code-webui)** 🤖🔧 R:🟢 M:✅ — Web-based interface for Claude CLI with streaming chat responses by sugyan *(1.1k ⭐)*
+- 🔗 🔷 **[claude-code-webui](https://github.com/sugyan/claude-code-webui)** 🤖🔧 R:🟡 M:✅ — Web-based interface for Claude CLI with streaming chat responses by sugyan *(1.1k ⭐)*
 - ⌨️ 🔷 **[zerobox](https://github.com/afshinm/zerobox)** 🔧 R:🟡 M:✅ — Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls. by afshinm *(718 ⭐)*
 - 📚 🔶 **[OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant)** 🤖🧠 R:🔴 M:🟢 — OpenClaw Assistant – Home Assistant Add-on by techartdev *(512 ⭐)*
 - 📄 🔷 **[auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)** 🤖🧠 R:🔴 M:🟠 — 🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory. by Xiangyue-Zhang *(1.3k ⭐)*
