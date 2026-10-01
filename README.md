@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-01 00:25 UTC; the badges above are live)*
+*(counts as of 2026-10-01 03:00 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,10 +70,10 @@
 
 ## 🆕 Latest
 
+- 🔄 🔷 **[haskell-flake](https://github.com/srid/haskell-flake)** 🤖 R:🟡 M:🟢 — A `flake-parts` Nix module for Haskell development by srid *(240 ⭐)* — discovered Oct 1
 - 🔌 🔷 **[opentikz](https://github.com/opentikz/opentikz)** 🤖 R:🟡 M:🟢 — TikZ for paper diagrams, without hand-writing TikZ — copyable icons, editable templates, and a Claude Code skill by opentikz *(257 ⭐)* — discovered Sep 30
 - 🔌 🔷 **[iFixAi](https://github.com/ifixai-ai/iFixAi)** 🤖 R:🟡 M:🟢 — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. by ifixai-ai *(16.7k ⭐)* — discovered Sep 30
 - 🧠 🔷 **[tuios](https://github.com/Gaurav-Gosain/tuios)** 🤖🧠 R:🟡 M:🟢 — A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. by Gaurav-Gosain *(4.3k ⭐)* — discovered Sep 29
-- 📚 🔷 **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** 🤖 R:🟡 M:🟢 — AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools. by evolsb *(458 ⭐)* — discovered Sep 29
 - 📚 🔷 **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** 🤖 R:🟡 M:🟠 — AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community by zubair-trabzada *(1.8k ⭐)* — discovered Sep 29
 
 ---
@@ -409,7 +409,7 @@
 - 📄 🔷 **[haiku.rag](https://github.com/ggozad/haiku.rag)** 🤖 R:🟡 M:🟢 — Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling by ggozad *(614 ⭐)*
 - 📚 🔷 **[looplj/axonhub](https://github.com/looplj/axonhub)** 🤖🧠 R:🟡 M:🟢 — ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. by looplj *(5.3k ⭐)*
 - 🧠 ⭐ **[codealmanac](https://github.com/AlmanacCode/codealmanac)** 🤖🧠 R:🟡 M:🟢 — A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas. by AlmanacCode *(996 ⭐)*
-- 🔌 🔷 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** 🤖 R:🟢 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(1.2k ⭐)*
+- 🔌 🔷 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** 🤖 R:🟡 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(1.2k ⭐)*
 - 📄 ⭐ **[bytedance/UI-TARS](https://github.com/bytedance/UI-TARS)** 🔧 R:🟢 M:🟠 — Pioneering Automated GUI Interaction with Native Agents by bytedance *(11.5k ⭐)*
 - 📚 🔶 **[VibeVoice](https://github.com/microsoft/VibeVoice)** 🔧 R:🟢 M:🟢 — Open-Source Frontier Voice AI by microsoft *(54.5k ⭐)*
 - 🧠 🔷 **[axi](https://github.com/kunchenguid/axi)** 🤖🧠 R:🟡 M:🟢 — Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. by kunchenguid *(2.2k ⭐)*
@@ -503,8 +503,8 @@
 - ⌨️ 🔷 **[dexto](https://github.com/truffle-ai/dexto)** 🤖🖱️🧠 R:🟡 M:🟢 — A coding agent and general agent harness for building and orchestrating agentic applications. by truffle-ai *(650 ⭐)*
 - 🔄 🔷 **[mcpfusion](https://github.com/vinkius-labs/mcpfusion)** 🤖 R:🟡 M:🟢 — MCP Fusion - The TypeScript framework for secure MCP servers. by vinkius-labs *(256 ⭐)*
 - 📄 🔷 **[rails-mcp-server](https://github.com/maquina-app/rails-mcp-server)** 🔧 R:🟡 M:🟢 — A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. by maquina-app *(573 ⭐)*
-- 🔗 🔷 **[llmgateway](https://github.com/theopenco/llmgateway)** 🤖🧠 R:🟡 M:🟢 — Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. by theopenco *(1.7k ⭐)*
 - 📄 🔷 **[openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk)** 🤖🧠 R:🟢 M:🟢 — Dingtalk channel plugin for OpenClaw by soimy *(1.7k ⭐)*
+- 🔗 🔷 **[llmgateway](https://github.com/theopenco/llmgateway)** 🤖🧠 R:🟡 M:🟢 — Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. by theopenco *(1.7k ⭐)*
 - 📚 🔷 **[axe](https://github.com/jrswab/axe)** 🤖🧠 R:🔴 M:🟢 — A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. by jrswab *(895 ⭐)*
 - 🔄 🔷 **[OpenHarness](https://github.com/HKUDS/OpenHarness)** 🤖 R:🟡 M:✅ — "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!" by HKUDS *(15.9k ⭐)*
 - 📄 🔶 **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** 🤖 R:🟢 M:🟠 — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. by multica-ai *(215.9k ⭐)*
@@ -594,6 +594,7 @@
 - ⌨️ 🔷 **[vmprint](https://github.com/cosmiciron/vmprint)** 🤖 R:🟢 M:🟢 — An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. https://cosmiciron.github.io/vmprint/examples/preview/ by cosmiciron *(671 ⭐)*
 - 🔌 ⭐ **[claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)** 🤖 R:🟡 M:✅ — Intelligent prompt improver hook for Claude Code. Type vibes, ship precision. by severity1 *(1.9k ⭐)*
 - 🔌 ⭐ **[claude-stt](https://github.com/jarrodwatts/claude-stt)** 🤖 R:🟢 M:🟠 — Speech-to-text input for Claude Code with live streaming dictation by jarrodwatts *(364 ⭐)*
+- 📚 🔷 **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** 🤖 R:🟡 M:🟢 — AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools. by evolsb *(458 ⭐)*
 - 📄 🔷 **[tinte](https://github.com/Railly/tinte)** 🤖 R:🟡 M:🟢 — Agent-native design system infrastructure. Generate, compile, install, and preview design systems from one source of truth. by Railly *(621 ⭐)*
 - 📄 🔷 **[Claude-code-ChatInWindows](https://github.com/LKbaba/Claude-code-ChatInWindows)** 🤖 R:🟡 M:🟢 — Full-featured GUI for Claude Code CLI in VS Code — Windows (no WSL) & macOS. Third-party API, MCP plugins, Skills, Hooks, real-time token tracking. Actively maintained. by LKbaba *(224 ⭐)*
 - 📚 🔷 **[drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient)** 🤖🧠 R:🟢 M:🟠 — One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes. by drona23 *(6.1k ⭐)*
@@ -1003,7 +1004,7 @@
 - 📚 ⭐ **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** 🤖🧠 R:🟡 M:🟢 — Clone any website with one command using AI coding agents by JCodesMore *(35.5k ⭐)*
 - 🔗 🔷 **[workflow_templates](https://github.com/Comfy-Org/workflow_templates)** 🤖🧠 R:🟢 M:🟢 — ComfyUI template workflows by Comfy-Org *(1.2k ⭐)*
 - 📄 ⭐ **[agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skills-platform)** 🤖 R:🔴 M:🟢 — Turn any workflow into reusable AI agent skills that install on 14+ tools — Claude Code, Copilot, Cursor, Windsurf, Codex, Gemini, Kiro, and more. One SKILL.md, every platform. by FrancyJGLisboa *(2.4k ⭐)*
-- 🔌 🔷 **[claude-code-templates](https://github.com/davila7/claude-code-templates)** 🤖 R:🟢 M:🟢 — CLI tool for configuring and monitoring Claude Code by davila7 *(32.2k ⭐)*
+- 🔌 🔷 **[claude-code-templates](https://github.com/davila7/claude-code-templates)** 🤖 R:🟡 M:🟢 — CLI tool for configuring and monitoring Claude Code by davila7 *(32.2k ⭐)*
 - 🔌 ⭐ **[superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)** 🤖🧠 R:🟡 M:🟢 — 🦸 AI 编程超能力 · 中文增强版 — superpowers（99k+ ⭐）完整汉化 + 6 个中国原创 skills，让 OpenClaw / Claude Code / Cursor / Windsurf / Kiro / Gemini CLI 等 14 款 AI 编程工具真正会干活 by jnMetaCode *(8.2k ⭐)*
 - 📄 🔷 **[t3code](https://github.com/pingdotgg/t3code)** 🤖🧠 R:🟡 M:🟢 — No description by pingdotgg *(23.9k ⭐)*
 - 📚 🔷 **[BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** 🤖🧠 R:🟡 M:🟢 — Breakthrough Method for Agile Ai Driven Development by bmad-code-org *(53.6k ⭐)*
@@ -1123,8 +1124,8 @@
 - 📚 🔷 **[zhu1090093659/spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop)** 🤖🧠 R:🟡 M:🟢 — Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents. by zhu1090093659 *(979 ⭐)*
 - 📄 🔷 **[quiknode-labs/qn-guide-examples](https://github.com/quiknode-labs/qn-guide-examples)** 🤖 R:🟡 M:🟢 — A collection of example applications from QuickNode's Technical Guides by quiknode-labs *(272 ⭐)*
 - 📄 🔷 **[AutoMaker-Org/automaker](https://github.com/AutoMaker-Org/automaker)** 🤖 R:🔴 M:✅ — No description by AutoMaker-Org *(3.2k ⭐)*
-- 📚 🔷 **[agentrove](https://github.com/Mng-dev-ai/agentrove)** 🔧 R:🔴 M:🟢 — Your own Claude Code UI, sandbox, in-browser VS Code, terminal, multi-provider support (Anthropic, OpenAI, GitHub Copilot, OpenRouter), custom skills, and MCP servers. by Mng-dev-ai *(329 ⭐)*
 - 📄 🔷 **[sdk-generator](https://github.com/appwrite/sdk-generator)** 🤖🧠 R:🟡 M:🟢 — Generating SDKs for multiple programming languages and platforms ⚙️ by appwrite *(329 ⭐)*
+- 📚 🔷 **[agentrove](https://github.com/Mng-dev-ai/agentrove)** 🔧 R:🔴 M:🟢 — Your own Claude Code UI, sandbox, in-browser VS Code, terminal, multi-provider support (Anthropic, OpenAI, GitHub Copilot, OpenRouter), custom skills, and MCP servers. by Mng-dev-ai *(329 ⭐)*
 - ⌨️ 🔷 **[agents-radar](https://github.com/duanyytop/agents-radar)** 🤖🧠 R:🟢 M:🟢 — Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions. by duanyytop *(1.1k ⭐)*
 - 📄 🔷 **[divine-mobile](https://github.com/divinevideo/divine-mobile)** 🤖🧠 R:🟡 M:🟢 — No description by divinevideo *(265 ⭐)*
 - 📚 🔷 **[penso/arbor](https://github.com/penso/arbor)** 🤖🧠 R:🟡 M:🟢 — Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs. by penso *(829 ⭐)*
