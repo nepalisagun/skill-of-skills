@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-01 18:25 UTC; the badges above are live)*
+*(counts as of 2026-10-01 21:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -1156,7 +1156,7 @@
 - 🧠 🔷 **[deer-workflow](https://github.com/deerwork-ai/deer-workflow)** 🤖🧠 R:🟡 M:🟢 — An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes. by deerwork-ai *(548 ⭐)*
 - 🧠 🔷 **[1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore)** 🤖🧠 R:🟡 M:🟢 — 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理) by arch3rPro *(213 ⭐)*
 - 🔌 🔷 **[shareAI-skills](https://github.com/shareAI-lab/lab-skills)** 🤖 R:🟢 M:🟢 — shareAI Lab's skills for agent to build agent & other custom software system by shareAI-lab *(314 ⭐)*
-- 🔌 🔷 **[spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)** 🤖 R:🟡 M:🟢 — A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment. by Pimzino *(4.3k ⭐)*
+- 🔌 🔷 **[spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)** 🤖 R:🟡 M:🟠 — A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment. by Pimzino *(4.3k ⭐)*
 - 📄 🔷 **[Claude-Code-Multi-Agent](https://github.com/Prorise-cool/Claude-Code-Multi-Agent)** 🤖🧠 R:🟡 M:🟢 — Claude-Code-Multi-Agent驱动的新一代AI编程助手生态系统，基于Claude Code构建的智能代理协调工作空间，实现从需求到交付的全流程自动化开发 by Prorise-cool *(305 ⭐)*
 - 📄 ⭐ **[code-abyss](https://github.com/telagod/code-abyss)** 🤖🧠 R:🟡 M:🟢 — Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenClaw. Ships Tech Persona Card v1.0 spec. by telagod *(241 ⭐)*
 - 📄 🔷 **[Auto-Redbook-Skills](https://github.com/comeonzhj/Auto-Redbook-Skills)** 🤖 R:🟡 M:🟢 —  一个自动撰写小红书笔记，自动生成图片，自动发布的 Skills by comeonzhj *(2.3k ⭐)*
