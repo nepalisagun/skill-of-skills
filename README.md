@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-01 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-01 12:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -668,7 +668,7 @@
 - 📄 🔷 **[webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** 🤖 R:🟢 M:🟠 — A Claude skill for developing WebGPU applications with Three.js by dgreenheck *(1.2k ⭐)*
 - ⌨️ 🔷 **[symphony-ts](https://github.com/OasAIStudio/symphony-ts)** 🧠 R:🟡 M:✅ — Typecript version of https://github.com/openai/symphony by OasAIStudio *(424 ⭐)*
 - 🔌 🔷 **[coderlm](https://github.com/JaredStewart/coderlm)** 🤖 R:🟡 M:🟠 — Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebases through targeted queries instead of loading everything into context. by JaredStewart *(304 ⭐)*
-- 🔄 🔶 **[openvibe](https://github.com/vitalops/openvibe)** 🔧 R:🔴 M:🟢 — Modular Auto-GPT Framework by vitalops *(1.4k ⭐)*
+- 🔄 🔶 **[openvibe](https://github.com/vitalops/openvibe)** 🔧 R:🔴 M:✅ — Modular Auto-GPT Framework by vitalops *(1.4k ⭐)*
 - 🔄 🔶 **[o3-search-mcp](https://github.com/yoshiko-pg/o3-search-mcp)** 🤖 R:🟡 M:🟢 — MCP server for OpenAI o3 web search by yoshiko-pg *(286 ⭐)*
 - 📚 🔷 **[chatmcp/mcpso](https://github.com/chatmcp/mcpso)** 🔧 R:🟢 M:🔴 — directory for Awesome MCP Servers by chatmcp *(2.1k ⭐)*
 - 📄 🔶 **[muffin](https://github.com/klen/muffin)** 🧠 R:🟢 M:🟢 — Muffin is a fast, simple and asyncronous web-framework for Python 3 by klen *(692 ⭐)*
