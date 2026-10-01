@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **400+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-01 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-01 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
-- 🔌 🔷 **[skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio)** 🤖 R:🟡 M:🟢 — A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more. by microsoft *(457 ⭐)* — discovered Oct 1
+- 🔌 ⭐ **[awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)** 🤖🧠 R:🟡 M:🟢 — A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins by hashgraph-online *(1.1k ⭐)* — discovered Oct 1
 - 🧠 🔷 **[AI-Gateway](https://github.com/Azure-Samples/AI-Gateway)** 🤖🧠 R:🟡 M:🟢 — Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry 🚀 by Azure-Samples *(994 ⭐)* — discovered Oct 1
+- 🔌 🔷 **[skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio)** 🤖 R:🟡 M:🟢 — A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more. by microsoft *(457 ⭐)* — discovered Oct 1
 - 🔄 🔷 **[haskell-flake](https://github.com/srid/haskell-flake)** 🤖 R:🟡 M:🟢 — A `flake-parts` Nix module for Haskell development by srid *(240 ⭐)* — discovered Oct 1
 - 🔌 🔷 **[opentikz](https://github.com/opentikz/opentikz)** 🤖 R:🟡 M:🟢 — TikZ for paper diagrams, without hand-writing TikZ — copyable icons, editable templates, and a Claude Code skill by opentikz *(257 ⭐)* — discovered Sep 30
-- 🔌 🔷 **[iFixAi](https://github.com/ifixai-ai/iFixAi)** 🤖 R:🟡 M:🟢 — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. by ifixai-ai *(17.4k ⭐)* — discovered Sep 30
 
 ---
 
@@ -624,7 +624,7 @@
 - 📄 🔶 **[sofa-ark](https://github.com/sofastack/sofa-ark)** 🤖 R:🟢 M:🟢 — SOFAArk is a light-weight，java based classloader isolation framework. by sofastack *(1.6k ⭐)*
 - 🔗 🔶 **[mcp](https://github.com/IBM/mcp)** 🔧 R:🟢 M:🟢 — A collection of Model Context Protocol (MCP) servers, clients and developer tools by IBM. by IBM *(408 ⭐)*
 - 🔄 🔶 **[spotify-mcp-server](https://github.com/marcelmarais/spotify-mcp-server)** 🔧 R:🟡 M:🟢 — Lightweight MCP server for Spotify by marcelmarais *(468 ⭐)*
-- 📄 🔷 **[figma-use](https://github.com/dannote/figma-use)** 🤖 R:🟡 M:🟢 — Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. by dannote *(605 ⭐)*
+- 📄 🔷 **[figma-use](https://github.com/dannote/figma-use)** 🤖 R:🟡 M:✅ — Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. by dannote *(605 ⭐)*
 - 🔄 🔷 **[quant.cpp](https://github.com/quantumaikr/quant.cpp)** 🤖 R:🔴 M:✅ — LLM inference with 7x longer context. Pure C, zero dependencies. Lossless KV cache compression + single-header library. by quantumaikr *(403 ⭐)*
 - 📚 🔶 **[AIGuide](https://github.com/Snailclimb/AIGuide)** 🤖 R:🟢 M:🟢 — AI 应用开发、AI 编程实战与面试指南，涵盖 LLM、Agent、RAG、MCP、Claude Code、Codex 等核心技术与工程实践。 by Snailclimb *(658 ⭐)*
 - 📄 🔷 **[instantlyeasy/claude-code-sdk-ts](https://github.com/instantlyeasy/claude-code-sdk-ts)** 🔧 R:🟡 M:🟢 — Fluent, chainable TypeScript SDK: configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write'). Multi-level logging plus live onMessage/onToolUse callbacks give deep, CLI-compatible observability. by instantlyeasy *(207 ⭐)*
@@ -715,6 +715,7 @@
 ## 🧪 Product Verification
 
 - 🔗 ⭐ **[inspector](https://github.com/modelcontextprotocol/inspector)** 🤖🧠 R:🟡 M:🟢 — Visual testing tool for MCP servers by modelcontextprotocol *(11k ⭐)*
+- 🔌 🔷 **[iFixAi](https://github.com/ifixai-ai/iFixAi)** 🤖 R:🟡 M:🟢 — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. by ifixai-ai *(17.4k ⭐)*
 - 📄 ⭐ **[claude-hud](https://github.com/jarrodwatts/claude-hud)** 🤖 R:🟢 M:🟢 — A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress by jarrodwatts *(28.2k ⭐)*
 - 📚 ⭐ **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** 🤖🧠 R:🟡 M:🟢 — Browser automation CLI for AI agents by vercel-labs *(43.4k ⭐)*
 - 🔗 🔷 **[chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** 🤖🔧 R:🟡 M:🟢 — Chrome DevTools for coding agents by ChromeDevTools *(52.8k ⭐)*
@@ -1260,7 +1261,7 @@
 - 📚 🔷 **[mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)** 🤖 R:🟢 M:🟢 — 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours! by mergisi *(4k ⭐)*
 - 🔌 🔷 **[Waza](https://github.com/tw93/Waza)** 🤖🧠 R:🟡 M:🟢 — 🥷 Engineering habits you already know, turned into skills Claude can run. by tw93 *(7.1k ⭐)*
 - 📚 🔷 **[ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools)** 🧠 R:🟢 M:🟢 — Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests by ikaijua *(6.2k ⭐)*
-- ⌨️ 🔷 **[awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** 🔧 R:🟢 M:🟢 — A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai by awesome-opencode *(10.4k ⭐)*
+- ⌨️ 🔷 **[awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** 🔧 R:🟢 M:🟠 — A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai by awesome-opencode *(10.4k ⭐)*
 - 🧠 🔷 **[agenta](https://github.com/Agenta-AI/agenta)** 🤖🧠 R:🟡 M:🟢 — Agenta is a workspace where you and your team build agents and automations. by Agenta-AI *(4.8k ⭐)*
 - 🔌 🔷 **[claude-reflect](https://github.com/BayramAnnakov/claude-reflect)** 🤖 R:🟡 M:🟢 — A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md. by BayramAnnakov *(1.7k ⭐)*
 - 📄 ⭐ **[context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit)** 🤖🖱️🏄📟 R:🟡 M:🟢 — Hand-crafted plugin marketplace focused on improving agent results quality. Supports Claude Code, OpenCode, Cursor, Windsurf, and Cline. by NeoLabHQ *(1.7k ⭐)*
