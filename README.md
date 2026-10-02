@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-02 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-02 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 📚 🔶 **[agentic-harness-patterns-skill](https://github.com/keli-wen/agentic-harness-patterns-skill)** 🤖 R:🟡 M:🟠 — Agent skill for harness engineering — memory, permissions, context engineering, multi-agent coordination. Distilled from Claude Code, with Codex CLI and Gemini CLI on the roadmap. EN/ZH. Install via npx skills add. by keli-wen *(304 ⭐)* — discovered Oct 2
 - ⌨️ ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** 🤖 R:🟡 M:🟢 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(330 ⭐)* — discovered Oct 2
 - 🔌 ⭐ **[skills-for-architects](https://github.com/AlpacaLabsLLC/skills-for-architects)** 🤖🧠 R:🟡 M:🟢 — Claude Code skills for architecture, real estate, and workplace strategy. Type /skill-name and go. by AlpacaLabsLLC *(368 ⭐)* — discovered Oct 2
 - 🔄 ⭐ **[cavemem](https://github.com/JuliusBrussee/cavemem)** 🤖 R:🟡 M:🟢 — Frozen — cross-agent persistent memory for coding assistants. Still works; the compressed-memory core now ships inside JuliusBrussee/caveman. by JuliusBrussee *(678 ⭐)* — discovered Oct 1
 - 🔌 ⭐ **[awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)** 🤖🧠 R:🟡 M:🟢 — A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins by hashgraph-online *(1.1k ⭐)* — discovered Oct 1
-- 🧠 🔷 **[AI-Gateway](https://github.com/Azure-Samples/AI-Gateway)** 🤖🧠 R:🟡 M:🟢 — Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry 🚀 by Azure-Samples *(995 ⭐)* — discovered Oct 1
 
 ---
 
@@ -1527,6 +1527,7 @@
 - 🧠 🔷 **[easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent)** 🤖🧠 R:🟡 M:🟢 — 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP. by zhoushoujianwork *(575 ⭐)*
 - 🔌 ⭐ **[claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix)** 🤖 R:🟡 M:🟢 — Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable knowledge. by oliver-kriska *(559 ⭐)*
 - 🔌 🔷 **[MetaGPT](https://github.com/FoundationAgents/MetaGPT)** 🤖 R:🔴 M:✅ — 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming by FoundationAgents *(70.7k ⭐)*
+- 🧠 🔷 **[AI-Gateway](https://github.com/Azure-Samples/AI-Gateway)** 🤖🧠 R:🟡 M:🟢 — Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry 🚀 by Azure-Samples *(995 ⭐)*
 - 🔄 🔷 **[embabel-agent](https://github.com/embabel/embabel-agent)** 🤖 R:🟢 M:🟢 — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ by embabel *(4.5k ⭐)*
 - 🧠 ⭐ **[EmbodiChain](https://github.com/DexForce/EmbodiChain)** 🤖🧠 R:🟡 M:🟢 — An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence. by DexForce *(228 ⭐)*
 - 📝 🔷 **[mindfs](https://github.com/a9gent/mindfs)** 🔧 R:🟡 M:🟢 — Access your personal AI agents and workstation data anywhere, anytime through MindFS. by a9gent *(1.8k ⭐)*
