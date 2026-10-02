@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-02 06:25 UTC; the badges above are live)*
+*(counts as of 2026-10-02 09:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** 🤖 R:🟡 M:🟢 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(330 ⭐)* — discovered Oct 2
 - 🔌 ⭐ **[skills-for-architects](https://github.com/AlpacaLabsLLC/skills-for-architects)** 🤖🧠 R:🟡 M:🟢 — Claude Code skills for architecture, real estate, and workplace strategy. Type /skill-name and go. by AlpacaLabsLLC *(368 ⭐)* — discovered Oct 2
 - 🔄 ⭐ **[cavemem](https://github.com/JuliusBrussee/cavemem)** 🤖 R:🟡 M:🟢 — Frozen — cross-agent persistent memory for coding assistants. Still works; the compressed-memory core now ships inside JuliusBrussee/caveman. by JuliusBrussee *(678 ⭐)* — discovered Oct 1
 - 🔌 ⭐ **[awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)** 🤖🧠 R:🟡 M:🟢 — A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins by hashgraph-online *(1.1k ⭐)* — discovered Oct 1
 - 🧠 🔷 **[AI-Gateway](https://github.com/Azure-Samples/AI-Gateway)** 🤖🧠 R:🟡 M:🟢 — Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry 🚀 by Azure-Samples *(995 ⭐)* — discovered Oct 1
-- 🔌 🔷 **[skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio)** 🤖 R:🟡 M:🟢 — A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more. by microsoft *(457 ⭐)* — discovered Oct 1
 
 ---
 
@@ -1533,6 +1533,7 @@
 - 📚 🔷 **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** 🤖 R:🔴 M:🟢 — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration by OpenBMB *(34.4k ⭐)*
 - 🔌 🔷 **[foremerge](https://github.com/naw103/foremerge)** 🤖🖱️ R:🟡 M:🟢 — Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git. by naw103 *(520 ⭐)*
 - 🧠 🔷 **[quantified-self](https://github.com/jimmykane/quantified-self)** 🤖🧠 R:🟡 M:🟢 — Analyze your data from Garmin, Suunto, Coros to one centralized app by jimmykane *(231 ⭐)*
+- 🔌 🔷 **[skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio)** 🤖 R:🟡 M:🟢 — A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more. by microsoft *(457 ⭐)*
 - ⌨️ 🔷 **[langchat](https://github.com/LangChat/langchat)** 🤖 R:🟡 M:🟢 — LangChat 是由 LangChat Team 开发的开源 AI Agent 应用平台，支持多模型、Agent、知识库 RAG、Skills、MCP 与智能问数。 by LangChat *(1.3k ⭐)*
 - 🧠 🔷 **[go_binance_futures](https://github.com/sorry510/go_binance_futures)** 🤖🧠 R:🟡 M:🟢 — AI agent + 币安合约量化 + 模拟交易 + 历史回测 by sorry510 *(242 ⭐)*
 - 🧠 🔷 **[Chanakya-Local-Friend](https://github.com/samosa-ai-com/Chanakya-Local-Friend)** 🧠 R:🟡 M:🟢 — Chanakya is an advanced, open-source, and self-hostable voice assistant designed for privacy, power, and flexibility. It leverages local AI/ML models to ensure your data stays with you. It Integrates with 1000+ third-party MCP servers including Home Assistant. by samosa-ai-com *(214 ⭐)*
