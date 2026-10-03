@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-03 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-03 12:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -424,7 +424,6 @@
 - 🧠 🔷 **[opa](https://github.com/open-policy-agent/opa)** 🤖🧠 R:🟡 M:🟢 — Open Policy Agent (OPA) is an open source, general-purpose policy engine. by open-policy-agent *(12.3k ⭐)*
 - 🧠 ⭐ **[Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** 🤖🧠 R:🔴 M:🟢 — Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file. by Orkas-AI *(497 ⭐)*
 - 🔗 🔷 **[agentcore-cli](https://github.com/aws/agentcore-cli)** 🤖🧠 R:🟡 M:🟢 — The terminal experience for AgentCore! by aws *(301 ⭐)*
-- 📚 🔶 **[VibeVoice](https://github.com/microsoft/VibeVoice)** 🔧 R:🟢 M:🟢 — Open-Source Frontier Voice AI by microsoft *(54.6k ⭐)*
 - 📄 🔷 **[czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)** 🤖 R:🔴 M:🟢 — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you  by czlonkowski *(23k ⭐)*
 - 📄 🔷 **[dimensionalOS/dimos](https://github.com/dimensionalOS/dimos)** 🧠 R:🟡 M:🟢 — Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators). by dimensionalOS *(4.6k ⭐)*
 - 📄 🔷 **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** 🤖🧠 R:🟡 M:🟢 — Kimi Code CLI is your next CLI agent. by MoonshotAI *(11.4k ⭐)*
@@ -483,6 +482,7 @@
 - 📄 🔷 **[Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit)** 🤖 R:🟢 M:🟢 — Agent plugins/extensions for CLIs and IDEs by Shopify *(584 ⭐)*
 - 🧠 🔷 **[tsparticles](https://github.com/tsparticles/tsparticles)** 🤖🖱️🧠 R:🟢 M:🟢 — tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components. by tsparticles *(9k ⭐)*
 - 📄 🔷 **[code2prompt](https://github.com/mufeedvh/code2prompt)** 🤖🧠 R:🟢 M:🟢 — A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. by mufeedvh *(7.7k ⭐)*
+- 📚 🔶 **[VibeVoice](https://github.com/microsoft/VibeVoice)** 🔧 R:🟢 M:🟢 — Open-Source Frontier Voice AI by microsoft *(54.6k ⭐)*
 - 📚 🔷 **[google-deepmind/gemma](https://github.com/google-deepmind/gemma)** 🔧 R:🟢 M:🟢 — Gemma open-weight LLM library, from Google DeepMind by google-deepmind *(5.8k ⭐)*
 - 📄 🔷 **[antoinezambelli/forge](https://github.com/antoinezambelli/forge)** 🔧 R:🟡 M:🟢 — A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows by antoinezambelli *(2.3k ⭐)*
 - ⌨️ 🔷 **[webperf-snippets](https://github.com/nucliweb/webperf-snippets)** 🤖 R:🟡 M:🟢 — ⚡️ 💾  Web Performance Snippets by nucliweb *(1.4k ⭐)*
