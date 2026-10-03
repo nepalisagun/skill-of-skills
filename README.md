@@ -6,9 +6,9 @@
 [![Curated tier](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fcurated)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-03 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-03 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
-- 📚 🔶 **[agentic-harness-patterns-skill](https://github.com/keli-wen/agentic-harness-patterns-skill)** 🤖 R:🟡 M:🟠 — Agent skill for harness engineering — memory, permissions, context engineering, multi-agent coordination. Distilled from Claude Code, with Codex CLI and Gemini CLI on the roadmap. EN/ZH. Install via npx skills add. by keli-wen *(304 ⭐)* — discovered Oct 2
-- ⌨️ ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** 🤖 R:🟡 M:🟢 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(340 ⭐)* — discovered Oct 2
-- 🔌 ⭐ **[skills-for-architects](https://github.com/AlpacaLabsLLC/skills-for-architects)** 🤖🧠 R:🟡 M:🟢 — Claude Code skills for architecture, real estate, and workplace strategy. Type /skill-name and go. by AlpacaLabsLLC *(368 ⭐)* — discovered Oct 2
-- 🔄 ⭐ **[cavemem](https://github.com/JuliusBrussee/cavemem)** 🤖 R:🟡 M:🟢 — Frozen — cross-agent persistent memory for coding assistants. Still works; the compressed-memory core now ships inside JuliusBrussee/caveman. by JuliusBrussee *(678 ⭐)* — discovered Oct 1
-- 🔌 ⭐ **[awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)** 🤖🧠 R:🟡 M:🟢 — A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins by hashgraph-online *(1.2k ⭐)* — discovered Oct 1
+- 🔄 🔷 **[ARTEX](https://github.com/Autumn-27/ARTEX)** 🤖 R:🟡 M:🟢 — AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 by Autumn-27 *(1.4k ⭐)* — discovered Oct 3
+- 🖱️ 🔷 **[agno](https://github.com/agno-agi/agno)** 🤖🖱️🧠 R:🟡 M:🟢 — Build, run, and manage agent platforms. by agno-agi *(42.5k ⭐)* — discovered Oct 3
+- 🧠 ⭐ **[pi-gui](https://github.com/minghinmatthewlam/pi-gui)** 🤖🧠 R:🟡 M:🟢 — Electron GUI app for the pi coding agent runtime by minghinmatthewlam *(1.1k ⭐)* — discovered Oct 3
+- 🔌 ⭐ **[toolkit](https://github.com/getsentry/toolkit)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic tooling for Sentry by getsentry *(908 ⭐)* — discovered Oct 3
+- 🔌 ⭐ **[obsidian-mind](https://github.com/breferrari/obsidian-mind)** 🤖🧠 R:🟡 M:🟢 — A self-organizing Obsidian vault that gives AI coding agents persistent memory. by breferrari *(4.9k ⭐)* — discovered Oct 3
 
 ---
 
@@ -417,6 +417,7 @@
 - 📚 🔷 **[air](https://github.com/air-verse/air)** 🧠 R:🟢 M:🟢 — ☁️ Live reload for Go apps by air-verse *(24k ⭐)*
 - 📄 ⭐ **[openclaw-claude-code](https://github.com/Enderfga/claw-orchestrator)** 🤖 R:🔴 M:🟢 — Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support. by Enderfga *(587 ⭐)*
 - 🔌 🔷 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** 🤖 R:🟡 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(1.2k ⭐)*
+- 🔄 ⭐ **[cavemem](https://github.com/JuliusBrussee/cavemem)** 🤖 R:🟡 M:🟢 — Frozen — cross-agent persistent memory for coding assistants. Still works; the compressed-memory core now ships inside JuliusBrussee/caveman. by JuliusBrussee *(678 ⭐)*
 - 🔌 ⭐ **[open-ontologies](https://github.com/fabio-rovai/open-ontologies)** 🤖 R:🟡 M:🟢 — An engineering and verification platform for trustworthy enterprise ontologies and knowledge graphs. by fabio-rovai *(548 ⭐)*
 - 📄 🔷 **[matlab/matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-server)** 🔧 R:🟡 M:🟢 — Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code. by matlab *(1.6k ⭐)*
 - 📄 🔷 **[registry-broker-skills](https://github.com/hashgraph-online/registry-broker-skills)** 🤖 R:🟢 M:🟢 — AI agent skills for the Universal Registry - search, chat, and register 72,000+ agents across 14+ protocols. Works with Claude, Codex, Cursor, OpenClaw, and any AI assistant. by hashgraph-online *(437 ⭐)*
@@ -1494,6 +1495,7 @@
 - 🔌 ⭐ **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** 🤖🧠 R:🔴 M:🟢 — An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. by agentscope-ai *(5.7k ⭐)*
 - 📄 ⭐ **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** 🤖🖱️🧠 R:🟢 M:🟢 — AI Agent Framework, the Pydantic way by pydantic *(20.4k ⭐)*
 - 🧠 ⭐ **[OpenCreator](https://github.com/krillinai/OpenCreator)** 🤖🧠 R:🟡 M:🟢 — Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place. by krillinai *(12.6k ⭐)*
+- 🔌 ⭐ **[awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)** 🤖🧠 R:🟡 M:🟢 — A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins by hashgraph-online *(1.2k ⭐)*
 - 🧠 🔷 **[tuios](https://github.com/Gaurav-Gosain/tuios)** 🤖🧠 R:🟡 M:🟢 — A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. by Gaurav-Gosain *(4.6k ⭐)*
 - 🧠 ⭐ **[omnigent](https://github.com/omnigent-ai/omnigent)** 🤖🧠 R:🔴 M:🟢 — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. by omnigent-ai *(10.4k ⭐)*
 - 🔄 🔷 **[starnet](https://github.com/androoAGI/starnet)** 🔧 R:🟡 M:🟢 — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. by androoAGI *(967 ⭐)*
@@ -1513,6 +1515,7 @@
 - 🔌 ⭐ **[pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills)** 🤖🧠 R:🟡 M:🟢 — 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'. by mohitagw15856 *(1.4k ⭐)*
 - 🔌 🔷 **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** 🤖🧠 R:🟡 M:🟢 — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference by NVIDIA *(22.6k ⭐)*
 - 📄 🔷 **[VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)** 🤖🖱️🧠 R:🟡 M:🟢 — AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework by VoltAgent *(10.7k ⭐)*
+- ⌨️ ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** 🤖 R:🟡 M:🟢 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(340 ⭐)*
 - 🔌 🔷 **[newsjack](https://github.com/elvisun/newsjack)** 🤖🧠 R:🟡 M:🟢 — The open-source skills that turn your agent into a full PR team. by elvisun *(1.5k ⭐)*
 - 🔌 ⭐ **[deja-vu](https://github.com/vshulcz/deja-vu)** 🤖 R:🟡 M:🟢 — One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. by vshulcz *(1.1k ⭐)*
 - 🧠 🔷 **[Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)** 🤖🧠 R:🟡 M:🟢 — Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V by AtomicBot-ai *(1.7k ⭐)*
@@ -1528,6 +1531,7 @@
 - 🧠 ⭐ **[desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)** 🤖🧠 R:🟡 M:🟢 — Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. by zhukunpenglinyutong *(4.4k ⭐)*
 - 🔌 🔷 **[skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio)** 🤖 R:🟡 M:🟢 — A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more. by microsoft *(458 ⭐)*
 - 📚 🔷 **[cft0808/edict](https://github.com/cft0808/edict)** 🔧 R:🔴 M:🟢 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails by cft0808 *(17k ⭐)*
+- 🔌 ⭐ **[skills-for-architects](https://github.com/AlpacaLabsLLC/skills-for-architects)** 🤖🧠 R:🟡 M:🟢 — Claude Code skills for architecture, real estate, and workplace strategy. Type /skill-name and go. by AlpacaLabsLLC *(368 ⭐)*
 - 📚 🔷 **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** 🤖 R:🔴 M:🟢 — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration by OpenBMB *(34.4k ⭐)*
 - 🧠 ⭐ **[EmbodiChain](https://github.com/DexForce/EmbodiChain)** 🤖🧠 R:🟡 M:🟢 — An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence. by DexForce *(228 ⭐)*
 - 🔗 🔷 **[loop-engineering](https://github.com/cobusgreyling/loop-engineering)** 🤖🧠 R:🟡 M:🟢 — Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. by cobusgreyling *(11.4k ⭐)*
@@ -1541,6 +1545,7 @@
 - 🔌 🔷 **[hive](https://github.com/rllm-org/hive)** 🤖🧠 R:🟡 M:🟠 — No description by rllm-org *(215 ⭐)*
 - 🔄 🔷 **[ai-trader](https://github.com/whchien/ai-trader)** 🤖 R:🟡 M:✅ — Backtrader-powered backtesting framework for algorithmic trading, featuring 20+ strategies, multi-market support, CLI tools, and an integrated MCP server for professional traders. by whchien *(1.1k ⭐)*
 - 🧠 🔶 **[project-nova](https://github.com/dujonwalker/project-nova)** 🧠 R:🟡 M:🟠 — A multi-agent AI architecture that connects 25+ specialized agents through n8n and MCP servers. Project NOVA routes requests to domain-specific experts, enabling control of applications from knowledge bases to DAWs, home automation to development tools. Includes system prompts, Dockerfiles, and workflows for a complete AI assistant ecosystem. by dujonwalker *(271 ⭐)*
+- 📚 🔶 **[agentic-harness-patterns-skill](https://github.com/keli-wen/agentic-harness-patterns-skill)** 🤖 R:🟡 M:🟠 — Agent skill for harness engineering — memory, permissions, context engineering, multi-agent coordination. Distilled from Claude Code, with Codex CLI and Gemini CLI on the roadmap. EN/ZH. Install via npx skills add. by keli-wen *(304 ⭐)*
 
 ---
 
