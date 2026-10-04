@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-04 00:25 UTC; the badges above are live)*
+*(counts as of 2026-10-04 03:00 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -218,7 +218,7 @@
 - 📚 🔷 **[yamadashy/repomix](https://github.com/yamadashy/repomix)** 🤖🖱️🧠 R:🟡 M:🟢 — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. by yamadashy *(28.7k ⭐)*
 - 📚 🔷 **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)** 🤖 R:🟡 M:🟢 — OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. by volcengine *(39.1k ⭐)*
 - 🧠 🔷 **[agents](https://github.com/livekit/agents)** 🤖🧠 R:🟢 M:🟢 — A framework for building realtime voice AI agents 🤖🎙️📹 by livekit *(14.5k ⭐)*
-- 🔌 ⭐ **[Claude-ast-index-search](https://github.com/defendend/Claude-ast-index-search)** 🤖🖱️ R:🟢 M:🟢 — Cli позволяет индексировать файлы и сильно ускорить поиск Claude/Cursor by defendend *(567 ⭐)*
+- 🔌 ⭐ **[Claude-ast-index-search](https://github.com/defendend/Claude-ast-index-search)** 🤖🖱️ R:🟡 M:🟢 — Cli позволяет индексировать файлы и сильно ускорить поиск Claude/Cursor by defendend *(567 ⭐)*
 - 📚 🔷 **[Fabric](https://github.com/danielmiessler/Fabric)** 🔧 R:🟢 M:🟢 — Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. by danielmiessler *(44.1k ⭐)*
 - 📄 ⭐ **[elizaOS/eliza](https://github.com/elizaOS/eliza)** 🤖🖱️🧠 R:🔴 M:🟢 — Open source agentic operating system by elizaOS *(19.5k ⭐)*
 - 🔌 🔷 **[ego-lite](https://github.com/citrolabs/ego-lite)** 🤖🧠 R:🟡 M:🟢 — The best browser for both you and your AI agents work in parallel. by citrolabs *(16.8k ⭐)*
@@ -746,7 +746,7 @@
 - 🔌 ⭐ **[revdiff](https://github.com/umputun/revdiff)** 🤖🧠 R:🟡 M:🟢 — TUI for reviewing diffs, files, and documents with inline annotations by umputun *(911 ⭐)*
 - 🔌 🔷 **[playwright-skill](https://github.com/lackeyjb/playwright-skill)** 🤖 R:🔴 M:🟢 — Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation. by lackeyjb *(3.2k ⭐)*
 - 🔌 ⭐ **[dev-browser](https://github.com/SawyerHood/dev-browser)** 🤖🧠 R:🟡 M:🟢 — A Claude Skill to give your agent the ability to use a web browser by SawyerHood *(6.6k ⭐)*
-- 🔗 🔷 **[langwatch](https://github.com/langwatch/langwatch)** 🤖🔧 R:🟢 M:🟢 — The platform for LLM evaluations and AI agent testing by langwatch *(4.9k ⭐)*
+- 🔗 🔷 **[langwatch](https://github.com/langwatch/langwatch)** 🤖🔧 R:🔴 M:🟢 — The platform for LLM evaluations and AI agent testing by langwatch *(4.9k ⭐)*
 - 📄 🔷 **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** 🧠 R:🟡 M:🟢 — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra by bytedance *(39.2k ⭐)*
 - 🧠 ⭐ **[skill-up](https://github.com/alibaba/skill-up)** 🤖🧠 R:🟡 M:🟢 — An evaluation and evolution tool for Agent Skills. by alibaba *(1.1k ⭐)*
 - 🔄 ⭐ **[airship](https://github.com/0xnyn/airship)** 🤖 R:🟡 M:🟢 — Figma like visual editor built for Claude Code, Codex and OpenCode by 0xnyn *(718 ⭐)*
