@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-04 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-04 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔄 🔷 **[uniterm](https://github.com/ys-ll/uniterm)** 🔧 R:🟡 M:🟢 — A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands. by ys-ll *(663 ⭐)* — discovered Oct 4
+- 🔄 🔷 **[FounderOS-DEMO](https://github.com/Bennettxai/FounderOS-DEMO)** 🤖 R:🟡 M:🟢 — An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. by Bennettxai *(953 ⭐)* — discovered Oct 4
+- 🔌 ⭐ **[pstack-claude](https://github.com/michael-denyer/pstack-claude)** 🤖 R:🟡 M:🟢 — Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. by michael-denyer *(1.1k ⭐)* — discovered Oct 4
 - 🔄 🔷 **[ARTEX](https://github.com/Autumn-27/ARTEX)** 🤖 R:🟡 M:🟢 — AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 by Autumn-27 *(1.5k ⭐)* — discovered Oct 3
 - 🖱️ 🔷 **[agno](https://github.com/agno-agi/agno)** 🤖🖱️🧠 R:🟡 M:🟢 — Build, run, and manage agent platforms. by agno-agi *(42.5k ⭐)* — discovered Oct 3
-- 🧠 ⭐ **[pi-gui](https://github.com/minghinmatthewlam/pi-gui)** 🤖🧠 R:🟡 M:🟢 — Electron GUI app for the pi coding agent runtime by minghinmatthewlam *(1.1k ⭐)* — discovered Oct 3
-- 🔌 ⭐ **[toolkit](https://github.com/getsentry/toolkit)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic tooling for Sentry by getsentry *(909 ⭐)* — discovered Oct 3
-- 🔌 ⭐ **[obsidian-mind](https://github.com/breferrari/obsidian-mind)** 🤖🧠 R:🟡 M:🟢 — A self-organizing Obsidian vault that gives AI coding agents persistent memory. by breferrari *(4.9k ⭐)* — discovered Oct 3
 
 ---
 
@@ -1212,7 +1212,7 @@
 - 📚 🔶 **[SixHq/Overture](https://github.com/SixHq/Overture)** 🤖 R:🟡 M:✅ — Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code.  by SixHq *(641 ⭐)*
 - 📚 🔶 **[jarmuine/claude-code](https://github.com/jarmuine/claude-code)** 🔧 R:🟡 M:🟠 — Fork of instructkr/claude-code by jarmuine *(2.3k ⭐)*
 - 📄 🔶 **[terrae](https://github.com/alamenai/terrae)** 🤖 R:🟡 M:🟠 — Composable and animated components that replace imperative layers with simple props. The perfect companion for shadcn/ui. by alamenai *(245 ⭐)*
-- 🔌 🔶 **[designer-skills](https://github.com/julianoczkowski/designer-skills)** 🤖 R:🟢 M:🟢 — A collection of agent skills for designers who prototype and build with AI coding tools. These skills encode design process so AI follows a structured path instead of producing random output. by julianoczkowski *(573 ⭐)*
+- 🔌 🔶 **[designer-skills](https://github.com/julianoczkowski/designer-skills)** 🤖 R:🟢 M:🟠 — A collection of agent skills for designers who prototype and build with AI coding tools. These skills encode design process so AI follows a structured path instead of producing random output. by julianoczkowski *(573 ⭐)*
 - 🔌 🔶 **[makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** 🤖 R:🟢 M:🟠 — Build App with Makepad and AI skills by ZhangHanDong *(748 ⭐)*
 - 📚 🔶 **[Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)** 🤖 R:🟡 M:🟠 — Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and security classification by Leonxlnx *(2.6k ⭐)*
 - 🔌 🔶 **[opendesign](https://github.com/manalkaff/opendesign)** 🤖🧠 R:🟡 M:✅ — claude.ai/design open-sourced! by manalkaff *(261 ⭐)*
@@ -1499,11 +1499,13 @@
 - 📄 ⭐ **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** 🤖🖱️🧠 R:🟢 M:🟢 — AI Agent Framework, the Pydantic way by pydantic *(20.4k ⭐)*
 - 🔄 🔷 **[starnet](https://github.com/androoAGI/starnet)** 🔧 R:🟡 M:🟢 — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. by androoAGI *(1k ⭐)*
 - 🔄 🔷 **[anythingmcp](https://github.com/HelpCode-ai/anythingmcp)** 🤖 R:🟡 M:🟢 — Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude & ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA & Business One, ERP, e-commerce. by HelpCode-ai *(822 ⭐)*
+- 🔌 ⭐ **[obsidian-mind](https://github.com/breferrari/obsidian-mind)** 🤖🧠 R:🟡 M:🟢 — A self-organizing Obsidian vault that gives AI coding agents persistent memory. by breferrari *(4.9k ⭐)*
 - 🧠 ⭐ **[Albatross](https://github.com/morganlinton/Albatross)** 🤖🧠 R:🔴 M:🟢 — Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box. by morganlinton *(235 ⭐)*
 - 🧠 ⭐ **[MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** 🤖🧠 R:🟡 M:🟢 — MiMo Code: Where Models and Agents Co-Evolve by XiaomiMiMo *(13.6k ⭐)*
 - 📚 ⭐ **[simstudioai/sim](https://github.com/simstudioai/sim)** 🤖🖱️🧠 R:🔴 M:🟢 — Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. by simstudioai *(29.8k ⭐)*
 - 📚 🔷 **[crewAI](https://github.com/crewAIInc/crewAI)** 🧠 R:🟡 M:🟢 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. by crewAIInc *(59.3k ⭐)*
 - 🧠 🔷 **[tuios](https://github.com/Gaurav-Gosain/tuios)** 🤖🧠 R:🟡 M:🟢 — A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. by Gaurav-Gosain *(4.6k ⭐)*
+- 🧠 ⭐ **[pi-gui](https://github.com/minghinmatthewlam/pi-gui)** 🤖🧠 R:🟡 M:🟢 — Electron GUI app for the pi coding agent runtime by minghinmatthewlam *(1.1k ⭐)*
 - 🧠 ⭐ **[agentos](https://github.com/rivet-dev/agentos)** 🤖🧠 R:🔴 M:🟢 — A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in. by rivet-dev *(4.7k ⭐)*
 - 📄 ⭐ **[withastro/flue](https://github.com/withastro/flue)** 🤖🧠 R:🟡 M:🟢 — The sandbox agent framework. by withastro *(8.4k ⭐)*
 - 📄 ⭐ **[kyegomez/swarms](https://github.com/kyegomez/swarms)** 🤖🧠 R:🔴 M:🟢 — The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai by kyegomez *(7.2k ⭐)*
@@ -1520,6 +1522,7 @@
 - 🔌 ⭐ **[pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills)** 🤖🧠 R:🟡 M:🟢 — 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'. by mohitagw15856 *(1.4k ⭐)*
 - 🔌 🔷 **[agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)** 🤖🖱️🧠 R:🟡 M:🟢 — The cross-harness self-improving memory layer for AI agents. by Asymptote-Labs *(1.8k ⭐)*
 - ⌨️ ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** 🤖 R:🟡 M:🟢 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(352 ⭐)*
+- 🔌 ⭐ **[toolkit](https://github.com/getsentry/toolkit)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic tooling for Sentry by getsentry *(909 ⭐)*
 - 📚 🔷 **[cft0808/edict](https://github.com/cft0808/edict)** 🔧 R:🔴 M:🟢 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails by cft0808 *(17k ⭐)*
 - 🧠 🔷 **[Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)** 🤖🧠 R:🟡 M:🟢 — Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V by AtomicBot-ai *(1.7k ⭐)*
 - 🔌 🔷 **[newsjack](https://github.com/elvisun/newsjack)** 🤖🧠 R:🟡 M:🟢 — The open-source skills that turn your agent into a full PR team. by elvisun *(1.5k ⭐)*
