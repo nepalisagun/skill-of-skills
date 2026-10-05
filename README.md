@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-05 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-05 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🧠 ⭐ **[veritas-kanban](https://github.com/BradGroux/veritas-kanban)** 🤖🧠 R:🟡 M:🟢 — Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands. by BradGroux *(835 ⭐)* — discovered Oct 5
+- ⌨️ 🔶 **[OptMem](https://github.com/VictorTaelin/OptMem)** 🔧 R:🟡 M:🟢 — Permanent memory for AI agents. A 426-token prompt, a script, plug and play. by VictorTaelin *(1.9k ⭐)* — discovered Oct 5
 - 🔌 🔷 **[cyrus](https://github.com/cyrusagents/cyrus)** 🤖🧠 R:🟡 M:🟢 — The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor, Gemini, and Opencode harnesses too. by cyrusagents *(846 ⭐)* — discovered Oct 5
 - 🧠 🔷 **[deepdetect](https://github.com/jolibrain/deepdetect)** 🤖🧠 R:🟡 M:🟢 — Deep Learning Server and CLI for Torch and TensorRT by jolibrain *(2.6k ⭐)* — discovered Oct 5
 - 🔄 🔷 **[uniterm](https://github.com/ys-ll/uniterm)** 🔧 R:🟡 M:🟢 — A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands. by ys-ll *(680 ⭐)* — discovered Oct 4
-- 🔄 🔷 **[FounderOS-DEMO](https://github.com/Bennettxai/FounderOS-DEMO)** 🤖 R:🟡 M:🟢 — An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. by Bennettxai *(967 ⭐)* — discovered Oct 4
-- 🔌 ⭐ **[pstack-claude](https://github.com/michael-denyer/pstack-claude)** 🤖 R:🟡 M:🟢 — Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. by michael-denyer *(1.2k ⭐)* — discovered Oct 4
 
 ---
 
@@ -953,7 +953,7 @@
 - 📚 🔶 **[smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad)** 🔧 R:🔴 M:🟢 — Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp. by smtg-ai *(8.6k ⭐)*
 - 🔄 🔷 **[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote)** 🔧 R:🔴 M:🟠 — Control Claude Code remotely via email、discord、telegram. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails. by JessyTsui *(1.3k ⭐)*
 - 📚 🔷 **[agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta)** 🤖🧠 R:🟡 M:🟠 — Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own. by agenticnotetaking *(3.5k ⭐)*
-- 🔗 🔷 **[Dorothy](https://github.com/Charlie85270/Dorothy)** 🤖🖱️🧠 R:🟡 M:🟢 — Dorothy, the wife your AI agents needs. by Charlie85270 *(350 ⭐)*
+- 🔗 🔷 **[Dorothy](https://github.com/Charlie85270/Dorothy)** 🤖🖱️🧠 R:🟡 M:✅ — Dorothy, the wife your AI agents needs. by Charlie85270 *(350 ⭐)*
 - 📚 🔷 **[MassGen](https://github.com/massgen/MassGen)** 🤖🧠 R:🔴 M:✅ — 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai by massgen *(1.1k ⭐)*
 - 📄 🔷 **[codex-orchestrator](https://github.com/kingbootoshi/codex-orchestrator)** 🤖🧠 R:🔴 M:🟠 — Delegate tasks to OpenAI Codex agents via tmux sessions. Designed for Claude Code orchestration. by kingbootoshi *(352 ⭐)*
 - ⌨️ 🔷 **[call-me](https://github.com/ZeframLou/call-me)** 🤖 R:🔴 M:✅ — Minimal plugin that lets Claude Code call you on the phone. by ZeframLou *(2.6k ⭐)*
@@ -1488,6 +1488,7 @@
 - 🧠 ⭐ **[redamon](https://github.com/samugit83/redamon)** 🤖🧠 R:🟡 M:🟢 — An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention. by samugit83 *(2.9k ⭐)*
 - 🔄 ⭐ **[laya](https://github.com/aayushch/laya)** 🤖 R:🟡 M:🟢 — Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook,  Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK. by aayushch *(556 ⭐)*
 - 🔌 ⭐ **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** 🤖🧠 R:🔴 M:🟢 — An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. by agentscope-ai *(5.7k ⭐)*
+- 🔌 ⭐ **[pstack-claude](https://github.com/michael-denyer/pstack-claude)** 🤖 R:🟡 M:🟢 — Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. by michael-denyer *(1.2k ⭐)*
 - 📝 ⭐ **[agenticSeek](https://github.com/Fosowl/agenticSeek)** 🔧 R:🟡 M:🟢 — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. by Fosowl *(27.4k ⭐)*
 - 🧠 ⭐ **[munder-difflin](https://github.com/HarnessMD/munder-difflin)** 🤖🧠 R:🟡 M:🟢 — local multi-agent harness by HarnessMD *(8.4k ⭐)*
 - 🧠 ⭐ **[omnigent](https://github.com/omnigent-ai/omnigent)** 🤖🧠 R:🔴 M:🟢 — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. by omnigent-ai *(10.5k ⭐)*
@@ -1513,6 +1514,7 @@
 - 🧠 🔷 **[PanWatch](https://github.com/TNT-Likely/PanWatch)** 🧠 R:🟡 M:🟢 — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 by TNT-Likely *(2k ⭐)*
 - 🧠 ⭐ **[MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** 🤖🧠 R:🟡 M:🟢 — MiMo Code: Where Models and Agents Co-Evolve by XiaomiMiMo *(13.6k ⭐)*
 - 🖱️ 🔷 **[agno](https://github.com/agno-agi/agno)** 🤖🖱️🧠 R:🟡 M:🟢 — Build, run, and manage agent platforms. by agno-agi *(42.6k ⭐)*
+- 🔄 🔷 **[FounderOS-DEMO](https://github.com/Bennettxai/FounderOS-DEMO)** 🤖 R:🟡 M:🟢 — An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. by Bennettxai *(967 ⭐)*
 - 🔌 ⭐ **[toolkit](https://github.com/getsentry/toolkit)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic tooling for Sentry by getsentry *(912 ⭐)*
 - 🧠 ⭐ **[Albatross](https://github.com/morganlinton/Albatross)** 🤖🧠 R:🔴 M:🟢 — Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box. by morganlinton *(235 ⭐)*
 - 🧠 ⭐ **[desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)** 🤖🧠 R:🟡 M:🟢 — Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. by zhukunpenglinyutong *(4.4k ⭐)*
