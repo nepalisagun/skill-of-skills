@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-05 00:25 UTC; the badges above are live)*
+*(counts as of 2026-10-05 03:00 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔷 **[cyrus](https://github.com/cyrusagents/cyrus)** 🤖🧠 R:🟡 M:🟢 — The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor, Gemini, and Opencode harnesses too. by cyrusagents *(845 ⭐)* — discovered Oct 5
+- 🧠 🔷 **[deepdetect](https://github.com/jolibrain/deepdetect)** 🤖🧠 R:🟡 M:🟢 — Deep Learning Server and CLI for Torch and TensorRT by jolibrain *(2.6k ⭐)* — discovered Oct 5
 - 🔄 🔷 **[uniterm](https://github.com/ys-ll/uniterm)** 🔧 R:🟡 M:🟢 — A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands. by ys-ll *(663 ⭐)* — discovered Oct 4
 - 🔄 🔷 **[FounderOS-DEMO](https://github.com/Bennettxai/FounderOS-DEMO)** 🤖 R:🟡 M:🟢 — An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. by Bennettxai *(953 ⭐)* — discovered Oct 4
 - 🔌 ⭐ **[pstack-claude](https://github.com/michael-denyer/pstack-claude)** 🤖 R:🟡 M:🟢 — Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. by michael-denyer *(1.1k ⭐)* — discovered Oct 4
-- 🔄 🔷 **[ARTEX](https://github.com/Autumn-27/ARTEX)** 🤖 R:🟡 M:🟢 — AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 by Autumn-27 *(1.5k ⭐)* — discovered Oct 3
-- 🖱️ 🔷 **[agno](https://github.com/agno-agi/agno)** 🤖🖱️🧠 R:🟡 M:🟢 — Build, run, and manage agent platforms. by agno-agi *(42.5k ⭐)* — discovered Oct 3
 
 ---
 
@@ -593,7 +593,7 @@
 - 🧠 🔷 **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** 🤖🧠 R:🟢 M:🟢 — Project Manager Extension for Visual Studio Code by alefragnani *(2.7k ⭐)*
 - 🔌 🔷 **[KSafe](https://github.com/ioannisa/KSafe)** 🤖🧠 R:🟢 M:🟢 — A library for saving key/value pair data for Kotlin Multiplatform and Android. Encryption enabled by default, with option for Plain (unencrypted) storage. Supports Property Delegates, Flow/StateFlow, with Jetpack Compose and biometrics integration using hardware-backed encryption. by ioannisa *(332 ⭐)*
 - 🔄 🔷 **[homebridge-eufy](https://github.com/homebridge-plugins/homebridge-eufy)** 🤖 R:🟡 M:🟢 — Homebridge plugin to control certain Anker Eufy devices by homebridge-plugins *(222 ⭐)*
-- 🔗 🔷 **[supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers)** 🤖🔧 R:🟢 M:🟢 — A collection of framework specific Cache utilities for working with Supabase. by psteinroe *(682 ⭐)*
+- 🔗 🔷 **[supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers)** 🤖🔧 R:🟡 M:🟢 — A collection of framework specific Cache utilities for working with Supabase. by psteinroe *(682 ⭐)*
 - 📚 🔷 **[airweave](https://github.com/airweave-ai/airweave)** 🤖🖱️ R:🟡 M:✅ — Open-source context retrieval layer for AI agents by airweave-ai *(6.6k ⭐)*
 - 🧠 🔷 **[harness-books](https://github.com/wquguru/harness-books)** 🤖🧠 R:🟢 M:🟠 — 📚 Two books on harness engineering — the design philosophies behind Claude Code & Codex: constraints, query loops, context governance, multi-agent verification. harness-books.agentway.dev by wquguru *(3.2k ⭐)*
 - 🔄 🔷 **[algorithms](https://github.com/williamfiset/algorithms)** 🤖 R:🟢 M:🟠 — A collection of algorithms and data structures by williamfiset *(18.8k ⭐)*
@@ -1512,6 +1512,7 @@
 - 📝 ⭐ **[agenticSeek](https://github.com/Fosowl/agenticSeek)** 🔧 R:🟡 M:🟢 — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. by Fosowl *(27.4k ⭐)*
 - 🧠 🔷 **[PanWatch](https://github.com/TNT-Likely/PanWatch)** 🧠 R:🟡 M:🟢 — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 by TNT-Likely *(2k ⭐)*
 - 🔌 🔷 **[whiteboard](https://github.com/devdotfast/whiteboard)** 🤖🧠 R:🟡 M:🟢 — open-source IDE for thoughtful software design by devdotfast *(2.7k ⭐)*
+- 🔄 🔷 **[ARTEX](https://github.com/Autumn-27/ARTEX)** 🤖 R:🟡 M:🟢 — AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 by Autumn-27 *(1.5k ⭐)*
 - 🧠 ⭐ **[desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)** 🤖🧠 R:🟡 M:🟢 — Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. by zhukunpenglinyutong *(4.4k ⭐)*
 - 🔌 ⭐ **[deja-vu](https://github.com/vshulcz/deja-vu)** 🤖 R:🟡 M:🟢 — One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. by vshulcz *(1.1k ⭐)*
 - 📄 🔷 **[VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)** 🤖🖱️🧠 R:🟡 M:🟢 — AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework by VoltAgent *(10.7k ⭐)*
@@ -1519,6 +1520,7 @@
 - 📚 ⭐ **[builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)** 🤖 R:🟡 M:🟢 — Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard. by builderz-labs *(6.3k ⭐)*
 - 🔌 ⭐ **[pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills)** 🤖🧠 R:🟡 M:🟢 — 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'. by mohitagw15856 *(1.4k ⭐)*
 - 🔌 🔷 **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** 🤖🧠 R:🟡 M:🟢 — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference by NVIDIA *(22.6k ⭐)*
+- 🖱️ 🔷 **[agno](https://github.com/agno-agi/agno)** 🤖🖱️🧠 R:🟡 M:🟢 — Build, run, and manage agent platforms. by agno-agi *(42.5k ⭐)*
 - 🔌 🔷 **[agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)** 🤖🖱️🧠 R:🟡 M:🟢 — The cross-harness self-improving memory layer for AI agents. by Asymptote-Labs *(1.8k ⭐)*
 - ⌨️ ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** 🤖 R:🟡 M:🟢 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(352 ⭐)*
 - ⌨️ 🔷 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** 🤖 R:🔴 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(39.6k ⭐)*
