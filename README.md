@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-06 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-06 12:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
-- 🔄 🔷 **[genoffice](https://github.com/genspark-ai/genoffice)** 🤖 R:🟡 M:🟢 — Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux. by genspark-ai *(8.7k ⭐)* — discovered Oct 6
+- 🔌 🔶 **[comfyui-custom-node-skills](https://github.com/jtydhr88/comfyui-custom-node-skills)** 🤖 R:🟡 M:🟢 — A curated collection of [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code/skills) for developing ComfyUI custom nodes. These skills give Claude comprehensive knowledge of the ComfyUI node system, covering both the V3 (recommended) and V1 (legacy) APIs. by jtydhr88 *(294 ⭐)* — discovered Oct 6
 - 📄 🔶 **[academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer)** 🤖 R:🟡 M:🟠 — Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind. by AIScientists-Dev *(1.8k ⭐)* — discovered Oct 6
+- 🔄 🔷 **[genoffice](https://github.com/genspark-ai/genoffice)** 🤖 R:🟡 M:🟢 — Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux. by genspark-ai *(8.7k ⭐)* — discovered Oct 6
 - 🧠 ⭐ **[veritas-kanban](https://github.com/BradGroux/veritas-kanban)** 🤖🧠 R:🟡 M:🟢 — Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands. by BradGroux *(835 ⭐)* — discovered Oct 5
 - ⌨️ 🔶 **[OptMem](https://github.com/VictorTaelin/OptMem)** 🔧 R:🟡 M:🟢 — Permanent memory for AI agents. A 426-token prompt, a script, plug and play. by VictorTaelin *(2k ⭐)* — discovered Oct 5
-- 🔌 🔷 **[cyrus](https://github.com/cyrusagents/cyrus)** 🤖🧠 R:🟡 M:🟢 — The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor, Gemini, and Opencode harnesses too. by cyrusagents *(846 ⭐)* — discovered Oct 5
 
 ---
 
@@ -1545,6 +1545,7 @@
 - 🔄 🔷 **[embabel-agent](https://github.com/embabel/embabel-agent)** 🤖 R:🟢 M:🟢 — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ by embabel *(4.5k ⭐)*
 - 🧠 ⭐ **[EmbodiChain](https://github.com/DexForce/EmbodiChain)** 🤖🧠 R:🟡 M:🟢 — An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence. by DexForce *(228 ⭐)*
 - 🧠 🔷 **[quantified-self](https://github.com/jimmykane/quantified-self)** 🤖🧠 R:🟡 M:🟢 — Analyze your data from Garmin, Suunto, Coros to one centralized app by jimmykane *(231 ⭐)*
+- 🔌 🔷 **[cyrus](https://github.com/cyrusagents/cyrus)** 🤖🧠 R:🟡 M:🟢 — The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor, Gemini, and Opencode harnesses too. by cyrusagents *(846 ⭐)*
 - ⌨️ 🔷 **[langchat](https://github.com/LangChat/langchat)** 🤖 R:🟡 M:🟢 — LangChat 是由 LangChat Team 开发的开源 AI Agent 应用平台，支持多模型、Agent、知识库 RAG、Skills、MCP 与智能问数。 by LangChat *(1.3k ⭐)*
 - 📚 🔷 **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** 🤖 R:🔴 M:🟢 — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration by OpenBMB *(34.4k ⭐)*
 - 🧠 🔷 **[go_binance_futures](https://github.com/sorry510/go_binance_futures)** 🤖🧠 R:🟡 M:🟢 — AI agent + 币安合约量化 + 模拟交易 + 历史回测 by sorry510 *(245 ⭐)*
