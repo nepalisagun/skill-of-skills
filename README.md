@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-07 18:25 UTC; the badges above are live)*
+*(counts as of 2026-10-07 21:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔶 **[career-ops-plugin-do-not-fork-currently-updating-v2-](https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-)** 🤖 R:🟡 M:🟢 — Claude Cowork plugin for job seekers. 9 AI skills: evaluate job postings, generate ATS-optimized resumes, scan company career portals, track applications, draft outreach. Works in any industry. by andrew-shwetzer *(501 ⭐)* — discovered Oct 7
 - 🧠 ⭐ **[atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)** 🤖🧠 R:🟡 M:🟢 — Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp. by AtomicBot-ai *(3k ⭐)* — discovered Oct 7
 - 🧠 ⭐ **[paperless-gpt](https://github.com/icereed/paperless-gpt)** 🤖🧠 R:🟡 M:🟢 — Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI by icereed *(2.7k ⭐)* — discovered Oct 7
 - 🧠 ⭐ **[cmux](https://github.com/manaflow-ai/cmux)** 🤖🧠 R:🟡 M:🟢 — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. by manaflow-ai *(27.7k ⭐)* — discovered Oct 7
 - 🔌 ⭐ **[pm-skills](https://github.com/product-on-purpose/pm-skills)** 🤖🧠 R:🟡 M:🟢 — 68 plug-and-play, best-practice product management skills for AI agents: 30 Triple Diamond phase + 11 foundation + 12 utility + 15 tool (Foundation Sprint + Design Sprint). Plus 6 sub-agents, workflows, 200+ output samples, guides, and CI-enforced contracts. Apache 2.0. by product-on-purpose *(713 ⭐)* — discovered Oct 7
-- 🧠 🔷 **[llm-d-router](https://github.com/llm-d/llm-d-router)** 🤖🧠 R:🟡 M:🟢 — llm-d Router: The intelligent entry point for inference requests by llm-d *(376 ⭐)* — discovered Oct 6
 
 ---
 
@@ -1547,6 +1547,7 @@
 - 🔌 ⭐ **[claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix)** 🤖 R:🟡 M:🟢 — Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable knowledge. by oliver-kriska *(564 ⭐)*
 - 🔄 🔷 **[embabel-agent](https://github.com/embabel/embabel-agent)** 🤖 R:🟢 M:🟢 — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ by embabel *(4.5k ⭐)*
 - 🧠 🔷 **[AI-Gateway](https://github.com/Azure-Samples/AI-Gateway)** 🤖🧠 R:🟡 M:🟢 — Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry 🚀 by Azure-Samples *(996 ⭐)*
+- 🧠 🔷 **[llm-d-router](https://github.com/llm-d/llm-d-router)** 🤖🧠 R:🟡 M:🟢 — llm-d Router: The intelligent entry point for inference requests by llm-d *(376 ⭐)*
 - 🔌 🔷 **[skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio)** 🤖 R:🟡 M:🟢 — A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more. by microsoft *(461 ⭐)*
 - 📚 🔷 **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** 🤖 R:🔴 M:🟢 — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration by OpenBMB *(34.5k ⭐)*
 - 🧠 ⭐ **[EmbodiChain](https://github.com/DexForce/EmbodiChain)** 🤖🧠 R:🟡 M:🟢 — An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence. by DexForce *(228 ⭐)*
