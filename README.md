@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-07 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-07 12:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -57,8 +57,8 @@
 
 > Quality-gated momentum — what's genuinely gaining traction right now.
 
-- 🔥 📚 ⭐ **[mattpocock/skills](https://github.com/mattpocock/skills)** 🤖🧠 R:🟢 M:🟢 — Skills for Real Engineers. Straight from my .claude directory. by mattpocock *(278.3k ⭐)*
 - 🔥 📄 ⭐ **[affaan-m/ECC](https://github.com/affaan-m/ECC)** 🤖🖱️🧠 R:🟡 M:🟢 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. by affaan-m *(274.3k ⭐)*
+- 🔥 📚 ⭐ **[mattpocock/skills](https://github.com/mattpocock/skills)** 🤖🧠 R:🟢 M:🟢 — Skills for Real Engineers. Straight from my .claude directory. by mattpocock *(278.3k ⭐)*
 - 🔥 🧠 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** 🤖🧠 R:🟡 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(244.7k ⭐)*
 - 🔥 📚 ⭐ **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** 🔧 R:🟢 M:🟢 — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. by msitarzewski *(157.9k ⭐)*
 - 🔥 🔌 ⭐ **[ponytail](https://github.com/DietrichGebert/ponytail)** 🤖🖱️🧠📟 R:🟡 M:🟢 — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. by DietrichGebert *(156.9k ⭐)*
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔌 ⭐ **[pm-skills](https://github.com/product-on-purpose/pm-skills)** 🤖🧠 R:🟡 M:🟢 — 68 plug-and-play, best-practice product management skills for AI agents: 30 Triple Diamond phase + 11 foundation + 12 utility + 15 tool (Foundation Sprint + Design Sprint). Plus 6 sub-agents, workflows, 200+ output samples, guides, and CI-enforced contracts. Apache 2.0. by product-on-purpose *(713 ⭐)* — discovered Oct 7
 - 🧠 🔷 **[llm-d-router](https://github.com/llm-d/llm-d-router)** 🤖🧠 R:🟡 M:🟢 — llm-d Router: The intelligent entry point for inference requests by llm-d *(376 ⭐)* — discovered Oct 6
 - 🧠 🔷 **[agency-agents-app](https://github.com/msitarzewski/agency-agents-app)** 🤖🧠 R:🟡 M:🟢 — Agency Agents is a small, native app for browsing, installing, and tracking the agent personas from msitarzewski/agency-agents across the AI coding tools you actually use. by msitarzewski *(667 ⭐)* — discovered Oct 6
 - 🧠 ⭐ **[rea](https://github.com/morluto/rea)** 🤖🧠 R:🟡 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(9.9k ⭐)* — discovered Oct 6
 - 🔌 🔶 **[comfyui-custom-node-skills](https://github.com/jtydhr88/comfyui-custom-node-skills)** 🤖 R:🟡 M:🟢 — A curated collection of [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code/skills) for developing ComfyUI custom nodes. These skills give Claude comprehensive knowledge of the ComfyUI node system, covering both the V3 (recommended) and V1 (legacy) APIs. by jtydhr88 *(294 ⭐)* — discovered Oct 6
-- 📄 🔶 **[academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer)** 🤖 R:🟡 M:🟠 — Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind. by AIScientists-Dev *(1.8k ⭐)* — discovered Oct 6
 
 ---
 
@@ -1303,6 +1303,7 @@
 - 📚 🔷 **[ChYing](https://github.com/yhy0/ChYing)** 🤖🧠 R:🔴 M:🟢 — 承影，愿你在光影之间，找到属于自己的锋芒。开源的类 BurpSuite 应用 ChYing — may you find your own edge between light and shadow. An open-source, BurpSuite-like application. by yhy0 *(766 ⭐)*
 - 🔗 🔷 **[emanote](https://github.com/srid/emanote)** 🤖🧠 R:🔴 M:🟢 — Emanate a structured view of your plain-text notes by srid *(963 ⭐)*
 - 📚 🔶 **[moov-io/awesome-fintech](https://github.com/moov-io/awesome-fintech)** 🧠 R:🟢 M:🟢 — A curated collection of open source fintech libraries and resources. by moov-io *(387 ⭐)*
+- 📄 🔶 **[academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer)** 🤖 R:🟡 M:🟠 — Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind. by AIScientists-Dev *(1.8k ⭐)*
 - 🔌 🔷 **[code-foundations](https://github.com/ryanthedev/code-foundations)** 🤖 R:🟡 M:🟢 — Code Foundations: software engineering skills for AI by ryanthedev *(376 ⭐)*
 - 📚 🔶 **[jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code)** 🔧 R:🟢 M:🟢 — A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic's Claude Code.  by jqueryscript *(522 ⭐)*
 - 📚 🔷 **[vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)** 🤖🧠 R:🟡 M:✅ — An orchestrated sub agent dev team powered by claude code by vijaythecoder *(4.4k ⭐)*
