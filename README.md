@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-07 00:25 UTC; the badges above are live)*
+*(counts as of 2026-10-07 03:00 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -74,7 +74,7 @@
 - 🧠 🔷 **[agency-agents-app](https://github.com/msitarzewski/agency-agents-app)** 🤖🧠 R:🟡 M:🟢 — Agency Agents is a small, native app for browsing, installing, and tracking the agent personas from msitarzewski/agency-agents across the AI coding tools you actually use. by msitarzewski *(654 ⭐)* — discovered Oct 6
 - 🧠 ⭐ **[rea](https://github.com/morluto/rea)** 🤖🧠 R:🟡 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(6.9k ⭐)* — discovered Oct 6
 - 🔌 🔶 **[comfyui-custom-node-skills](https://github.com/jtydhr88/comfyui-custom-node-skills)** 🤖 R:🟡 M:🟢 — A curated collection of [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code/skills) for developing ComfyUI custom nodes. These skills give Claude comprehensive knowledge of the ComfyUI node system, covering both the V3 (recommended) and V1 (legacy) APIs. by jtydhr88 *(294 ⭐)* — discovered Oct 6
-- 📄 🔶 **[academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer)** 🤖 R:🟡 M:🟠 — Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind. by AIScientists-Dev *(1.8k ⭐)* — discovered Oct 6
+- 🔄 🔷 **[genoffice](https://github.com/genspark-ai/genoffice)** 🤖 R:🟡 M:🟢 — Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux. by genspark-ai *(8.7k ⭐)* — discovered Oct 6
 
 ---
 
@@ -480,7 +480,6 @@
 - 📝 🔶 **[HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** 🔧 R:🟢 M:🟢 — [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank. by OSU-NLP-Group *(4k ⭐)*
 - 🧠 🔷 **[palmier-pro](https://github.com/palmier-io/palmier-pro)** 🤖🖱️🧠 R:🟡 M:🟢 — macOS video editor built for AI by palmier-io *(14.5k ⭐)*
 - 📚 🔷 **[axe](https://github.com/jrswab/axe)** 🤖🧠 R:🔴 M:🟢 — A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. by jrswab *(894 ⭐)*
-- 🔄 🔷 **[genoffice](https://github.com/genspark-ai/genoffice)** 🤖 R:🟡 M:🟢 — Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux. by genspark-ai *(8.7k ⭐)*
 - 📚 🔶 **[GLM-5](https://github.com/zai-org/GLM-5)** 🤖 R:🟢 M:🟢 — GLM-5: From Vibe Coding to Agentic Engineering by zai-org *(7.3k ⭐)*
 - 📚 🔶 **[VibeVoice](https://github.com/microsoft/VibeVoice)** 🔧 R:🟢 M:🟢 — Open-Source Frontier Voice AI by microsoft *(54.6k ⭐)*
 - 📄 🔷 **[MCP-Nest](https://github.com/rekog-labs/MCP-Nest)** 🤖 R:🟡 M:🟢 — A NestJS module to effortlessly create Model Context Protocol (MCP) servers for exposing AI tools, resources, and prompts. by rekog-labs *(712 ⭐)*
@@ -1321,6 +1320,7 @@
 - 📚 🔶 **[punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools)** 🔧 R:🟢 M:🟢 — A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server development. by punkpeye *(485 ⭐)*
 - 📚 🔶 **[rahulvrane/awesome-claude-agents](https://github.com/rahulvrane/awesome-claude-agents)** 🔧 R:🟢 M:🟠 — collection of awesome claude code subagents! by rahulvrane *(370 ⭐)*
 - 📚 🔶 **[LangGPT/awesome-claude-code](https://github.com/LangGPT/awesome-claude-code)** 🔧 R:🟢 M:🟠 — Awesome Claude Code Resources, Projects、Prompts、Agents、Commands，everything about claude code! Claude Code 精选资源列表 （by 云中江树） by LangGPT *(268 ⭐)*
+- 📄 🔶 **[academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer)** 🤖 R:🟡 M:🟠 — Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind. by AIScientists-Dev *(1.8k ⭐)*
 - 📚 🔶 **[rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers)** 🔧 R:🟢 M:🟠 — A curated list of awesome MCP servers focused on DevOps tools and capabilities. by rohitg00 *(1k ⭐)*
 - 📚 🔶 **[chatgptprojects/clear-code](https://github.com/Leanmcp/superview.sh)** 🤖 R:🟡 M:🟠 — See your claude code logs in clear details in your dashboard by Leanmcp *(2.1k ⭐)*
 - 📚 🔶 **[snwfdhmp/awesome-ralph](https://github.com/snwfdhmp/awesome-ralph)** 🔧 R:🟢 M:🟠 — A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled. by snwfdhmp *(926 ⭐)*
