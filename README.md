@@ -6,9 +6,9 @@
 [![Curated tier](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fcurated)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1,400+ skills** across 10 skill types · **410+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-07 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-07 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🧠 ⭐ **[atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)** 🤖🧠 R:🟡 M:🟢 — Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp. by AtomicBot-ai *(3k ⭐)* — discovered Oct 7
+- 🧠 ⭐ **[paperless-gpt](https://github.com/icereed/paperless-gpt)** 🤖🧠 R:🟡 M:🟢 — Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI by icereed *(2.7k ⭐)* — discovered Oct 7
+- 🧠 ⭐ **[cmux](https://github.com/manaflow-ai/cmux)** 🤖🧠 R:🟡 M:🟢 — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. by manaflow-ai *(27.7k ⭐)* — discovered Oct 7
 - 🔌 ⭐ **[pm-skills](https://github.com/product-on-purpose/pm-skills)** 🤖🧠 R:🟡 M:🟢 — 68 plug-and-play, best-practice product management skills for AI agents: 30 Triple Diamond phase + 11 foundation + 12 utility + 15 tool (Foundation Sprint + Design Sprint). Plus 6 sub-agents, workflows, 200+ output samples, guides, and CI-enforced contracts. Apache 2.0. by product-on-purpose *(713 ⭐)* — discovered Oct 7
 - 🧠 🔷 **[llm-d-router](https://github.com/llm-d/llm-d-router)** 🤖🧠 R:🟡 M:🟢 — llm-d Router: The intelligent entry point for inference requests by llm-d *(376 ⭐)* — discovered Oct 6
-- 🧠 🔷 **[agency-agents-app](https://github.com/msitarzewski/agency-agents-app)** 🤖🧠 R:🟡 M:🟢 — Agency Agents is a small, native app for browsing, installing, and tracking the agent personas from msitarzewski/agency-agents across the AI coding tools you actually use. by msitarzewski *(667 ⭐)* — discovered Oct 6
-- 🧠 ⭐ **[rea](https://github.com/morluto/rea)** 🤖🧠 R:🟡 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(9.9k ⭐)* — discovered Oct 6
-- 🔌 🔶 **[comfyui-custom-node-skills](https://github.com/jtydhr88/comfyui-custom-node-skills)** 🤖 R:🟡 M:🟢 — A curated collection of [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code/skills) for developing ComfyUI custom nodes. These skills give Claude comprehensive knowledge of the ComfyUI node system, covering both the V3 (recommended) and V1 (legacy) APIs. by jtydhr88 *(294 ⭐)* — discovered Oct 6
 
 ---
 
@@ -699,6 +699,7 @@
 - 📄 🔶 **[org-gtd.el](https://github.com/Trevoke/org-gtd.el)** 🤖🧠 R:🟡 M:🟢 — A package for using GTD with org-mode  by Trevoke *(485 ⭐)*
 - 📚 🔶 **[kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server)** 🔧 R:🟡 M:🔴 — Example of an MCP server with custom tools that can be called directly from cursor by kleneway *(339 ⭐)*
 - 🔄 🔶 **[agent.exe](https://github.com/corbt/agent.exe)** 🔧 R:🟡 M:🔴 — No description by corbt *(3.5k ⭐)*
+- 🔌 🔶 **[comfyui-custom-node-skills](https://github.com/jtydhr88/comfyui-custom-node-skills)** 🤖 R:🟡 M:🟢 — A curated collection of [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code/skills) for developing ComfyUI custom nodes. These skills give Claude comprehensive knowledge of the ComfyUI node system, covering both the V3 (recommended) and V1 (legacy) APIs. by jtydhr88 *(294 ⭐)*
 - 🔄 🔶 **[podwise-cli](https://github.com/hardhackerlabs/podwise-cli)** 🤖 R:🟡 M:✅ — CLI client for podwise.ai — turn any podcast episode into AI-powered insights, designed for use in AI agents and skills workflows. by hardhackerlabs *(410 ⭐)*
 - 🔗 🔶 **[alfanous](https://github.com/Alfanous-team/alfanous)** 🔧 R:🟢 M:✅ — Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces... by Alfanous-team *(289 ⭐)*
 - 📄 🔶 **[open-responses](https://github.com/open-responses/open-responses)** 🤖 R:🟡 M:🔴 — Self-hosted alternative to OpenAI's Responses API compatible with Agents SDK and works with all model providers (Claude/R1/Qwen/Ollama etc) by open-responses *(231 ⭐)*
@@ -1484,6 +1485,7 @@
 
 - 📄 ⭐ **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** 🤖🧠 R:🟡 M:🟢 — A lightweight, powerful framework for multi-agent workflows by openai *(29.9k ⭐)*
 - 🧠 ⭐ **[gastown](https://github.com/gastownhall/gastown)** 🤖🖱️🧠 R:🟡 M:🟢 — Gas Town - multi-agent workspace manager by gastownhall *(18.3k ⭐)*
+- 🧠 ⭐ **[rea](https://github.com/morluto/rea)** 🤖🧠 R:🟡 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(9.9k ⭐)*
 - 🔌 ⭐ **[ruflo](https://github.com/ruvnet/ruflo)** 🤖 R:🔴 M:🟢 — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration by ruvnet *(74k ⭐)*
 - 📄 🔶 **[openai/symphony](https://github.com/openai/symphony)** 🤖🧠 R:🔴 M:🟢 — Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. by openai *(27.6k ⭐)*
 - 📚 ⭐ **[microsoft/agent-framework](https://github.com/microsoft/agent-framework)** 🤖🧠 R:🟡 M:🟢 — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. by microsoft *(14k ⭐)*
@@ -1530,6 +1532,7 @@
 - 🔌 🔷 **[whiteboard](https://github.com/devdotfast/whiteboard)** 🤖🧠 R:🟡 M:🟢 — open-source IDE for thoughtful software design by devdotfast *(2.9k ⭐)*
 - 🧠 🔷 **[PanWatch](https://github.com/TNT-Likely/PanWatch)** 🧠 R:🟡 M:🟢 — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 by TNT-Likely *(2k ⭐)*
 - 🔌 🔷 **[foremerge](https://github.com/naw103/foremerge)** 🤖🖱️ R:🟡 M:🟢 — Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git. by naw103 *(535 ⭐)*
+- 🧠 🔷 **[agency-agents-app](https://github.com/msitarzewski/agency-agents-app)** 🤖🧠 R:🟡 M:🟢 — Agency Agents is a small, native app for browsing, installing, and tracking the agent personas from msitarzewski/agency-agents across the AI coding tools you actually use. by msitarzewski *(667 ⭐)*
 - 🔌 🔷 **[newsjack](https://github.com/elvisun/newsjack)** 🤖🧠 R:🟡 M:🟢 — The open-source skills that turn your agent into a full PR team. by elvisun *(1.5k ⭐)*
 - 🔗 🔷 **[loop-engineering](https://github.com/cobusgreyling/loop-engineering)** 🤖🧠 R:🟡 M:🟢 — Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. by cobusgreyling *(11.4k ⭐)*
 - 🧠 ⭐ **[desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)** 🤖🧠 R:🟡 M:🟢 — Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. by zhukunpenglinyutong *(4.4k ⭐)*
