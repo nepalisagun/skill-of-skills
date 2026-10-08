@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-08 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-08 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🧠 🔷 **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** 🤖🧠 R:🟡 M:🟢 — Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. by nanobrowser *(14k ⭐)* — discovered Oct 8
+- 🔌 ⭐ **[video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** 🤖 R:🟡 M:🟢 — AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template by Vincentwei1021 *(10.8k ⭐)* — discovered Oct 8
 - 🧠 🔶 **[universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp)** 🤖🧠 R:🟡 M:🟠 — 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据 by Anarkh-Lee *(935 ⭐)* — discovered Oct 8
 - 🔌 🔶 **[career-ops-plugin-do-not-fork-currently-updating-v2-](https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-)** 🤖 R:🟡 M:🟢 — Claude Cowork plugin for job seekers. 9 AI skills: evaluate job postings, generate ATS-optimized resumes, scan company career portals, track applications, draft outreach. Works in any industry. by andrew-shwetzer *(501 ⭐)* — discovered Oct 7
 - 🧠 ⭐ **[atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)** 🤖🧠 R:🟡 M:🟢 — Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp. by AtomicBot-ai *(3k ⭐)* — discovered Oct 7
-- 🧠 ⭐ **[paperless-gpt](https://github.com/icereed/paperless-gpt)** 🤖🧠 R:🟡 M:🟢 — Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI by icereed *(2.7k ⭐)* — discovered Oct 7
-- 🧠 ⭐ **[cmux](https://github.com/manaflow-ai/cmux)** 🤖🧠 R:🟡 M:🟢 — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. by manaflow-ai *(27.9k ⭐)* — discovered Oct 7
 
 ---
 
@@ -792,6 +792,7 @@
 - 📄 🔷 **[langfuse/langfuse](https://github.com/langfuse/langfuse)** 🤖🧠 R:🟡 M:🟢 — 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  by langfuse *(35.5k ⭐)*
 - 📚 🔷 **[playwright](https://github.com/microsoft/playwright)** 🤖 R:🟡 M:🟢 — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. by microsoft *(97.2k ⭐)*
 - 📄 🔷 **[last30days-skill](https://github.com/mvanhorn/last30days-skill)** 🤖 R:🟡 M:🟢 — Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts by mvanhorn *(63.7k ⭐)*
+- 🧠 ⭐ **[paperless-gpt](https://github.com/icereed/paperless-gpt)** 🤖🧠 R:🟡 M:🟢 — Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI by icereed *(2.7k ⭐)*
 - 📚 ⭐ **[Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim)** 🤖🧠 R:🟡 M:🟢 — Create Epic Math and Physics Animations & Study Notes From Text and Images. by HarleyCoops *(2.7k ⭐)*
 - 📚 🔷 **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** 🔧 R:🟡 M:🟢 — TradingAgents: Multi-Agents LLM Financial Trading Framework by TauricResearch *(110.2k ⭐)*
 - 🧠 ⭐ **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** 🤖🧠 R:🟡 M:🟢 — The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents. by open-metadata *(15.4k ⭐)*
@@ -1489,6 +1490,7 @@
 - 🧠 ⭐ **[rea](https://github.com/morluto/rea)** 🤖🧠 R:🟡 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(16.2k ⭐)*
 - 🧠 ⭐ **[redamon](https://github.com/samugit83/redamon)** 🤖🧠 R:🟡 M:🟢 — An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention. by samugit83 *(3k ⭐)*
 - 🔌 ⭐ **[ruflo](https://github.com/ruvnet/ruflo)** 🤖 R:🔴 M:🟢 — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration by ruvnet *(74.1k ⭐)*
+- 🧠 ⭐ **[cmux](https://github.com/manaflow-ai/cmux)** 🤖🧠 R:🟡 M:🟢 — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. by manaflow-ai *(27.9k ⭐)*
 - 🔌 ⭐ **[openrig](https://github.com/mvschwarz/openrig)** 🤖 R:🟡 M:🟢 — Multi-agent harness that runs Claude Code and  Codex together as one system by mvschwarz *(5.8k ⭐)*
 - 🔌 ⭐ **[treg](https://github.com/superdesigndev/treg)** 🤖🧠 R:🟡 M:🟢 — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn by superdesigndev *(4.8k ⭐)*
 - 🔌 ⭐ **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** 🤖🧠 R:🔴 M:🟢 — An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. by agentscope-ai *(5.7k ⭐)*
