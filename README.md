@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-08 06:25 UTC; the badges above are live)*
+*(counts as of 2026-10-08 09:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🧠 🔶 **[universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp)** 🤖🧠 R:🟡 M:🟠 — 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据 by Anarkh-Lee *(935 ⭐)* — discovered Oct 8
 - 🔌 🔶 **[career-ops-plugin-do-not-fork-currently-updating-v2-](https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-)** 🤖 R:🟡 M:🟢 — Claude Cowork plugin for job seekers. 9 AI skills: evaluate job postings, generate ATS-optimized resumes, scan company career portals, track applications, draft outreach. Works in any industry. by andrew-shwetzer *(501 ⭐)* — discovered Oct 7
 - 🧠 ⭐ **[atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)** 🤖🧠 R:🟡 M:🟢 — Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp. by AtomicBot-ai *(3k ⭐)* — discovered Oct 7
 - 🧠 ⭐ **[paperless-gpt](https://github.com/icereed/paperless-gpt)** 🤖🧠 R:🟡 M:🟢 — Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI by icereed *(2.7k ⭐)* — discovered Oct 7
 - 🧠 ⭐ **[cmux](https://github.com/manaflow-ai/cmux)** 🤖🧠 R:🟡 M:🟢 — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. by manaflow-ai *(27.9k ⭐)* — discovered Oct 7
-- 🔌 ⭐ **[pm-skills](https://github.com/product-on-purpose/pm-skills)** 🤖🧠 R:🟡 M:🟢 — 68 plug-and-play, best-practice product management skills for AI agents: 30 Triple Diamond phase + 11 foundation + 12 utility + 15 tool (Foundation Sprint + Design Sprint). Plus 6 sub-agents, workflows, 200+ output samples, guides, and CI-enforced contracts. Apache 2.0. by product-on-purpose *(715 ⭐)* — discovered Oct 7
 
 ---
 
@@ -635,7 +635,7 @@
 - 🔌 🔶 **[convexskills](https://github.com/waynesutton/builder-skills)** 🤖🧠 R:🟡 M:🟢 — AI agent skills and templates for building production ready apps with Convex. Patterns for queries, mutations, cron jobs, webhooks, migrations, and more. by waynesutton *(404 ⭐)*
 - 🔗 🔷 **[bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp)** 🤖🧠 R:🟢 M:✅ — MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool by vasylenko *(205 ⭐)*
 - 📚 🔶 **[Gennadiyev/STS2MCP](https://github.com/Gennadiyev/STS2MCP)** 🤖🧠 R:🟡 M:🟢 — Full agentic runs for Slay the Spire 2. A mod that exposes in-game state, and the MCP server for the mod. by Gennadiyev *(511 ⭐)*
-- 📄 🔷 **[waldzell-mcp](https://github.com/waldzellai/waldzell-mcp)** 🤖 R:🟡 M:🟢 — Waldzell AI's monorepo of MCP servers. Use in Claude Desktop, Cline, Roo Code, and more! by waldzellai *(201 ⭐)*
+- 📄 🔷 **[waldzell-mcp](https://github.com/waldzellai/waldzell-mcp)** 🤖 R:🟡 M:🟠 — Waldzell AI's monorepo of MCP servers. Use in Claude Desktop, Cline, Roo Code, and more! by waldzellai *(201 ⭐)*
 - ⌨️ 🔶 **[mijia-api](https://github.com/Do1e/mijia-api)** 🤖 R:🟡 M:🟢 — 使用代码、CLI、MCP 直接控制米家设备。 by Do1e *(820 ⭐)*
 - ⌨️ 🔶 **[skill-codex](https://github.com/skills-directory/skill-codex)** 🤖🧠 R:🟡 M:🟢 — A claude code skill to delegate prompts to codex by skills-directory *(1.5k ⭐)*
 - 📄 🔷 **[SuperGemini_Framework](https://github.com/SuperClaude-Org/SuperGemini_Framework)** 🤖🧠 R:🟡 M:✅ — No description by SuperClaude-Org *(244 ⭐)*
@@ -914,6 +914,7 @@
 - 🧠 🔷 **[pi-web](https://github.com/agegr/pi-web)** 🧠 R:🟡 M:🟢 — Web UI for the pi coding agent by agegr *(7.2k ⭐)*
 - 🔄 🔷 **[council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)** 🤖 R:🟡 M:🟢 — 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council by 0xNyk *(4.6k ⭐)*
 - 📄 🔷 **[Resume-Matcher](https://github.com/srbhr/Resume-Matcher)** 🤖 R:🟡 M:🟢 — Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  by srbhr *(28.6k ⭐)*
+- 🔌 ⭐ **[pm-skills](https://github.com/product-on-purpose/pm-skills)** 🤖🧠 R:🟡 M:🟢 — 68 plug-and-play, best-practice product management skills for AI agents: 30 Triple Diamond phase + 11 foundation + 12 utility + 15 tool (Foundation Sprint + Design Sprint). Plus 6 sub-agents, workflows, 200+ output samples, guides, and CI-enforced contracts. Apache 2.0. by product-on-purpose *(715 ⭐)*
 - 📄 ⭐ **[Chorus](https://github.com/Chorus-AIDLC/Chorus)** 🤖🧠 R:🟡 M:🟢 — The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle) by Chorus-AIDLC *(1.2k ⭐)*
 - 🔌 🔷 **[homerail](https://github.com/xiaotianfotos/homerail)** 🤖 R:🟡 M:🟢 — Voice-first local agent orchestration runtime for auditable DAG workflows. by xiaotianfotos *(992 ⭐)*
 - 📚 ⭐ **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** 🤖 R:🔴 M:🟠 — Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark. by op7418 *(2.9k ⭐)*
@@ -1188,7 +1189,7 @@
 - 📄 🔷 **[harness](https://github.com/xwtro0tk1t-cloud/harness)** 🤖 R:🟡 M:🟠 — Harness is an AI Agent development guardrail Meta-Skill that establishes four layers of defense for any project in one command: knowledge management, architecture constraints, feedback loops, and entropy management. by xwtro0tk1t-cloud *(265 ⭐)*
 - 📚 🔷 **[GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire)** 🤖🧠 R:🔴 M:✅ — Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company. by GreenSheep01201 *(1.4k ⭐)*
 - 📚 🔶 **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** 🤖 R:🟢 M:🟠 — A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders. by zarazhangrui *(5.7k ⭐)*
-- 🔌 🔷 **[brand-docs](https://github.com/ferdinandobons/brand-docs)** 🤖 R:🟢 M:🟢 — BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents. by ferdinandobons *(272 ⭐)*
+- 🔌 🔷 **[brand-docs](https://github.com/ferdinandobons/brand-docs)** 🤖 R:🟢 M:✅ — BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents. by ferdinandobons *(272 ⭐)*
 - 📄 🔷 **[md2html](https://github.com/haidang1810/md2html)** 🤖 R:🟢 M:✅ — Your AI writes docs — md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language. by haidang1810 *(421 ⭐)*
 - 📚 🔷 **[tanbiralam/claude-code](https://github.com/tanbiralam/claude-code)** 🤖 R:🟡 M:🟠 — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic. by tanbiralam *(2.3k ⭐)*
 - 📚 🔶 **[coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill)** 🤖 R:🟢 M:🟠 — Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams. by coleam00 *(5k ⭐)*
