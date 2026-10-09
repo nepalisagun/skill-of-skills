@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-09 00:25 UTC; the badges above are live)*
+*(counts as of 2026-10-09 03:00 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🧠 ⭐ **[open-dots](https://github.com/Anil-matcha/open-dots)** 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype. by Anil-matcha *(5.6k ⭐)* — discovered Oct 9
 - 🔌 🔶 **[tufte-vdqi-plugin](https://github.com/gnurio/tufte-vdqi-plugin)** 🤖 R:🟡 M:🟢 — Give your AI agents the skill of visualizing data the way Edward Tufte intended. by gnurio *(309 ⭐)* — discovered Oct 8
 - 🧠 🔷 **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** 🤖🧠 R:🟡 M:🟢 — Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. by nanobrowser *(14k ⭐)* — discovered Oct 8
 - 🔌 ⭐ **[video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** 🤖 R:🟡 M:🟢 — AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template by Vincentwei1021 *(10.8k ⭐)* — discovered Oct 8
 - 🧠 🔶 **[universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp)** 🤖🧠 R:🟡 M:🟠 — 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据 by Anarkh-Lee *(935 ⭐)* — discovered Oct 8
-- 🔌 🔶 **[career-ops-plugin-do-not-fork-currently-updating-v2-](https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-)** 🤖 R:🟡 M:🟢 — Claude Cowork plugin for job seekers. 9 AI skills: evaluate job postings, generate ATS-optimized resumes, scan company career portals, track applications, draft outreach. Works in any industry. by andrew-shwetzer *(501 ⭐)* — discovered Oct 7
 
 ---
 
@@ -973,6 +973,7 @@
 - 📄 🔶 **[research-companion](https://github.com/andrehuang/research-companion)** 🤖 R:🟢 M:🟠 — Strategic research thinking agents for Claude Code — idea evaluation, project triage, and structured brainstorming. Helps you decide which papers to write, not just how to write them. by andrehuang *(720 ⭐)*
 - 🔌 🔶 **[dex](https://github.com/dcramer/dex)** 🤖🧠 R:🟡 M:🟠 — Task tracking for Agents by dcramer *(385 ⭐)*
 - ⌨️ 🔶 **[outworked](https://github.com/outworked/outworked)** 🤖 R:🟡 M:✅ — Outworked - Cozy Office for Claude Code by outworked *(392 ⭐)*
+- 🔌 🔶 **[career-ops-plugin-do-not-fork-currently-updating-v2-](https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-)** 🤖 R:🟡 M:🟢 — Claude Cowork plugin for job seekers. 9 AI skills: evaluate job postings, generate ATS-optimized resumes, scan company career portals, track applications, draft outreach. Works in any industry. by andrew-shwetzer *(501 ⭐)*
 - 🔌 🔶 **[claude-diary](https://github.com/rlancemartin/claude-diary)** 🤖 R:🟡 M:🟠 — A simple memory system for claude code by rlancemartin *(381 ⭐)*
 - 🔌 🔶 **[my-claude-devteam](https://github.com/NYCU-Chung/my-claude-devteam)** 🤖 R:🟡 M:🟠 — An engineering team in a box for Claude Code — 12 specialized agents, 15 automation hooks, and the P7/P9/P10 methodology. by NYCU-Chung *(269 ⭐)*
 - 📚 🔶 **[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)** 🤖 R:🔴 M:🟠 — Allow all your Claude Codes to message each other ad-hoc! by louislva *(2.2k ⭐)*
