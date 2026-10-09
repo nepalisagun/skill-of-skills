@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,600,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-09 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-09 12:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -1264,12 +1264,12 @@
 - ⌨️ 🔷 **[claude-code-harness](https://github.com/Chachamaru127/claude-code-harness)** 🤖 R:🟡 M:🟢 — Claude Code専用の開発ハーネス - 自律的なPlan→Work→Reviewサイクルで高品質な開発を実現 by Chachamaru127 *(3.2k ⭐)*
 - 📚 🔷 **[quemsah/awesome-claude-plugins](https://github.com/quemsah/awesome-claude-plugins)** 🤖 R:🟢 M:🟢 — Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows by quemsah *(1.4k ⭐)*
 - 📚 🔷 **[f/prompts.chat](https://github.com/f/prompts.chat)** 🤖🧠 R:🟢 M:🟢 — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. by f *(172.2k ⭐)*
-- 🔌 ⭐ **[pua](https://github.com/tanweai/pua)** 🤖 R:🟡 M:🟢 — 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. by tanweai *(19.7k ⭐)*
 - 🔄 🔷 **[claude-code-security-review](https://github.com/anthropics/claude-code-security-review)** 🤖 R:🟡 M:🟠 — An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. by anthropics *(6.3k ⭐)*
 - 📝 🔷 **[darwin-skill](https://github.com/alchaincyf/darwin-skill)** 🤖 R:🟡 M:🟢 — 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert. by alchaincyf *(6.2k ⭐)*
 - 🧠 🔷 **[agenta](https://github.com/Agenta-AI/agenta)** 🤖🧠 R:🟡 M:🟢 — Agenta is a workspace where you and your team build agents and automations. by Agenta-AI *(4.8k ⭐)*
 - 🔌 🔷 **[web-quality-skills](https://github.com/addyosmani/web-quality-skills)** 🤖🧠 R:🟡 M:🟢 — Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. by addyosmani *(2.9k ⭐)*
 - 🔌 ⭐ **[accessibility-agents](https://github.com/Community-Access/accessibility-agents)** 🤖🧠 R:🟡 M:🟢 — Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code. by Community-Access *(422 ⭐)*
+- 🔌 ⭐ **[pua](https://github.com/tanweai/pua)** 🤖 R:🟡 M:🟢 — 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. by tanweai *(19.7k ⭐)*
 - 📄 ⭐ **[context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit)** 🤖🖱️🏄📟 R:🟡 M:🟢 — Hand-crafted plugin marketplace focused on improving agent results quality. Supports Claude Code, OpenCode, Cursor, Windsurf, and Cline. by NeoLabHQ *(1.7k ⭐)*
 - 📄 🔷 **[scanaislop/aislop](https://github.com/scanaislop/aislop)** 🧠 R:🟡 M:🟢 — Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 7 languages (TypeScript, JavaScript, Python, Go, Rust, Ruby, PHP). Sub-second, deterministic, no LLM at runtime. MIT-licensed. by scanaislop *(678 ⭐)*
 - 🔌 🔶 **[skills](https://github.com/jakubkrehel/skills)** 🤖🧠 R:🟢 M:🟢 — A collection of agent skills that help you build a great interface. by jakubkrehel *(7.6k ⭐)*
