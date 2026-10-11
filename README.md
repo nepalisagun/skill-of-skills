@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,700,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-11 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-11 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 📄 🔷 **[asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)** 🤖 R:🟡 M:🟢 — ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. by danyuchn *(4.4k ⭐)* — discovered Oct 11
+- 🔌 ⭐ **[repowise](https://github.com/repowise-dev/repowise)** 🤖 R:🟡 M:🟢 — Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP. by repowise-dev *(7.5k ⭐)* — discovered Oct 11
+- 🔗 🔷 **[nao](https://github.com/getnao/nao)** 🤖🧠 R:🟡 M:🟢 — 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone by getnao *(1.9k ⭐)* — discovered Oct 11
+- 🔄 🔷 **[OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI)** 🤖 R:🟡 M:🟢 — Open-Source Generative UI Framework by CopilotKit *(2.5k ⭐)* — discovered Oct 11
 - 🧠 🔷 **[CodeAF](https://github.com/Agent-Field/CodeAF)** 🤖🧠 R:🟡 M:🟢 — Open-Source Software factory for Open Models by Agent-Field *(387 ⭐)* — discovered Oct 9
-- 🧠 🔷 **[cindy](https://github.com/makecindy/cindy)** 🤖🧠 R:🟡 M:🟢 — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 by makecindy *(3k ⭐)* — discovered Oct 9
-- 🧠 ⭐ **[open-dots](https://github.com/Anil-matcha/open-dots)** 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype. by Anil-matcha *(5.7k ⭐)* — discovered Oct 9
-- 🔌 🔶 **[tufte-vdqi-plugin](https://github.com/gnurio/tufte-vdqi-plugin)** 🤖 R:🟡 M:🟢 — Give your AI agents the skill of visualizing data the way Edward Tufte intended. by gnurio *(309 ⭐)* — discovered Oct 8
-- 🧠 🔷 **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** 🤖🧠 R:🟡 M:🟢 — Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. by nanobrowser *(14.1k ⭐)* — discovered Oct 8
 
 ---
 
@@ -674,6 +674,7 @@
 - 🔄 🔷 **[obsidian-claude-code](https://github.com/Roasbeef/obsidian-claude-code)** 🤖 R:🟡 M:🟠 — A native Obsidian plugin that embeds Claude as an AI assistant directly within your vault. by Roasbeef *(217 ⭐)*
 - 📄 🔶 **[org-gtd.el](https://github.com/Trevoke/org-gtd.el)** 🤖🧠 R:🟡 M:🟢 — A package for using GTD with org-mode  by Trevoke *(486 ⭐)*
 - 📚 🔶 **[AIGuide](https://github.com/Snailclimb/AIGuide)** 🤖 R:🟢 M:🟠 — AI 应用开发、AI 编程实战与面试指南，涵盖 LLM、Agent、RAG、MCP、Claude Code、Codex 等核心技术与工程实践。 by Snailclimb *(676 ⭐)*
+- 🔌 🔶 **[tufte-vdqi-plugin](https://github.com/gnurio/tufte-vdqi-plugin)** 🤖 R:🟡 M:🟢 — Give your AI agents the skill of visualizing data the way Edward Tufte intended. by gnurio *(309 ⭐)*
 - 📚 🔷 **[meitarbe/cognetivy](https://github.com/meitarbe/cognetivy)** 🔧 R:🟡 M:🟠 — The open-source state layer for AI coding agents. Turn chaotic agent sessions into structured, traceable workflows with a local workspace for runs, events, and collections. by meitarbe *(784 ⭐)*
 - 📚 🔷 **[thellimist/clihub](https://github.com/thellimist/clihub)** 🔧 R:🟡 M:🟠 — Turn any MCP server into CLI by thellimist *(666 ⭐)*
 - 🔄 🔷 **[desktop](https://github.com/agentify-sh/desktop)** 🔧 R:⚫ M:✅ — Agentify Desktop lets Codex/Claude/OpenCode  control your logged-in ChatGPT, Claude, AiStudio, Gemini, Grok, Perplexity web sessions via MCP, parallel hidden/visible tabs, file upload + image download by agentify-sh *(567 ⭐)*
@@ -1312,7 +1313,7 @@
 - 🔌 🔷 **[Privacy-Data-Protection-Skills](https://github.com/mukul975/Privacy-Data-Protection-Skills)** 🤖 R:🟢 M:✅ — 282+ structured privacy & data protection skills for AI agents. GDPR, CCPA, EU AI Act, HIPAA, LGPD, PIPL, DPDP Act. by mukul975 *(302 ⭐)*
 - ⌨️ 🔷 **[Roo-Code](https://github.com/RooCodeInc/Roo-Code)** 🤖🧠 R:🟡 M:✅ — Roo Code gives you a whole dev team of AI agents in your code editor. by RooCodeInc *(24.3k ⭐)*
 - 🔗 🔷 **[emanote](https://github.com/srid/emanote)** 🤖🧠 R:🔴 M:🟢 — Emanate a structured view of your plain-text notes by srid *(963 ⭐)*
-- 📚 🔶 **[wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)** 🔧 R:🟢 M:🟢 — A curated list of Model Context Protocol (MCP) servers by wong2 *(4.4k ⭐)*
+- 📚 🔶 **[wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)** 🔧 R:🟢 M:🟠 — A curated list of Model Context Protocol (MCP) servers by wong2 *(4.4k ⭐)*
 - 📚 🔶 **[jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code)** 🔧 R:🟢 M:🟢 — A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic's Claude Code.  by jqueryscript *(526 ⭐)*
 - ⌨️ 🔶 **[vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)** 🤖🧠 R:🟡 M:✅ — Copilot Chat extension for VS Code by microsoft *(10k ⭐)*
 - 📄 🔶 **[openapi-diff](https://github.com/OpenAPITools/openapi-diff)** 🧠 R:🟢 M:🟢 — Utility for comparing two OpenAPI specifications. by OpenAPITools *(1.1k ⭐)*
@@ -1500,6 +1501,7 @@
 - 🔄 ⭐ **[laya](https://github.com/aayushch/laya)** 🤖 R:🟡 M:🟢 — Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook,  Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK. by aayushch *(656 ⭐)*
 - 🔌 ⭐ **[obsidian-mind](https://github.com/breferrari/obsidian-mind)** 🤖🧠 R:🟡 M:🟢 — A self-organizing Obsidian vault that gives AI coding agents persistent memory. by breferrari *(5.1k ⭐)*
 - 🔌 ⭐ **[pstack-claude](https://github.com/michael-denyer/pstack-claude)** 🤖 R:🟡 M:🟢 — Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. by michael-denyer *(1.8k ⭐)*
+- 🧠 ⭐ **[open-dots](https://github.com/Anil-matcha/open-dots)** 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype. by Anil-matcha *(5.7k ⭐)*
 - 📝 ⭐ **[agenticSeek](https://github.com/Fosowl/agenticSeek)** 🔧 R:🟡 M:🟢 — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. by Fosowl *(27.5k ⭐)*
 - 🧠 ⭐ **[cmux](https://github.com/manaflow-ai/cmux)** 🤖🧠 R:🟡 M:🟢 — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. by manaflow-ai *(28.1k ⭐)*
 - 🔌 ⭐ **[treg](https://github.com/superdesigndev/treg)** 🤖🧠 R:🟡 M:🟢 — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn by superdesigndev *(5k ⭐)*
@@ -1511,6 +1513,7 @@
 - 🧠 🔷 **[agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator)** 🤖🧠 R:🔴 M:🟢 — Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. by OrchestratorInc *(13.1k ⭐)*
 - 📚 ⭐ **[simstudioai/sim](https://github.com/simstudioai/sim)** 🤖🖱️🧠 R:🔴 M:🟢 — Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. by simstudioai *(29.8k ⭐)*
 - 🧠 ⭐ **[pdd](https://github.com/promptdriven/pdd)** 🤖🧠 R:🟡 M:🟢 — Prompt Driven Development (PDD): The Last Programming Language™. Prompt files are source; code is generated output. by promptdriven *(886 ⭐)*
+- 🧠 🔷 **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** 🤖🧠 R:🟡 M:🟢 — Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. by nanobrowser *(14.1k ⭐)*
 - 📚 🔷 **[crewAI](https://github.com/crewAIInc/crewAI)** 🧠 R:🟡 M:🟢 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. by crewAIInc *(59.5k ⭐)*
 - 🔌 ⭐ **[awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)** 🤖🧠 R:🟡 M:🟢 — A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins by hashgraph-online *(1.3k ⭐)*
 - 🔄 🔷 **[starnet](https://github.com/androoAGI/starnet)** 🔧 R:🟡 M:🟢 — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. by androoAGI *(1.3k ⭐)*
@@ -1524,6 +1527,7 @@
 - 🔌 ⭐ **[deja-vu](https://github.com/vshulcz/deja-vu)** 🤖 R:🟡 M:🟢 — One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. by vshulcz *(1.2k ⭐)*
 - 🔌 ⭐ **[pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills)** 🤖🧠 R:🟡 M:🟢 — 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'. by mohitagw15856 *(1.4k ⭐)*
 - 🔌 ⭐ **[toolkit](https://github.com/getsentry/toolkit)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic tooling for Sentry by getsentry *(922 ⭐)*
+- 🧠 🔷 **[cindy](https://github.com/makecindy/cindy)** 🤖🧠 R:🟡 M:🟢 — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 by makecindy *(3k ⭐)*
 - ⌨️ 🔷 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** 🤖 R:🔴 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(39.8k ⭐)*
 - 🖱️ 🔷 **[agno](https://github.com/agno-agi/agno)** 🤖🖱️🧠 R:🟡 M:🟢 — Build, run, and manage agent platforms. by agno-agi *(42.7k ⭐)*
 - 🔄 🔷 **[FounderOS-DEMO](https://github.com/Bennettxai/FounderOS)** 🤖 R:🟡 M:🟢 — An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. by Bennettxai *(1k ⭐)*
