@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,700,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-11 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-11 12:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -700,7 +700,7 @@
 - 📄 🔶 **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** 🔧 R:🔴 M:🟢 — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. by aattaran *(2.3k ⭐)*
 - 🔗 🔶 **[alfanous](https://github.com/Alfanous-team/alfanous)** 🔧 R:🟢 M:✅ — Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces... by Alfanous-team *(289 ⭐)*
 - 📄 🔶 **[open-responses](https://github.com/open-responses/open-responses)** 🤖 R:🟡 M:🔴 — Self-hosted alternative to OpenAI's Responses API compatible with Agents SDK and works with all model providers (Claude/R1/Qwen/Ollama etc) by open-responses *(231 ⭐)*
-- 📚 🔶 **[ForLoopCodes/contextplus](https://github.com/forloopcodes/contextplus)** 🤖 R:🟡 M:🟢 — Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph. by forloopcodes *(2k ⭐)*
+- 📚 🔶 **[ForLoopCodes/contextplus](https://github.com/forloopcodes/contextplus)** 🤖 R:🟡 M:🟠 — Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph. by forloopcodes *(2k ⭐)*
 - 📄 🔶 **[run-llama/agentfs-claude](https://github.com/run-llama/agentfs-claude)** 🧠 R:🟡 M:🟠 — Run Claude Code/Codex within AgentFS, orchestrated by LlamaIndex Workflows by run-llama *(323 ⭐)*
 - 🧠 🔶 **[coding-tool](https://github.com/CooperJiang/coding-tool)** 🧠 R:🟡 M:🟠 — claudecode|codex|gemini  cli增强工具。 by CooperJiang *(417 ⭐)*
 - 📚 🔶 **[agent-skills-discovery-rfc](https://github.com/cloudflare/agent-skills-discovery-rfc)** 🔧 R:🟢 M:🟠 — A mechanism for discovering Agent Skills using the .well-known URI path prefix as specified in RFC 8615 for discovering Agent Skills. by cloudflare *(356 ⭐)*
