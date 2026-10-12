@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,800,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-12 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-12 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔌 ⭐ **[jinn](https://github.com/hristo2612/jinn)** 🤖🧠 R:🟡 M:🟢 — Lightweight AI gateway daemon orchestrating Claude Code, Codex, Hermes, Grok and Antigravity CLI. by hristo2612 *(321 ⭐)* — discovered Oct 12
+- 🔄 🔷 **[M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API)** 🔧 R:🟡 M:🟢 — Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。 by HEXUXIU *(552 ⭐)* — discovered Oct 12
 - 🧠 ⭐ **[agent-call](https://github.com/XiyaoWang0519/agent-call)** 🖱️🧠 R:🟡 M:🟢 — Open-source MCP server for safe, stateful AI-agent phone calls with OpenAI Realtime and Twilio. by XiyaoWang0519 *(298 ⭐)* — discovered Oct 12
 - 📄 🔷 **[asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)** 🤖 R:🟡 M:🟢 — ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. by danyuchn *(4.5k ⭐)* — discovered Oct 11
 - 🔌 ⭐ **[repowise](https://github.com/repowise-dev/repowise)** 🤖 R:🟡 M:🟢 — Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP. by repowise-dev *(7.5k ⭐)* — discovered Oct 11
-- 🔗 🔷 **[nao](https://github.com/getnao/nao)** 🤖🧠 R:🟡 M:🟢 — 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone by getnao *(1.9k ⭐)* — discovered Oct 11
-- 🔄 🔷 **[OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI)** 🤖 R:🟡 M:🟢 — Open-Source Generative UI Framework by CopilotKit *(2.7k ⭐)* — discovered Oct 11
 
 ---
 
@@ -492,7 +492,7 @@
 - 🔌 🔷 **[memtrace-public](https://github.com/syncable-dev/memtrace-public)** 🤖 R:🟡 M:🟢 — Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · Hermes · VS Code · Windsurf. by syncable-dev *(489 ⭐)*
 - 🔌 🔷 **[go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)** 🤖 R:🟡 M:🟢 — Help AI coding agents write modern Go by JetBrains *(3.8k ⭐)*
 - 📚 🔷 **[axe](https://github.com/jrswab/axe)** 🤖🧠 R:🔴 M:🟢 — A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. by jrswab *(898 ⭐)*
-- 📚 🔷 **[memvid/memvid](https://github.com/memvid/memvid)** 🤖 R:🟡 M:🟢 — Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. by memvid *(16.6k ⭐)*
+- 📚 🔷 **[memvid/memvid](https://github.com/memvid/memvid)** 🤖 R:🟡 M:✅ — Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. by memvid *(16.6k ⭐)*
 - 📄 🔷 **[MCP-Nest](https://github.com/rekog-labs/MCP-Nest)** 🤖 R:🟡 M:🟢 — A NestJS module to effortlessly create Model Context Protocol (MCP) servers for exposing AI tools, resources, and prompts. by rekog-labs *(718 ⭐)*
 - 📄 🔷 **[chat-ollama](https://github.com/sugarforever/chat-ollama)** 🔧 R:🟡 M:🟢 — ChatOllama is an open-source AI chatbot that brings cutting-edge language models to your fingertips while keeping your data private and secure. by sugarforever *(3.5k ⭐)*
 - ⌨️ 🔷 **[speckle-server](https://github.com/specklesystems/speckle-server)** 🖱️ R:🟡 M:🟢 — The Speckle Server, Frontend, 3D Viewer, & other JS utilities. by specklesystems *(848 ⭐)*
@@ -1506,6 +1506,7 @@
 - 🧠 ⭐ **[cmux](https://github.com/manaflow-ai/cmux)** 🤖🧠 R:🟡 M:🟢 — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. by manaflow-ai *(28.1k ⭐)*
 - 🧠 ⭐ **[OpenCreator](https://github.com/krillinai/OpenCreator)** 🤖🧠 R:🟡 M:🟢 — Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place. by krillinai *(12.7k ⭐)*
 - 🧠 ⭐ **[munder-difflin](https://github.com/HarnessMD/munder-difflin)** 🤖🧠 R:🟡 M:🟢 — local multi-agent harness by HarnessMD *(8.7k ⭐)*
+- 🔄 🔷 **[OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI)** 🤖 R:🟡 M:🟢 — Open-Source Generative UI Framework by CopilotKit *(2.7k ⭐)*
 - 📄 ⭐ **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** 🤖🖱️🧠 R:🟢 M:🟢 — AI Agent Framework, the Pydantic way by pydantic *(20.6k ⭐)*
 - 🔌 ⭐ **[treg](https://github.com/superdesigndev/treg)** 🤖🧠 R:🟡 M:🟢 — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn by superdesigndev *(5k ⭐)*
 - 🔄 🔷 **[ax](https://github.com/google/ax)** 🔧 R:🟡 M:🟢 — Google's open agentic orchestration runtime by google *(13.4k ⭐)*
@@ -1519,6 +1520,7 @@
 - 🔌 ⭐ **[toolkit](https://github.com/getsentry/toolkit)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic tooling for Sentry by getsentry *(928 ⭐)*
 - 🖱️ 🔷 **[agno](https://github.com/agno-agi/agno)** 🤖🖱️🧠 R:🟡 M:🟢 — Build, run, and manage agent platforms. by agno-agi *(42.7k ⭐)*
 - 🔄 🔷 **[starnet](https://github.com/androoAGI/starnet)** 🔧 R:🟡 M:🟢 — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. by androoAGI *(1.3k ⭐)*
+- 🔗 🔷 **[nao](https://github.com/getnao/nao)** 🤖🧠 R:🟡 M:🟢 — 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone by getnao *(1.9k ⭐)*
 - 🧠 🔷 **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** 🤖🧠 R:🟡 M:🟢 — Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. by nanobrowser *(14.1k ⭐)*
 - 📚 ⭐ **[simstudioai/sim](https://github.com/simstudioai/sim)** 🤖🖱️🧠 R:🔴 M:🟢 — Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. by simstudioai *(29.8k ⭐)*
 - 📄 ⭐ **[withastro/flue](https://github.com/withastro/flue)** 🤖🧠 R:🟡 M:🟢 — The sandbox agent framework. by withastro *(8.4k ⭐)*
