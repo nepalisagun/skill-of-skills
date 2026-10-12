@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,800,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-12 18:25 UTC; the badges above are live)*
+*(counts as of 2026-10-12 21:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔷 **[openai-cookbook](https://github.com/openai/openai-cookbook)** 🤖🧠 R:🟡 M:🟢 — Examples and guides for using the OpenAI API by openai *(76.6k ⭐)* — discovered Oct 12
 - 🔌 ⭐ **[jinn](https://github.com/hristo2612/jinn)** 🤖🧠 R:🟡 M:🟢 — Lightweight AI gateway daemon orchestrating Claude Code, Codex, Hermes, Grok and Antigravity CLI. by hristo2612 *(321 ⭐)* — discovered Oct 12
 - 🔄 🔷 **[M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API)** 🔧 R:🟡 M:🟢 — Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。 by HEXUXIU *(552 ⭐)* — discovered Oct 12
 - 🧠 ⭐ **[agent-call](https://github.com/XiyaoWang0519/agent-call)** 🖱️🧠 R:🟡 M:🟢 — Open-source MCP server for safe, stateful AI-agent phone calls with OpenAI Realtime and Twilio. by XiyaoWang0519 *(298 ⭐)* — discovered Oct 12
 - 📄 🔷 **[asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)** 🤖 R:🟡 M:🟢 — ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. by danyuchn *(4.5k ⭐)* — discovered Oct 11
-- 🔌 ⭐ **[repowise](https://github.com/repowise-dev/repowise)** 🤖 R:🟡 M:🟢 — Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP. by repowise-dev *(7.5k ⭐)* — discovered Oct 11
 
 ---
 
@@ -786,6 +786,7 @@
 - 🔗 ⭐ **[wigolo](https://github.com/KnockOutEZ/wigolo)** 🤖🧠 R:🟡 M:🟢 — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. by KnockOutEZ *(5.5k ⭐)*
 - ⌨️ ⭐ **[mcp-grafana](https://github.com/grafana/mcp-grafana)** 🤖 R:🟢 M:🟢 — MCP server for Grafana by grafana *(3.6k ⭐)*
 - 🔄 ⭐ **[dozzle](https://github.com/amir20/dozzle)** 🤖 R:🟡 M:🟢 — Realtime log viewer for containers.  Supports Docker, Swarm and K8s. by amir20 *(14.6k ⭐)*
+- 🔌 ⭐ **[repowise](https://github.com/repowise-dev/repowise)** 🤖 R:🟡 M:🟢 — Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP. by repowise-dev *(7.5k ⭐)*
 - 🔌 ⭐ **[pup](https://github.com/DataDog/pup)** 🤖🧠 R:🟡 M:🟢 — Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products. by DataDog *(1k ⭐)*
 - 🔌 🔷 **[worldmonitor](https://github.com/koala73/worldmonitor)** 🤖🧠 R:🟡 M:🟢 — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface by koala73 *(88.3k ⭐)*
 - 🧠 ⭐ **[feynman](https://github.com/Companion-Inc/feynman)** 🤖🧠 R:🟡 M:🟢 — The open source AI research agent. by Companion-Inc *(9.9k ⭐)*
