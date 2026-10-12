@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,700,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-12 00:25 UTC; the badges above are live)*
+*(counts as of 2026-10-12 03:00 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -579,7 +579,7 @@
 - 🔌 🔷 **[dotai](https://github.com/udecode/dotai)** 🤖 R:🔴 M:🟢 — Context manager for all agents by udecode *(1.2k ⭐)*
 - 📄 🔷 **[pabpereza](https://github.com/pabpereza/pabpereza)** 🤖🧠 R:🟡 M:🟢 — Website, courses, documentation, blog and youtube video tracker. by pabpereza *(480 ⭐)*
 - 📄 🔷 **[trice](https://github.com/rokath/trice)** 🧠 R:🟢 M:🟢 — 🟢 Super-fast, tiny C/C++ tracing with printf look-and-feel, even in interrupts ⚡, plus real-time PC logging 💻 by rokath *(1k ⭐)*
-- 📄 🔷 **[multik](https://github.com/Kotlin/multik)** 🤖 R:🟡 M:🟢 — Multidimensional array library for Kotlin by Kotlin *(739 ⭐)*
+- 📄 🔷 **[multik](https://github.com/Kotlin/multik)** 🤖 R:🟢 M:🟢 — Multidimensional array library for Kotlin by Kotlin *(739 ⭐)*
 - 📚 🔷 **[AmoyLab/Unla](https://github.com/AmoyLab/Unla)** 🤖🖱️🧠 R:🟡 M:🟢 — 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications. by AmoyLab *(2.2k ⭐)*
 - 📄 🔷 **[luamake](https://github.com/actboy168/luamake)** 🤖 R:🟡 M:🟢 — No description by actboy168 *(210 ⭐)*
 - 🧠 🔷 **[dataframely](https://github.com/Quantco/dataframely)** 🤖🧠 R:🟢 M:🟢 — A declarative, 🐻‍❄️-native data frame validation library. by Quantco *(618 ⭐)*
