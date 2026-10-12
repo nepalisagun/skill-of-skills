@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,800,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-12 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-12 12:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -322,7 +322,6 @@
 - 🔗 🔷 **[XcodeBuildMCP](https://github.com/getsentry/MobileBuildMCP)** 🤖🖱️🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. by getsentry *(6.5k ⭐)*
 - 📄 🔷 **[ansible/ansible](https://github.com/ansible/ansible)** 🤖🧠 R:🟡 M:🟢 — Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. by ansible *(71k ⭐)*
 - 📄 🔷 **[cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)** 🤖🧠 R:🟡 M:🟢 — Incremental engine for long horizon agents 🌟 Star if you like it! by cocoindex-io *(11.7k ⭐)*
-- 📄 🔷 **[VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)** 🤖 R:🟡 M:🟢 — 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling. by WEIFENG2333 *(16.2k ⭐)*
 - 📄 🔷 **[vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)** 🤖🧠 R:🟡 M:🟢 — Bash for Agents by vercel-labs *(4.4k ⭐)*
 - 🔄 ⭐ **[redis-js](https://github.com/upstash/redis-js)** 🤖 R:🟢 M:🟢 — HTTP based Redis Client for Serverless and Edge Functions by upstash *(977 ⭐)*
 - 🔌 🔷 **[simulink-agentic-toolkit](https://github.com/matlab/simulink-agentic-toolkit)** 🤖🧠 R:🟡 M:🟢 — The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design. by matlab *(1.2k ⭐)*
@@ -382,6 +381,7 @@
 - 📚 🔷 **[wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)** 🤖 R:🟡 M:🟢 — An open-source, AI-integrated, cross-platform terminal for seamless workflows by wavetermdev *(22.5k ⭐)*
 - 🧠 🔷 **[antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python)** 🤖🧠 R:🟡 M:🟢 — A Python library for building AI agents that leverage the full power of Google Antigravity. by google-antigravity *(3.7k ⭐)*
 - 🔄 🔶 **[Claude-Red](https://github.com/SnailSploit/Claude-Red)** 🤖 R:🟡 M:🟢 — claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. by SnailSploit *(7.4k ⭐)*
+- 📄 🔷 **[VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)** 🤖 R:🟡 M:🟢 — 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling. by WEIFENG2333 *(16.2k ⭐)*
 - 📄 🔷 **[punitarani/fli](https://github.com/punitarani/fli)** 🤖🧠 R:🟡 M:🟢 — Google Flights MCP, CLI and Python Library by punitarani *(3.2k ⭐)*
 - 📄 🔷 **[Hmbown/DeepSeek-TUI](https://github.com/codewhale-hq/Codewhale)** 🤖🧠 R:🟡 M:🟢 — DeepSeek + MiMo coding agent in terminal by codewhale-hq *(41.1k ⭐)*
 - 📚 🔷 **[EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)** 🤖🧠 R:🟡 M:🟢 — Fast, flexible LLM inference by EricLBuehler *(7.7k ⭐)*
@@ -533,7 +533,7 @@
 - 🧠 🔷 **[morphir](https://github.com/finos/morphir)** 🤖🧠 R:🟡 M:🟢 — A universal language for business and technology by finos *(213 ⭐)*
 - 🔄 🔷 **[sleap](https://github.com/talmolab/sleap)** 🤖 R:🟡 M:🟢 — A deep learning framework for multi-animal pose tracking. by talmolab *(618 ⭐)*
 - 📄 🔷 **[cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)** 🤖🧠 R:🟡 M:🟢 — TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically. by grab *(7k ⭐)*
-- ⌨️ 🔷 **[claude-context](https://github.com/zilliztech/claude-context)** 🤖🧠 R:🟢 M:🟢 — Code search MCP for Claude Code. Make entire codebase the context for any coding agent. by zilliztech *(12.6k ⭐)*
+- ⌨️ 🔷 **[claude-context](https://github.com/zilliztech/claude-context)** 🤖🧠 R:🟢 M:🟠 — Code search MCP for Claude Code. Make entire codebase the context for any coding agent. by zilliztech *(12.6k ⭐)*
 - 🔌 🔷 **[n-skills](https://github.com/numman-ali/n-skills)** 🤖🧠 R:🟡 M:🟢 — Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills by numman-ali *(1.1k ⭐)*
 - 📄 ⭐ **[web-search-mcp](https://github.com/mrkrsl/web-search-mcp)** 🔧 R:🟡 M:🔴 — A simple, locally hosted Web Search MCP server for use with Local LLMs by mrkrsl *(1.2k ⭐)*
 - 📄 🔷 **[statewright/statewright](https://github.com/statewright/statewright)** 🤖 R:🟡 M:🟢 — State machine guardrails for AI agents by statewright *(506 ⭐)*
