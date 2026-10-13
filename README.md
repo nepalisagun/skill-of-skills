@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-13 18:25 UTC; the badges above are live)*
+*(counts as of 2026-10-13 18:49 UTC; the badges above are live)*
 
 <a href="https://skills.911fund.io"><img src="https://skills.911fund.io/readme-demo.gif" alt="Searching Skill of Skills for code review: quality-ranked results with tier, maintenance and risk badges" width="800"></a>
 
@@ -1651,30 +1651,42 @@ Quality scores and risk validations are refreshed nightly once they are 27 days 
 
 ```mermaid
 flowchart LR
-    subgraph discovery["Multi-Platform Discovery"]
-        A[🔍 GitHub Scan] --> B[🤖 Claude Code]
-        A --> C[🖱️ Cursor]
-        A --> D[🧠 Codex]
-        A --> E[🏄 Windsurf/Cline]
+    subgraph discovery["Discovery"]
+        A[🔍 GitHub search]
+        B[📣 Hacker News · Reddit · X]
+        C[🤖 MCP demand: what agents could not find]
     end
-    subgraph analysis["Quality Analysis"]
-        F[📋 Platform Detection] --> G[🧪 Quality Scoring]
-        G --> H[🤖 AI Categorization]
+    subgraph intake["Intake"]
+        D[🚦 Relevance gate + AI triage] --> E[📋 Platform detection]
+        E --> F[🧪 Quality scoring]
+        F --> G[⚠️ Risk flags]
+        G --> H[🏷️ AI categorization]
+    end
+    subgraph upkeep["Daily upkeep"]
+        I[🔄 Stars + maintenance refresh] --> J[📈 Trending + demotion]
     end
     subgraph publishing["Publishing"]
-        I[📝 README Update] --> J[🌐 Web Directory]
+        K[🌐 Live directory + MCP server]
+        L[📝 This README]
     end
-    B & C & D & E --> F
-    H --> I
+    A & B & C --> D
+    H --> K & L
+    I -.-> K
 ```
+
+Platforms detected from repository markers: Claude Code, Cursor, Codex, Windsurf, Cline, Google AI Studio, plus generic agent skills.
 
 | Schedule | Stage | Description |
 |:--------:|-------|-------------|
-| **Every 3h** | Discovery | Scans GitHub for skills across all platforms |
-| **Scheduled** | Validation | Platform detection and AI categorization during intake |
-| **every 3h at :25 UTC** | Publishing | Regenerates README & web directory |
-| **daily at 3AM UTC** | Metadata Refresh | Updates repository identity, stars, releases, and maintenance status |
-| **Weekly Mon 9AM** | Discord Digest | Weekly summary of new discoveries |
+| **every 3h** | GitHub discovery | Searches GitHub for skills, plugins and MCP servers across every supported platform |
+| **every 6h** | Social discovery | Extracts GitHub links from Hacker News, Reddit and X posts |
+| **daily at 5:15AM UTC** | Demand discovery | Searches GitHub for what agents asked the MCP server for and could not find |
+| **every 30 min** | Intake | Relevance gate (AI triage for borderline candidates), platform detection, quality scoring, risk flags and categorization |
+| **daily at 3AM UTC** | Metadata refresh | Re-verifies stars, identity, releases and maintenance for every active repository; rescores quality and risk once 27 days old |
+| **daily at 4:30AM UTC** | Trending | Recalculates trending and composite scores and runs the low-quality demotion timer |
+| **every 3h at :25 UTC** | Publishing | Regenerates this README; the web directory and its API are live |
+| **hourly on the hour UTC** | Health | Checks freshness, backlogs and job receipts; alerts on Discord when not ok |
+| **weekly, Mondays 9AM UTC** | Discord digest | Weekly summary of new discoveries |
 
 ## License
 
