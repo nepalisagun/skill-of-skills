@@ -6,9 +6,11 @@
 [![Curated tier](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fcurated)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,900,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-13 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-13 15:25 UTC; the badges above are live)*
+
+<a href="https://skills.911fund.io"><img src="https://skills.911fund.io/readme-demo.gif" alt="Searching Skill of Skills for code review: quality-ranked results with tier, maintenance and risk badges" width="800"></a>
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +72,11 @@
 
 ## 🆕 Latest
 
+- 🧠 ⭐ **[ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter)** 🤖🧠 R:🟡 M:🟢 — Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take over without a drop. Full REST + SSE API with OpenAPI spec to embed in your product. FreeSWITCH + OpenAI Realtime / Qwen, one Go binary. by rasonyang *(239 ⭐)* — discovered Oct 13
+- 🧠 🔷 **[MaxKB](https://github.com/1Panel-dev/MaxKB)** 🤖🧠 R:🟡 M:🟢 — 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 by 1Panel-dev *(23k ⭐)* — discovered Oct 13
+- 🔌 🔷 **[agent-skills](https://github.com/supabase/agent-skills)** 🤖🧠 R:🟡 M:🟢 — Agent Skills to help developers using AI agents with Supabase by supabase *(2.8k ⭐)* — discovered Oct 13
 - 🔌 🔷 **[openai-cookbook](https://github.com/openai/openai-cookbook)** 🤖🧠 R:🟡 M:🟢 — Examples and guides for using the OpenAI API by openai *(76.6k ⭐)* — discovered Oct 12
 - 🔌 ⭐ **[jinn](https://github.com/hristo2612/jinn)** 🤖🧠 R:🟡 M:🟢 — Lightweight AI gateway daemon orchestrating Claude Code, Codex, Hermes, Grok and Antigravity CLI. by hristo2612 *(321 ⭐)* — discovered Oct 12
-- 🔄 🔷 **[M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API)** 🔧 R:🟡 M:🟢 — Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。 by HEXUXIU *(557 ⭐)* — discovered Oct 12
-- 🧠 ⭐ **[agent-call](https://github.com/XiyaoWang0519/agent-call)** 🖱️🧠 R:🟡 M:🟢 — Open-source MCP server for safe, stateful AI-agent phone calls with OpenAI Realtime and Twilio. by XiyaoWang0519 *(298 ⭐)* — discovered Oct 12
-- 📄 🔷 **[asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)** 🤖 R:🟡 M:🟢 — ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. by danyuchn *(4.7k ⭐)* — discovered Oct 11
 
 ---
 
@@ -383,6 +385,7 @@
 - 🧠 ⭐ **[go-micro](https://github.com/micro/go-micro)** 🤖🧠 R:🟡 M:🟢 — A Go agent harness and service framework by micro *(23.1k ⭐)*
 - 🧠 🔷 **[antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python)** 🤖🧠 R:🟡 M:🟢 — A Python library for building AI agents that leverage the full power of Google Antigravity. by google-antigravity *(3.7k ⭐)*
 - 📄 🔷 **[superdoc](https://github.com/superdoc/docx-editor)** 🤖🧠 R:🟡 M:🟢 — 🦋️ SuperDoc - modern docx editing by superdoc *(1.1k ⭐)*
+- 🔄 🔷 **[M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API)** 🔧 R:🟡 M:🟢 — Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。 by HEXUXIU *(557 ⭐)*
 - 🧠 🔷 **[opa](https://github.com/open-policy-agent/opa)** 🤖🧠 R:🟡 M:🟢 — Open Policy Agent (OPA) is an open source, general-purpose policy engine. by open-policy-agent *(12.4k ⭐)*
 - 🧠 ⭐ **[Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** 🤖🧠 R:🔴 M:🟢 — Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file. by Orkas-AI *(501 ⭐)*
 - 📄 🔷 **[ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp)** 🔧 R:🟡 M:🟢 — No description by ahujasid *(3.2k ⭐)*
@@ -1241,6 +1244,7 @@
 - 📄 🔷 **[linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)** 🤖🧠 R:🟡 M:🟢 — An AI prompt optimizer for writing better prompts and getting better AI results. by linshenkx *(37.8k ⭐)*
 - 📚 ⭐ **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** 🤖🧠 R:🟡 M:🟢 — 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. by alirezarezvani *(28.1k ⭐)*
 - 📚 🔷 **[jcode](https://github.com/1jehuang/jcode)** 🤖🧠 R:🟡 M:🟢 — A resource-efficient, open source AI coding agent with a native TUI, built in Rust. by 1jehuang *(20.6k ⭐)*
+- 📄 🔷 **[asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)** 🤖 R:🟡 M:🟢 — ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. by danyuchn *(4.7k ⭐)*
 - 🔌 🔷 **[i-have-adhd](https://github.com/ayghri/i-have-adhd)** 🤖 R:🟢 M:🟢 — A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. by ayghri *(56.7k ⭐)*
 - 📚 ⭐ **[Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)** 🤖🖱️🧠 R:🟢 M:🟢 — A collection of projects showcasing RAG, agents, workflows, and other AI use cases by Arindam200 *(16.1k ⭐)*
 - 📚 🔷 **[security-audit-skill](https://github.com/cloudflare/security-audit-skill)** 🤖 R:🟡 M:🟢 — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings by cloudflare *(28.9k ⭐)*
@@ -1564,6 +1568,7 @@
 - 🔌 ⭐ **[claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix)** 🤖 R:🟡 M:🟢 — Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable knowledge. by oliver-kriska *(565 ⭐)*
 - 📚 🔷 **[cft0808/edict](https://github.com/cft0808/edict)** 🔧 R:🔴 M:🟢 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails by cft0808 *(17k ⭐)*
 - ⌨️ 🔷 **[langchat](https://github.com/LangChat/langchat)** 🤖 R:🟡 M:🟢 — LangChat 是由 LangChat Team 开发的开源 AI Agent 应用平台，支持多模型、Agent、知识库 RAG、Skills、MCP 与智能问数。 by LangChat *(1.3k ⭐)*
+- 🧠 ⭐ **[agent-call](https://github.com/XiyaoWang0519/agent-call)** 🖱️🧠 R:🟡 M:🟢 — Open-source MCP server for safe, stateful AI-agent phone calls with OpenAI Realtime and Twilio. by XiyaoWang0519 *(298 ⭐)*
 - 🔌 🔷 **[foremerge](https://github.com/naw103/foremerge)** 🤖🖱️ R:🟡 M:🟢 — Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git. by naw103 *(538 ⭐)*
 - 🧠 🔷 **[llm-d-router](https://github.com/llm-d/llm-d-router)** 🤖🧠 R:🟡 M:🟢 — llm-d Router: The intelligent entry point for inference requests by llm-d *(397 ⭐)*
 - 🧠 🔷 **[AI-Gateway](https://github.com/Azure-Samples/AI-Gateway)** 🤖🧠 R:🟡 M:🟢 — Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry 🚀 by Azure-Samples *(996 ⭐)*
