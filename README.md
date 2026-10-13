@@ -6,9 +6,9 @@
 [![Curated tier](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fcurated)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,000,000+ ⭐.
 
-*(counts as of 2026-10-13 20:19 UTC; the badges above are live)*
+*(counts as of 2026-10-13 21:25 UTC; the badges above are live)*
 
 <a href="https://skills.911fund.io"><img src="https://skills.911fund.io/readme-demo.gif" alt="Searching Skill of Skills for code review: quality-ranked results with tier, maintenance and risk badges" width="800"></a>
 
@@ -514,6 +514,7 @@
 - 📚 ⭐ **[mofa](https://github.com/mofa-org/mofa)** 🤖🖱️🧠🏄 R:🟡 M:🟢 — MoFA - Modular Framework for Agents. Modular, Compositional and Programmable. by mofa-org *(292 ⭐)*
 - 🔌 🔷 **[tidy3d](https://github.com/flexcompute/tidy3d)** 🤖🧠 R:🟡 M:🟢 — fast, large scale photonic simulation platform by flexcompute *(366 ⭐)*
 - 🔌 🔷 **[CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit)** 🤖 R:🔴 M:🟢 — CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. by TencentCloudBase *(1.1k ⭐)*
+- 🔌 ⭐ **[dot-skills](https://github.com/pproenca/dot-skills)** 🤖🧠 R:🟡 M:🟢 — A collection of AI agent skills following the Agent Skills open format by pproenca *(214 ⭐)*
 - 📄 🔷 **[Mirror](https://github.com/MirrorNetworking/Mirror)** 🔧 R:🟢 M:🟢 — #1 Open Source Unity Networking Library by MirrorNetworking *(6.4k ⭐)*
 - 🔌 🔷 **[claude-trading-skills](https://github.com/agiprolabs/claude-trading-skills)** 🤖 R:🟡 M:🟢 — 68 trading, DeFi, and quantitative finance Agent Skills. Works with Claude Code, Cursor, Codex, Gemini CLI, and 30+ other tools. by agiprolabs *(412 ⭐)*
 - 🔗 🔷 **[agentcore-cli](https://github.com/aws/agentcore-cli)** 🤖🧠 R:🟡 M:🟢 — The terminal experience for AgentCore! by aws *(304 ⭐)*
