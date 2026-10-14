@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-14 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-14 15:25 UTC; the badges above are live)*
 
 <a href="https://skills.911fund.io"><img src="https://skills.911fund.io/readme-demo.gif" alt="Searching Skill of Skills for code review: quality-ranked results with tier, maintenance and risk badges" width="800"></a>
 
@@ -72,11 +72,11 @@
 
 ## 🆕 Latest
 
+- 🔄 🔷 **[slashdocs](https://github.com/razorpay/slashdocs)** 🤖 R:🟡 M:🟢 — Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions. by razorpay *(278 ⭐)* — discovered Oct 14
+- 🧠 ⭐ **[jarvis](https://github.com/isair/jarvis)** 🤖🧠 R:🟡 M:🟢 — Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. by isair *(2.1k ⭐)* — discovered Oct 14
 - 🔌 🔷 **[spotatui](https://github.com/LargeModGames/spotatui)** 🤖🧠 R:🟡 M:🟢 — A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources by LargeModGames *(1.5k ⭐)* — discovered Oct 14
 - 🧠 ⭐ **[ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter)** 🤖🧠 R:🟡 M:🟢 — Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take over without a drop. Full REST + SSE API with OpenAPI spec to embed in your product. FreeSWITCH + OpenAI Realtime / Qwen, one Go binary. by rasonyang *(251 ⭐)* — discovered Oct 13
 - 🧠 🔷 **[MaxKB](https://github.com/1Panel-dev/MaxKB)** 🤖🧠 R:🟡 M:🟢 — 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 by 1Panel-dev *(23k ⭐)* — discovered Oct 13
-- 🔌 🔷 **[agent-skills](https://github.com/supabase/agent-skills)** 🤖🧠 R:🟡 M:🟢 — Agent Skills to help developers using AI agents with Supabase by supabase *(2.8k ⭐)* — discovered Oct 13
-- 🔌 🔷 **[openai-cookbook](https://github.com/openai/openai-cookbook)** 🤖🧠 R:🟡 M:🟢 — Examples and guides for using the OpenAI API by openai *(76.6k ⭐)* — discovered Oct 12
 
 ---
 
@@ -157,6 +157,7 @@
 - 📚 🔷 **[browser-use](https://github.com/browser-use/browser-use)** 🤖🧠 R:🔴 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(117.9k ⭐)*
 - 📚 🔷 **[langgraph](https://github.com/langchain-ai/langgraph)** 🤖🧠 R:🟢 M:🟢 — Build resilient language agents as graphs. by langchain-ai *(43.2k ⭐)*
 - 🧠 ⭐ **[nanobot](https://github.com/HKUDS/nanobot)** 🤖🧠 R:🟡 M:🟢 — Lightweight, open-source AI agent for your tools, chats, and workflows. by HKUDS *(49k ⭐)*
+- 🔌 🔷 **[openai-cookbook](https://github.com/openai/openai-cookbook)** 🤖🧠 R:🟡 M:🟢 — Examples and guides for using the OpenAI API by openai *(76.6k ⭐)*
 - 📚 ⭐ **[sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)** 🤖🧠 R:🟢 M:🟢 — 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more. by sirmalloc *(13.3k ⭐)*
 - 📚 🔷 **[llama.cpp](https://github.com/ggml-org/llama.cpp)** 🤖🧠 R:🟢 M:🟢 — LLM inference in C/C++ by ggml-org *(131.1k ⭐)*
 - 📄 🔷 **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** 🧠 R:🟡 M:🟢 — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ by AstrBotDevs *(41.8k ⭐)*
@@ -260,6 +261,7 @@
 - 🔌 ⭐ **[unifi-mcp](https://github.com/sirkirby/unifi-mcp)** 🤖🖱️🧠 R:🟡 M:🟢 — MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive by sirkirby *(900 ⭐)*
 - 🔄 ⭐ **[lago](https://github.com/getlago/lago)** 🤖 R:🟢 M:🟢 — Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics by getlago *(10.7k ⭐)*
 - 🔄 🔷 **[Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know)** 🤖 R:🟡 M:🟢 — A practical Claude Code guide with clear mental models and copy-paste examples — setup, prompt engineering, slash commands, skills, hooks, subagents, agent teams, and MCP servers. Beginner path to power-user depth. Featured in Awesome Claude Code. by wesammustafa *(3.4k ⭐)*
+- 🔌 🔷 **[agent-skills](https://github.com/supabase/agent-skills)** 🤖🧠 R:🟡 M:🟢 — Agent Skills to help developers using AI agents with Supabase by supabase *(2.8k ⭐)*
 - 🔌 ⭐ **[open-ontologies](https://github.com/fabio-rovai/open-ontologies)** 🤖 R:🟡 M:🟢 — An engineering and verification platform for trustworthy enterprise ontologies and knowledge graphs. by fabio-rovai *(1.1k ⭐)*
 - 🔌 ⭐ **[cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)** 🤖 R:🟡 M:🟢 — A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it! by cocoindex-io *(2.9k ⭐)*
 - 📄 🔷 **[musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)** 🤖 R:🟡 M:🟢 — Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. by musistudio *(37.7k ⭐)*
@@ -512,8 +514,8 @@
 - 📚 🔷 **[axe](https://github.com/jrswab/axe)** 🤖🧠 R:🔴 M:🟢 — A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. by jrswab *(897 ⭐)*
 - 📄 🔷 **[MCP-Nest](https://github.com/rekog-labs/MCP-Nest)** 🤖 R:🟡 M:🟢 — A NestJS module to effortlessly create Model Context Protocol (MCP) servers for exposing AI tools, resources, and prompts. by rekog-labs *(718 ⭐)*
 - ⌨️ 🔷 **[speckle-server](https://github.com/specklesystems/speckle-server)** 🖱️ R:🟡 M:🟢 — The Speckle Server, Frontend, 3D Viewer, & other JS utilities. by specklesystems *(849 ⭐)*
-- 📄 🔷 **[Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit)** 🤖 R:🟢 M:🟢 — Agent plugins/extensions for CLIs and IDEs by Shopify *(596 ⭐)*
 - 📚 🔷 **[pagible](https://github.com/aimeos/pagible)** 🤖 R:🟡 M:🟢 — Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with JSON:API, GraphQL API, templates, and themes by aimeos *(596 ⭐)*
+- 📄 🔷 **[Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit)** 🤖 R:🟢 M:🟢 — Agent plugins/extensions for CLIs and IDEs by Shopify *(596 ⭐)*
 - 🔄 ⭐ **[cavemem](https://github.com/JuliusBrussee/cavemem)** 🤖 R:🟡 M:🟢 — Frozen — cross-agent persistent memory for coding assistants. Still works; the compressed-memory core now ships inside JuliusBrussee/caveman. by JuliusBrussee *(677 ⭐)*
 - 🧠 🔷 **[tsparticles](https://github.com/tsparticles/tsparticles)** 🤖🖱️🧠 R:🟢 M:🟢 — tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components. by tsparticles *(9k ⭐)*
 - 🔌 🔷 **[kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)** 🤖 R:🟢 M:🟢 — A collection of AI agent skills useful for projects using Kotlin language by Kotlin *(1.1k ⭐)*
