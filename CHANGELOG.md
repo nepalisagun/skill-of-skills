@@ -7,7 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.13.0] - 2026-10-15
+
 ### Added
+- Verified working is now above the fold: a live badge and a one-line explanation at the top of
+  the README, and a Verified working tile plus a link to the verified-tools filter on the homepage.
 - **Verified Working is public.** After a full-catalog run, badges now show on tool pages, search,
   the API, MCP search and the README. Every published failure was checked by hand against Claude
   Code's own plugin validator before launch; unconfirmed failures show no badge.
