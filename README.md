@@ -5,10 +5,13 @@
 [![Skills](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fskills)](https://skills.911fund.io)
 [![Curated tier](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fcurated)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
+[![Verified working](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fverified-count)](https://skills.911fund.io/tools?verified=any)
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,100,000+ ⭐.
 
-*(counts as of 2026-10-15 06:25 UTC; the badges above are live)*
+*(counts as of 2026-10-15 11:15 UTC; the badges above are live)*
+
+✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
 <a href="https://skills.911fund.io"><img src="https://skills.911fund.io/readme-demo.gif" alt="Searching Skill of Skills for code review: quality-ranked results with tier, maintenance and risk badges" width="800"></a>
 
@@ -658,7 +661,7 @@
 - ⌨️ 🔷 **[figma-use](https://github.com/dannote/figma-use)** 🤖 R:🟡 M:✅ — Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. by dannote *(609 ⭐)*
 - 🔗 🔷 **[atlas-mcp-server](https://github.com/cyanheads/atlas-mcp-server)** 🤖📟 R:🟡 M:🔴 — A Model Context Protocol (MCP) server for ATLAS, a Neo4j-powered task management system for LLM Agents - implementing a three-tier architecture (Projects, Tasks, Knowledge) to manage complex workflows. Now with Deep Research. by cyanheads *(477 ⭐)*
 - 🔗 🔷 **[mcp-openapi-server](https://github.com/ivo-toby/mcp-openapi-server)** ▶ Runs 🤖🖱️🧠 R:🟡 M:✅ — MCP Server (Model Context Protocol) for turning OpenAPI specifications into a MCP Resource by ivo-toby *(299 ⭐)*
-- 📚 🔷 **[vuer](https://github.com/vuer-ai/vuer)** ▶ Runs 🤖 R:🟢 M:🟢 — Vuer is a 3D visualization tool for robotics and VR applications. by vuer-ai *(407 ⭐)*
+- 📚 🔷 **[vuer](https://github.com/vuer-ai/vuer)** ▶ Runs 🤖 R:🟢 M:✅ — Vuer is a 3D visualization tool for robotics and VR applications. by vuer-ai *(407 ⭐)*
 - 📄 🔶 **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** ✓ Loads clean 🤖 R:🟡 M:✅ — Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open by pasky *(3.3k ⭐)*
 - 📚 🔷 **[instantlyeasy/claude-code-sdk-ts](https://github.com/instantlyeasy/claude-code-sdk-ts)** ✓ Loads clean 🔧 R:🟡 M:🟢 — Fluent, chainable TypeScript SDK: configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write'). Multi-level logging plus live onMessage/onToolUse callbacks give deep, CLI-compatible observability. by instantlyeasy *(207 ⭐)*
 - 📚 🔷 **[waiterxiaoyy/Deep-Dive-Claude-Code](https://github.com/waiterxiaoyy/Deep-Dive-Claude-Code)** ✓ Loads clean 🔧 R:🟡 M:🟠 — 🔍 Source code leak? Production code? 13 chapters breaking down Claude Code's production-grade architecture layer by layer — the most visual + agent simulator + source code analysis by waiterxiaoyy *(294 ⭐)*
