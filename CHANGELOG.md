@@ -5,6 +5,95 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+- **Verified Working is public.** After a full-catalog run, badges now show on tool pages, search,
+  the API, MCP search and the README. Every published failure was checked by hand against Claude
+  Code's own plugin validator before launch; unconfirmed failures show no badge.
+- New and changed repositories can now use the production tool-type model vote: Haiku and Sonnet
+  classify bounded untrusted evidence with a shared rubric, the deterministic classifier breaks
+  disagreements, ignores malformed labels, and safely falls back to the rule label when no majority
+  is available or a provider call fails. Ingest uses
+  the result immediately; the default-off metadata-refresh path remains changed-HEAD-only,
+  compare-and-set guarded, capped at 25 rows, and reports `tool_type_model_calls`.
+- Verified Working now runs nightly within a monthly budget, keeps unchanged-code results current,
+  requires two agreeing failures before publishing a failure, and supports reversible retirement
+  and automatic recovery when a repository is fixed.
+- **Verified working badges** now publish two honest tiers: **Runs** for a repository-declared MCP
+  server or CLI that started successfully, and **Loads clean** when machine-readable manifests,
+  hooks and MCP configuration validate without launching an entry (skill frontmatter is advisory,
+  since Claude Code loads skills without it). Repositories
+  are checked at a pinned commit in a fresh credential-free Claude Managed Agents sandbox with
+  restricted networking and a USD 1 cap; a deterministic zero-dependency Node harness, attested against the
+  platform event log, makes the verdict—not the agent narrative. Current results are available in
+  tool/search APIs, MCP search, live shields endpoints, generated README markers, guides, llms.txt
+  and tool-profile structured data; missing credentials, unpinned packages and timeouts remain
+  inconclusive rather than failures.
+- Pilot on the top 50 by composite: 38 of 49 eligible verified (20 Runs, 18 Loads clean), 2 failed
+  on manifests Claude Code rejects, 9 inconclusive. Every failure was checked by hand before the
+  badges were made public.
+
+- The README opens with a short demo of the site (search → quality-ranked results), served from
+  skills.911fund.io so it ships with the web build.
+
+- The README's "How It Works" table now lists every scheduled stage — GitHub, social and demand
+  discovery, intake, metadata refresh, trending, publishing, health and the digest — from one
+  config list that a test checks against each n8n workflow trigger or host-cron script. The
+  diagram adds social and MCP-demand discovery, the relevance gate and risk flags, and the platform
+  list now matches what is actually detected.
+
+### Fixed
+- Tool types are right again. The old classifier matched words anywhere in a repository's file
+  tree, so any repo with CI (`.github/workflows`) became a "workflow" and any repo with an AGENTS.md
+  became a "Codex agent", and most MCP servers were filed as something else. Every active tool was
+  reclassified by a model vote (Haiku, Grok and Sonnet), and tool page titles name the type again.
+- Restored Verified Working failure precision after the full-catalog run: skill frontmatter is now
+  always advisory; MCP launch failures default to inconclusive unless a repository-local supported
+  language defect is proven; missing `--help`, absolute/escaping/template paths, comment keys, and
+  non-Claude `.mcp.json` shapes no longer create failures. Added offline replay of stored results and
+  14 minimal fixtures for the hand-confirmed manifest, reference, hook, and MCP-config failures.
+- Eliminated early full-run false failures by narrowing skill/MCP/hook verdict scope, matching Claude plugin data environment behavior, classifying post-initialize companion-service and external absolute-path failures as environmental, retaining stderr tails, and parsing uvx/npx package arguments correctly.
+- Prevented agent-chosen example servers from creating false Verified Working failures: CLI smoke
+  checks now affect the verdict only when they resolve to a repository-declared package/pyproject
+  entry, while example/demo/sample/fixture/test commands are advisory. Declared CLIs that time out
+  or keep serving instead of printing help are environmental, and lagging 404 session-output
+  downloads receive three backoff retries before becoming inconclusive `no-result`.
+- Corrected two more false Verified Working failures: deliberate test/fixture artifacts are now
+  advisory and never launched as verdict checks, while JavaScript module-resolution, unknown-file,
+  missing-command, exit-127, and spawn-ENOENT launch failures are environmental. Only statically
+  missing declared paths remain failures; invalid production `.mcp.json` still fails.
+- Exact-SemVer npx/uvx packages declared in repository `.mcp.json` files now count as pinned, while
+  ranges, tags, latest, unversioned packages, and agent-supplied registry commands remain
+  not-pinned.
+- Verified Working retries transient session/API 5xx, 529, and overloaded failures twice without
+  double-writing results, charges every attempt to the hard spend cap, and gives one idle session
+  follow-up when the harness never ran. Failure details are now required to be non-empty.
+- The managed-agent prompt now tells agents to link or directly invoke built package bins, and the
+  harness permits absolute sandbox executable paths such as a temporary virtualenv without
+  weakening result attestation or repository-traversal checks.
+- Corrected false Verified Working failures from UTF-8 BOM/CRLF skill files, YAML block-value
+  descriptions, unexpanded Claude plugin-root variables, and MCP servers that require configuration
+  at startup. Frontmatter evidence now uses repository-relative paths and only loadable skills affect
+  verdicts; unrelated or repo-escaping `SKILL.md` files are advisory.
+- Hardened pilot evidence handling without relaxing attestation: the harness now writes the exact
+  compact `result.json` it prints, consequential failures precede advisory noise in compact output,
+  advisory checks cannot trigger environment normalization, and shell metacharacters inside quoted
+  harness arguments are no longer mistaken for command chaining.
+- Removed the MCP client-as-server false positive caused by treating SDK dependencies as proof of a
+  runnable server, and raised the still-bounded repository walk to cover the two large pilot repos.
+- Verified Working now detects runnable artifact kinds from repository markers instead of trusting
+  the stored `tool_type`, runs every detected kind, records `detected_kinds`, treats docs-only repos
+  as N/A, and uses only a cheap metadata prefilter for signal-free resource/Cursor-rule rows.
+- Closed the Verified Working trust gap: a session-authored `result.json` can no longer create a
+  verified/failed verdict without a matching mounted-harness call and tool result in the retained
+  session event log. The harness self-reports its SHA-256, the runner checks it against the exact
+  uploaded bytes, mount paths now agree, and migration 016 records the private JSONL evidence path.
+- Search result cards showed every skill's maintenance status as "Unknown": the web search query
+  never selected the last commit date. It does now (MCP search already did).
+- Pipeline health now ages only retryable categorization rows; three-attempt terminal rows remain
+  visible as a degraded human-review queue without making the retry pipeline falsely critical.
+
 ## [3.12.2] - 2026-09-20
 
 ### Changed
