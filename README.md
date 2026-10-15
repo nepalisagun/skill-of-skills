@@ -9,7 +9,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,100,000+ ⭐.
 
-*(counts as of 2026-10-15 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-15 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📄 🔷 **[phone-harness](https://github.com/ShawnPana/phone-harness)** 🤖 R:🟡 M:🟢 — let your agent control your phone by ShawnPana *(3.6k ⭐)* — discovered Oct 15
+- 📚 🔷 **[PriceAI](https://github.com/dimthink/PriceAI)** 🤖 R:🟡 M:🟢 — AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 by dimthink *(4.1k ⭐)* — discovered Oct 15
+- ⌨️ 🔷 **[xerj](https://github.com/xerj-org/xerj)** 🤖🧠 R:🟡 M:🟢 — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. by xerj-org *(4.8k ⭐)* — discovered Oct 15
 - 📚 🔷 **[slashdocs](https://github.com/razorpay/slashdocs)** 🤖 R:🟡 M:🟢 — Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions. by razorpay *(292 ⭐)* — discovered Oct 14
 - 📚 ⭐ **[jarvis](https://github.com/isair/jarvis)** 🤖🧠 R:🟡 M:🟢 — Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. by isair *(2.1k ⭐)* — discovered Oct 14
-- ⌨️ 🔷 **[spotatui](https://github.com/LargeModGames/spotatui)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources by LargeModGames *(1.6k ⭐)* — discovered Oct 14
-- 📚 ⭐ **[ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take over without a drop. Full REST + SSE API with OpenAPI spec to embed in your product. FreeSWITCH + OpenAI Realtime / Qwen, one Go binary. by rasonyang *(264 ⭐)* — discovered Oct 13
-- 📚 🔷 **[MaxKB](https://github.com/1Panel-dev/MaxKB)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 by 1Panel-dev *(23k ⭐)* — discovered Oct 13
 
 ---
 
@@ -259,6 +259,7 @@
 - ⌨️ ⭐ **[hcom](https://github.com/aannoo/hcom)** ✓ Loads clean 🤖 R:⚫ M:🟢 — Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi by aannoo *(572 ⭐)*
 - ⌨️ ⭐ **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Replace port numbers with stable, named local URLs. For humans and agents. by vercel-labs *(12.7k ⭐)*
 - 🔗 ⭐ **[hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)** 🧠 R:🟡 M:🟢 — The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development. by hashicorp *(1.5k ⭐)*
+- ⌨️ 🔷 **[spotatui](https://github.com/LargeModGames/spotatui)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources by LargeModGames *(1.6k ⭐)*
 - ⌨️ ⭐ **[junhoyeo/tokscale](https://github.com/junhoyeo/tokscale)** ▶ Runs 🧠 R:🟢 M:🟢 — 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph by junhoyeo *(5.7k ⭐)*
 - ⌨️ ⭐ **[free-coding-models](https://github.com/vava-nessa/free-coding-models)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time by vava-nessa *(2.8k ⭐)*
 - ⌨️ 🔷 **[chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)** 🤖🧠 R:🔴 M:🟢 — Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. by chenhg5 *(15.9k ⭐)*
@@ -1546,6 +1547,7 @@
 - 📚 ⭐ **[pi-gui](https://github.com/minghinmatthewlam/pi-gui)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Electron GUI app for the pi coding agent runtime by minghinmatthewlam *(1.2k ⭐)*
 - 📚 ⭐ **[withastro/flue](https://github.com/withastro/flue)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — The sandbox agent framework. by withastro *(8.5k ⭐)*
 - 📚 ⭐ **[desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. by zhukunpenglinyutong *(4.5k ⭐)*
+- 📚 ⭐ **[ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take over without a drop. Full REST + SSE API with OpenAPI spec to embed in your product. FreeSWITCH + OpenAI Realtime / Qwen, one Go binary. by rasonyang *(264 ⭐)*
 - 🔗 🔷 **[loop-engineering](https://github.com/cobusgreyling/loop-engineering)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. by cobusgreyling *(11.5k ⭐)*
 - 📦 ⭐ **[agentii-investment-intelligence](https://github.com/agentii-ai/agentii-investment-intelligence)** 🤖 R:🟡 M:🟢 — Claude-type skills for institutional equity research — 25 AI agent skills with SEC   filings, XBRL financials, earnings calendars, DCF/comps/LBO models, and PPT   generation. Powered by agentii.ai data plane. Works with Claude Code, OpenCode,   Codex, OpenClaw, Goose. by agentii-ai *(206 ⭐)*
 - 📚 🔷 **[whiteboard](https://github.com/devdotfast/whiteboard)** 🤖🧠 R:🟡 M:🟢 — open-source IDE for thoughtful software design by devdotfast *(3.2k ⭐)*
@@ -1569,6 +1571,7 @@
 - 📦 🔷 **[newsjack](https://github.com/elvisun/newsjack)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — The open-source skills that turn your agent into a full PR team. by elvisun *(1.6k ⭐)*
 - 📚 ⭐ **[EmbodiChain](https://github.com/DexForce/EmbodiChain)** 🤖🧠 R:🟡 M:🟢 — An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence. by DexForce *(231 ⭐)*
 - 📚 🔷 **[mindfs](https://github.com/a9gent/mindfs)** 🔧 R:🟡 M:🟢 — Access your personal AI agents and workstation data anywhere, anytime through MindFS. by a9gent *(1.8k ⭐)*
+- 📚 🔷 **[MaxKB](https://github.com/1Panel-dev/MaxKB)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 by 1Panel-dev *(23k ⭐)*
 - 📚 🔷 **[embabel-agent](https://github.com/embabel/embabel-agent)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ by embabel *(4.5k ⭐)*
 - ⌨️ ⭐ **[jinn](https://github.com/hristo2612/jinn)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Lightweight AI gateway daemon orchestrating Claude Code, Codex, Hermes, Grok and Antigravity CLI. by hristo2612 *(322 ⭐)*
 - 📚 🔷 **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** 🤖 R:🔴 M:🟢 — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration by OpenBMB *(34.5k ⭐)*
