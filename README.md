@@ -9,7 +9,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,200,000+ ⭐.
 
-*(counts as of 2026-10-16 11:58 UTC; the badges above are live)*
+*(counts as of 2026-10-16 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📄 🔷 **[phone-harness](https://github.com/ShawnPana/phone-harness)** 🤖 R:🟡 M:🟢 — let your agent control your phone by ShawnPana *(3.7k ⭐)* — discovered Oct 15
-- 📚 🔷 **[PriceAI](https://github.com/dimthink/PriceAI)** 🤖 R:🟡 M:🟢 — AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 by dimthink *(4.1k ⭐)* — discovered Oct 15
+- 📄 🔷 **[phone-harness](https://github.com/ShawnPana/phone-harness)** ▶ Runs 🤖 R:🟡 M:🟢 — let your agent control your phone by ShawnPana *(3.7k ⭐)* — discovered Oct 15
+- 📚 🔷 **[PriceAI](https://github.com/dimthink/PriceAI)** ✓ Loads clean 🤖 R:🟡 M:🟢 — AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 by dimthink *(4.1k ⭐)* — discovered Oct 15
 - ⌨️ 🔷 **[xerj](https://github.com/xerj-org/xerj)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. by xerj-org *(5.8k ⭐)* — discovered Oct 15
-- 📚 🔷 **[slashdocs](https://github.com/razorpay/slashdocs)** 🤖 R:🟡 M:🟢 — Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions. by razorpay *(370 ⭐)* — discovered Oct 14
-- 📚 ⭐ **[jarvis](https://github.com/isair/jarvis)** 🤖🧠 R:🟡 M:🟢 — Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. by isair *(2.1k ⭐)* — discovered Oct 14
+- 📚 🔷 **[slashdocs](https://github.com/razorpay/slashdocs)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions. by razorpay *(370 ⭐)* — discovered Oct 14
+- 📚 ⭐ **[jarvis](https://github.com/isair/jarvis)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. by isair *(2.1k ⭐)* — discovered Oct 14
 
 ---
 
@@ -1519,10 +1519,10 @@
 - 🔌 ⭐ **[treg](https://github.com/superdesigndev/treg)** 🤖🧠 R:🟡 M:🟢 — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn by superdesigndev *(5.3k ⭐)*
 - 📚 ⭐ **[munder-difflin](https://github.com/HarnessMD/munder-difflin)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — local multi-agent harness by HarnessMD *(8.8k ⭐)*
 - 📚 ⭐ **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** 🤖🖱️🧠 R:🔴 M:🟢 — AI Agent Framework, the Pydantic way by pydantic *(20.6k ⭐)*
-- 📚 🔶 **[openai/symphony](https://github.com/openai/symphony)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. by openai *(27.7k ⭐)*
 - 📚 ⭐ **[laya](https://github.com/aayushch/laya)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook,  Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK. by aayushch *(697 ⭐)*
 - 📚 ⭐ **[simstudioai/sim](https://github.com/simstudioai/sim)** ▶ Runs 🤖🖱️🧠 R:🔴 M:🟢 — Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. by simstudioai *(29.8k ⭐)*
 - 📚 ⭐ **[omnigent](https://github.com/omnigent-ai/omnigent)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. by omnigent-ai *(10.8k ⭐)*
+- 📚 🔶 **[openai/symphony](https://github.com/openai/symphony)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. by openai *(27.7k ⭐)*
 - 📚 ⭐ **[withastro/flue](https://github.com/withastro/flue)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — The sandbox agent framework. by withastro *(8.5k ⭐)*
 - 📚 🔷 **[crewAI](https://github.com/crewAIInc/crewAI)** 🧠 R:🟡 M:🟢 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. by crewAIInc *(59.8k ⭐)*
 - 📚 🔷 **[cindy](https://github.com/makecindy/cindy)** 🤖🧠 R:🟡 M:🟢 — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 by makecindy *(3.1k ⭐)*
