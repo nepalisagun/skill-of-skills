@@ -9,7 +9,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,200,000+ ⭐.
 
-*(counts as of 2026-10-16 06:25 UTC; the badges above are live)*
+*(counts as of 2026-10-16 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1586,7 +1586,7 @@
 - 📚 🔷 **[go_binance_futures](https://github.com/sorry510/go_binance_futures)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — AI agent + 币安合约量化 + 模拟交易 + 历史回测 by sorry510 *(252 ⭐)*
 - 📚 🔷 **[Chanakya-Local-Friend](https://github.com/samosa-ai-com/Chanakya-Local-Friend)** ▶ Runs 🧠 R:🟡 M:🟢 — Chanakya is an advanced, open-source, and self-hostable voice assistant designed for privacy, power, and flexibility. It leverages local AI/ML models to ensure your data stays with you. It Integrates with 1000+ third-party MCP servers including Home Assistant. by samosa-ai-com *(213 ⭐)*
 - ⌨️ 🔶 **[OptMem](https://github.com/VictorTaelin/OptMem)** 🔧 R:🟡 M:🟢 — Permanent memory for AI agents. A 426-token prompt, a script, plug and play. by VictorTaelin *(2.2k ⭐)*
-- 📚 🔷 **[AutoAgent](https://github.com/HKUDS/AutoAgent)** ✓ Loads clean 🧠 R:🟡 M:🟠 — "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" by HKUDS *(9.8k ⭐)*
+- 📚 🔷 **[AutoAgent](https://github.com/HKUDS/AutoAgent)** ✓ Loads clean 🧠 R:🟡 M:🔴 — "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" by HKUDS *(9.8k ⭐)*
 - 🔌 🔷 **[hive](https://github.com/rllm-org/hive)** 🤖🧠 R:🟡 M:🟠 — No description by rllm-org *(216 ⭐)*
 - 🔄 🔷 **[ai-trader](https://github.com/whchien/ai-trader)** ▶ Runs 🤖 R:🟡 M:✅ — Backtrader-powered backtesting framework for algorithmic trading, featuring 20+ strategies, multi-market support, CLI tools, and an integrated MCP server for professional traders. by whchien *(1.1k ⭐)*
 - 🔄 🔶 **[project-nova](https://github.com/dujonwalker/project-nova)** 🧠 R:🟡 M:🟠 — A multi-agent AI architecture that connects 25+ specialized agents through n8n and MCP servers. Project NOVA routes requests to domain-specific experts, enabling control of applications from knowledge bases to DAWs, home automation to development tools. Includes system prompts, Dockerfiles, and workflows for a complete AI assistant ecosystem. by dujonwalker *(272 ⭐)*
