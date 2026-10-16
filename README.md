@@ -9,7 +9,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,200,000+ ⭐.
 
-*(counts as of 2026-10-16 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-16 11:58 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -78,7 +78,7 @@
 
 - 📄 🔷 **[phone-harness](https://github.com/ShawnPana/phone-harness)** 🤖 R:🟡 M:🟢 — let your agent control your phone by ShawnPana *(3.7k ⭐)* — discovered Oct 15
 - 📚 🔷 **[PriceAI](https://github.com/dimthink/PriceAI)** 🤖 R:🟡 M:🟢 — AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 by dimthink *(4.1k ⭐)* — discovered Oct 15
-- ⌨️ 🔷 **[xerj](https://github.com/xerj-org/xerj)** 🤖🧠 R:🟡 M:🟢 — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. by xerj-org *(5.8k ⭐)* — discovered Oct 15
+- ⌨️ 🔷 **[xerj](https://github.com/xerj-org/xerj)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. by xerj-org *(5.8k ⭐)* — discovered Oct 15
 - 📚 🔷 **[slashdocs](https://github.com/razorpay/slashdocs)** 🤖 R:🟡 M:🟢 — Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions. by razorpay *(370 ⭐)* — discovered Oct 14
 - 📚 ⭐ **[jarvis](https://github.com/isair/jarvis)** 🤖🧠 R:🟡 M:🟢 — Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. by isair *(2.1k ⭐)* — discovered Oct 14
 
@@ -531,7 +531,7 @@
 - ⌨️ ⭐ **[stitch-mcp](https://github.com/davideast/stitch-mcp)** 🤖🧠 R:🟡 M:✅ — A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow. by davideast *(980 ⭐)*
 - 📚 🔷 **[agent-systems-handbook](https://github.com/Prompthon-IO/agent-systems-handbook)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent memory, evaluation, observability, and multi-agent architecture. Current trend focus: Gemini Interactions API and managed agents, emerging agent runtimes, and production AI workflow patterns. by Prompthon-IO *(316 ⭐)*
 - 📚 🔷 **[Misago](https://github.com/rafalp/Misago)** 🔧 R:🟢 M:🟢 — Misago is fully featured modern forum application that is fast, scalable and responsive. by rafalp *(2.8k ⭐)*
-- 📚 🔷 **[Foundry](https://github.com/promptise-com/Foundry)** ▶ Runs 🧠 R:🟡 M:🟢 — The foundation layer for agentic intelligence. by promptise-com *(873 ⭐)*
+- 📚 🔷 **[Foundry](https://github.com/promptise-com/Foundry)** 🧠 R:🟡 M:🟢 — The foundation layer for agentic intelligence. by promptise-com *(873 ⭐)*
 - 📚 🔷 **[genkit](https://github.com/genkit-ai/genkit)** 🤖 R:🟢 M:🟢 — Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google by genkit-ai *(6.5k ⭐)*
 - 📚 🔷 **[po-angular](https://github.com/po-ui/po-angular)** ▶ Runs 🧠 R:🟢 M:🟢 — Biblioteca de componentes Angular. by po-ui *(1k ⭐)*
 - 🔗 🔶 **[excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)** 🔧 R:🟢 M:🟢 — A Model Context Protocol server for Excel file manipulation by haris-musa *(4.2k ⭐)*
@@ -920,7 +920,7 @@
 - 📦 🔷 **[Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki)** 🤖🖱️🧠 R:🟡 M:🟢 — Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern by Ar9av *(3.6k ⭐)*
 - 📦 🔷 **[oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages by rlaope *(3.4k ⭐)*
 - 📦 🔷 **[yichen-skills](https://github.com/mcncarl/yichen-skills)** ▶ Runs 🤖 R:🟡 M:🟢 — No description by mcncarl *(4.4k ⭐)*
-- 📚 🔷 **[pi-web](https://github.com/agegr/pi-web)** ▶ Runs 🧠 R:🟡 M:🟢 — Web UI for the pi coding agent by agegr *(7.4k ⭐)*
+- 📚 🔷 **[pi-web](https://github.com/agegr/pi-web)** 🧠 R:🟡 M:🟢 — Web UI for the pi coding agent by agegr *(7.4k ⭐)*
 - 📚 🔷 **[tutti](https://github.com/tutti-os/tutti)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Where people and agents build in tune. by tutti-os *(3.8k ⭐)*
 - 📚 ⭐ **[Chorus](https://github.com/Chorus-AIDLC/Chorus)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle) by Chorus-AIDLC *(1.2k ⭐)*
 - 📚 🔷 **[nex-crm/wuphf](https://github.com/najmuzzaman-mohammad/gawkbot)** ✓ Loads clean 🖱️🧠 R:🔴 M:🟢 — WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode. by najmuzzaman-mohammad *(1.5k ⭐)*
@@ -1301,7 +1301,7 @@
 - 📦 🔶 **[skills](https://github.com/jakubkrehel/skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — A collection of agent skills that help you build a great interface. by jakubkrehel *(8k ⭐)*
 - 🧩 🔷 **[burp-ai-agent](https://github.com/six2dez/burp-ai-agent)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more by six2dez *(1.5k ⭐)*
 - 🔌 🔷 **[code-foundations](https://github.com/ryanthedev/code-foundations)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Code Foundations: software engineering skills for AI by ryanthedev *(381 ⭐)*
-- 📚 🔷 **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — Open detection standard -- like Sigma, but for AI agents. 425 rules, shipped in Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H. 97.1% recall on NVIDIA garak. NIST OSCAL Path 1. by Agent-Threat-Rule *(416 ⭐)*
+- 📚 🔷 **[agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)** 🤖🧠 R:🟢 M:🟢 — Open detection standard -- like Sigma, but for AI agents. 425 rules, shipped in Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H. 97.1% recall on NVIDIA garak. NIST OSCAL Path 1. by Agent-Threat-Rule *(416 ⭐)*
 - 📚 🔷 **[karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills)** 🤖 R:🟢 M:🟢 — 🎯 The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivity with TDD, debugging, git workflows, document processing, and more. Community-driven, actively maintained. by karanb192 *(551 ⭐)*
 - 📄 🔷 **[humanizer-skill](https://github.com/Aboudjem/humanizer-skill)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Free, open-source AI writing humanizer and detector. 55 patterns, 5 voices, a 0-100 AI-tell score, and nothing leaves your machine. by Aboudjem *(281 ⭐)*
 - 📚 🔷 **[rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit)** 🤖🧠 R:🟡 M:✅ — The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more. by rohitg00 *(2.7k ⭐)*
@@ -1482,7 +1482,7 @@
 - 📚 🔷 **[ledger](https://github.com/peterjthomson/ledger)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — A modernised git interface for improved agent and human collaboration, review and control by peterjthomson *(325 ⭐)*
 - 📚 🔷 **[abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control)** ✓ Loads clean 🧠 R:🟢 M:🟢 — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway. by abhi1693 *(4.1k ⭐)*
 - 📚 🔷 **[vibeyard](https://github.com/elirantutia/vibeyard)** ▶ Runs 🤖 R:🟡 M:🟢 — The IDE built for AI coding agents. by elirantutia *(1.4k ⭐)*
-- 📚 🔷 **[Olares](https://github.com/beclab/Olares)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Open-Source Personal Cloud OS for Always-On Agents by beclab *(5.3k ⭐)*
+- 📚 🔷 **[Olares](https://github.com/beclab/Olares)** 🤖 R:🟡 M:🟢 — Open-Source Personal Cloud OS for Always-On Agents by beclab *(5.3k ⭐)*
 - 📚 🔷 **[turbinia](https://github.com/google/turbinia)** 🔧 R:🟡 M:🟢 — Automation and Scaling of Digital Forensics Tools by google *(794 ⭐)*
 - 📚 🔷 **[ClawKeeper](https://github.com/SafeAI-Lab-X/ClawKeeper)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers (aka The Norton for OpenClaw) by SafeAI-Lab-X *(1k ⭐)*
 - 📚 🔷 **[dotfiles](https://github.com/harperreed/dotfiles)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Dotfiles. Managed by YADM by harperreed *(335 ⭐)*
@@ -1562,7 +1562,7 @@
 - 📚 ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** ✓ Loads clean 🤖 R:🟡 M:🟢 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(503 ⭐)*
 - 📦 🔷 **[newsjack](https://github.com/elvisun/newsjack)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — The open-source skills that turn your agent into a full PR team. by elvisun *(1.6k ⭐)*
 - 🔗 🔷 **[anythingmcp](https://github.com/HelpCode-ai/anythingmcp)** ▶ Runs 🤖 R:🟡 M:🟢 — Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude & ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA & Business One, ERP, e-commerce. by HelpCode-ai *(748 ⭐)*
-- 📚 🔷 **[MaxKB](https://github.com/1Panel-dev/MaxKB)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 by 1Panel-dev *(23k ⭐)*
+- 📚 🔷 **[MaxKB](https://github.com/1Panel-dev/MaxKB)** 🤖🧠 R:🟡 M:🟢 — 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 by 1Panel-dev *(23k ⭐)*
 - 📦 ⭐ **[skills-for-architects](https://github.com/AlpacaLabsLLC/skills-for-architects)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Claude Code skills for architecture, real estate, and workplace strategy. Type /skill-name and go. by AlpacaLabsLLC *(381 ⭐)*
 - 📚 🔷 **[embabel-agent](https://github.com/embabel/embabel-agent)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ by embabel *(4.5k ⭐)*
 - 📚 ⭐ **[EmbodiChain](https://github.com/DexForce/EmbodiChain)** 🤖🧠 R:🟡 M:🟢 — An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence. by DexForce *(232 ⭐)*
