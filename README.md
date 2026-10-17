@@ -9,7 +9,7 @@
 
 **1,400+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,500,000+ ⭐.
 
-*(counts as of 2026-10-17 06:25 UTC; the badges above are live)*
+*(counts as of 2026-10-17 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -984,7 +984,7 @@
 - ⌨️ 🔶 **[autoresearch](https://github.com/smallnest/autoresearch)** ✓ Loads clean 🤖🧠 R:⚫ M:✅ — autodevelop： autoresearch for software development by smallnest *(574 ⭐)*
 - 📦 🔷 **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** ✓ Loads clean 🤖 R:🟡 M:🟠 — AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community by zubair-trabzada *(1.8k ⭐)*
 - 🔌 🔶 **[siyuan-plugin-task-note-management](https://github.com/Achuan-2/siyuan-plugin-task-note-management)** ✓ Loads clean 🤖 R:🟡 M:🟢 — 一款在思源笔记里实现任务管理、项目管理功能的插件，为了践行防弹笔记法而开发。支持文档和块提醒、日历视图查看行事历、番茄钟专注、项目管理看板、任务四象限面板、习惯打卡等功能 A task note reminder plugin developed for practicing the Bullet Journal method, supporting document and block reminders, calendar view for scheduling, Pomodoro timer for focus, habit checkin and more. by Achuan-2 *(224 ⭐)*
-- 🔄 🔶 **[nikilster/clawflows](https://github.com/nikilster/clawflows)** 🤖 R:🟡 M:🟢 — ⚡️ Superpowers for your Openclaw. Powerful prebuilt agent workflows. by nikilster *(1.7k ⭐)*
+- 🔄 🔶 **[nikilster/clawflows](https://github.com/nikilster/clawflows)** 🤖 R:🟡 M:🟠 — ⚡️ Superpowers for your Openclaw. Powerful prebuilt agent workflows. by nikilster *(1.7k ⭐)*
 - ⌨️ 🔷 **[jezweb/roo-commander](https://github.com/jezweb/roo-commander)** ▶ Runs 🤖🧠 R:🟡 M:✅ — Think of it like having a virtual, specialized software development team right inside your editor, orchestrated by the 👑 Roo Commander, powered by Roo Code on VS Code by jezweb *(718 ⭐)*
 - 🔌 🔶 **[career-ops-plugin-do-not-fork-currently-updating-v2-](https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Claude Cowork plugin for job seekers. 9 AI skills: evaluate job postings, generate ATS-optimized resumes, scan company career portals, track applications, draft outreach. Works in any industry. by andrew-shwetzer *(503 ⭐)*
 - 📚 🔶 **[RebuttalStudio](https://github.com/runtsang/RebuttalStudio)** ✓ Loads clean 🤖 R:🟢 M:✅ — A rebuttal editor for researchers to craft high-quality academic rebuttals — so you can focus on what to say, not how to format it. by runtsang *(218 ⭐)*
