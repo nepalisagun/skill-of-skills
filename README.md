@@ -9,7 +9,7 @@
 
 **1,400+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,500,000+ ⭐.
 
-*(counts as of 2026-10-17 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-17 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📦 🔷 **[social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)** 🤖🧠 R:🟡 M:🟢 — AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI. by ScrapeCreators *(4k ⭐)* — discovered Oct 17
+- 📚 🔷 **[PilotDeck](https://github.com/OpenBMB/PilotDeck)** 🤖 R:🟡 M:🟢 — Task-oriented AI Agent productivity platform by OpenBMB *(4.5k ⭐)* — discovered Oct 17
 - 📦 ⭐ **[hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex) by kerpopule *(1.1k ⭐)* — discovered Oct 17
 - 📚 🔷 **[opencode2api](https://github.com/jasonxu114514/opencode2api)** 🔧 R:🟡 M:🟢 — A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI. by jasonxu114514 *(904 ⭐)* — discovered Oct 16
 - 🔗 ⭐ **[artemis](https://github.com/google/artemis)** ▶ Runs 🔧 R:🟡 M:🟢 — ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark. by google *(12.1k ⭐)* — discovered Oct 16
-- 📚 🔷 **[pi-agent-desktop](https://github.com/abcwyc/pi-agent-desktop)** ▶ Runs 🧠 R:🟡 M:🟢 — Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away. by abcwyc *(801 ⭐)* — discovered Oct 16
-- 📄 🔷 **[phone-harness](https://github.com/ShawnPana/phone-harness)** ▶ Runs 🤖 R:🟡 M:🟢 — let your agent control your phone by ShawnPana *(3.7k ⭐)* — discovered Oct 15
 
 ---
 
@@ -284,6 +284,7 @@
 - ⌨️ 🔷 **[chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)** 🤖🧠 R:🔴 M:🟢 — Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. by chenhg5 *(16k ⭐)*
 - 📚 🔷 **[browserbase/stagehand](https://github.com/browserbase/stagehand)** ▶ Runs 🤖🖱️ R:🟡 M:🟢 — The SDK For Browser Agents by browserbase *(25.7k ⭐)*
 - 🔗 🔷 **[czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)** ▶ Runs 🤖 R:🟡 M:🟢 — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you  by czlonkowski *(23.1k ⭐)*
+- 📄 🔷 **[phone-harness](https://github.com/ShawnPana/phone-harness)** ▶ Runs 🤖 R:🟡 M:🟢 — let your agent control your phone by ShawnPana *(3.7k ⭐)*
 - ⌨️ 🔷 **[rclone](https://github.com/rclone/rclone)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files by rclone *(60.4k ⭐)*
 - ⌨️ 🔷 **[microsoft/apm](https://github.com/microsoft/apm)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Agent Package Manager by microsoft *(4k ⭐)*
 - 🔗 ⭐ **[mcpvault](https://github.com/bitbonsai/mcpvault)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A lightweight Model Context Protocol (MCP) server for safe Obsidian vault access by bitbonsai *(1.7k ⭐)*
@@ -1182,7 +1183,7 @@
 - 📚 🔷 **[production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)** 🔧 R:🟡 M:✅ — Teaches production RAG system development through building an arXiv Paper Curator, covering keyword search with BM25, hybrid retrieval combining keywords with semantic search, chunking strategies, LLM integration with streaming responses, monitoring with Langfuse tracing, Redis caching, and agentic RAG workflows using LangGraph with query rewriting, document grading, and Telegram bot integration. by jamwithai *(9.8k ⭐)*
 - 📦 🔷 **[Auto-Redbook-Skills](https://github.com/comeonzhj/Auto-Redbook-Skills)** ✓ Loads clean 🤖 R:🔴 M:🟢 —  一个自动撰写小红书笔记，自动生成图片，自动发布的 Skills by comeonzhj *(2.4k ⭐)*
 - 📚 🔶 **[awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit by libukai *(5.2k ⭐)*
-- 📦 ⭐ **[code-abyss](https://github.com/telagod/code-abyss)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenClaw. Ships Tech Persona Card v1.0 spec. by telagod *(244 ⭐)*
+- 📦 ⭐ **[code-abyss](https://github.com/telagod/code-abyss)** ▶ Runs 🤖🧠 R:🔴 M:✅ — Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenClaw. Ships Tech Persona Card v1.0 spec. by telagod *(244 ⭐)*
 - 📚 🔶 **[openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)** 🔧 R:🟢 M:🟠 — Demo of a customer service use case implemented with the OpenAI Agents SDK by openai *(6.6k ⭐)*
 - 📄 🔷 **[illo-skill](https://github.com/tmchow/illo-skill)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — illo skill — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. 30+ characters packs, with ability to create your own. by tmchow *(405 ⭐)*
 - 🔌 🔷 **[DeepScientist](https://github.com/ResearAI/DeepScientist)** ▶ Runs 🤖🧠 R:🟡 M:✅ — Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future. by ResearAI *(3.4k ⭐)*
@@ -1544,6 +1545,7 @@
 - 📦 ⭐ **[pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'. by mohitagw15856 *(1.5k ⭐)*
 - 📚 ⭐ **[builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)** ▶ Runs 🤖 R:🟡 M:🟢 — Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard. by builderz-labs *(6.4k ⭐)*
 - 📚 🔷 **[cindy](https://github.com/makecindy/cindy)** 🤖🧠 R:🟡 M:🟢 — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 by makecindy *(3.2k ⭐)*
+- 📚 🔷 **[pi-agent-desktop](https://github.com/abcwyc/pi-agent-desktop)** ▶ Runs 🧠 R:🟡 M:🟢 — Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away. by abcwyc *(801 ⭐)*
 - 🔌 🔷 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** ▶ Runs 🤖 R:🔴 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(40k ⭐)*
 - 📚 ⭐ **[agenticSeek](https://github.com/Fosowl/agenticSeek)** ✓ Loads clean 🔧 R:🟡 M:🟢 — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. by Fosowl *(27.5k ⭐)*
 - 📚 🔷 **[mindfs](https://github.com/a9gent/mindfs)** 🔧 R:🟡 M:🟢 — Access your personal AI agents and workstation data anywhere, anytime through MindFS. by a9gent *(1.9k ⭐)*
