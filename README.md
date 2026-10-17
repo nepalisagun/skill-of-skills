@@ -727,6 +727,7 @@
 - ⌨️ 🔶 **[cc-cli](https://github.com/cjh-store/cc-cli)** ▶ Runs 🔧 R:🟡 M:✅ — claude code工具集合 by cjh-store *(320 ⭐)*
 - ⌨️ 🔶 **[qwen3_asr_rs](https://github.com/second-state/qwen3_asr_rs)** ✓ Loads clean 🤖 R:🟡 M:✅ — Rust implementation of Qwen3-ASR automatic speech recognition by second-state *(254 ⭐)*
 - 📦  **[Claude Plugins Official](https://github.com/anthropics/claude-plugins-official)** 🤖 R:🟢 M:🟢 — Official, Anthropic-managed directory of high quality Claude Code Plugins. by anthropics *(40.6k ⭐)*
+- ⌨️  **[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)** 🤖 R:🟢 M:🟢 — anthropic-sdk-python by anthropics *(4k ⭐)*
 
 ## 🧪 Product Verification
 
