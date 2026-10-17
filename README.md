@@ -726,9 +726,9 @@
 - ⌨️ 🔶 **[qwen3_tts_rs](https://github.com/second-state/qwen3_tts_rs)** ✓ Loads clean 🤖 R:🟡 M:✅ — A Rust implementation of the Qwen3 Text-to-Speech (TTS) model inference. by second-state *(233 ⭐)*
 - ⌨️ 🔶 **[cc-cli](https://github.com/cjh-store/cc-cli)** ▶ Runs 🔧 R:🟡 M:✅ — claude code工具集合 by cjh-store *(320 ⭐)*
 - ⌨️ 🔶 **[qwen3_asr_rs](https://github.com/second-state/qwen3_asr_rs)** ✓ Loads clean 🤖 R:🟡 M:✅ — Rust implementation of Qwen3-ASR automatic speech recognition by second-state *(254 ⭐)*
-- 📄  **[claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** 🤖 R:🟢 M:🟢 — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. by anthropics *(53.5k ⭐)*
 - 📦  **[Claude Plugins Official](https://github.com/anthropics/claude-plugins-official)** 🤖 R:🟢 M:🟢 — Official, Anthropic-managed directory of high quality Claude Code Plugins. by anthropics *(40.6k ⭐)*
 - ⌨️  **[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)** 🤖 R:🟢 M:🟢 — anthropic-sdk-python by anthropics *(4k ⭐)*
+- 📄  **[claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** 🤖 R:🟢 M:🟢 — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. by anthropics *(53.5k ⭐)*
 
 ## 🧪 Product Verification
 
@@ -1347,6 +1347,7 @@
 - 📚 🔶 **[snwfdhmp/awesome-ralph](https://github.com/snwfdhmp/awesome-ralph)** 🔧 R:🟢 M:🟠 — A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled. by snwfdhmp *(928 ⭐)*
 - 📚 🔶 **[rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers)** 🔧 R:🟢 M:🟠 — A curated list of awesome MCP servers focused on DevOps tools and capabilities. by rohitg00 *(1k ⭐)*
 - 📚 🔶 **[PipedreamHQ/awesome-mcp-servers](https://github.com/PipedreamHQ/awesome-mcp-servers)** 🔧 R:🟢 M:🔴 — A collection of MCP servers by PipedreamHQ *(286 ⭐)*
+- 📄  **[compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** 🤖 R:🟢 M:🟢 — Official Claude Code compound engineering plugin by EveryInc *(25.6k ⭐)*
 
 ## 🚀 CI/CD & Deployment
 
