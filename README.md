@@ -9,7 +9,7 @@
 
 **1,400+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,500,000+ ⭐.
 
-*(counts as of 2026-10-17 18:25 UTC; the badges above are live)*
+*(counts as of 2026-10-17 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -882,7 +882,7 @@
 - ⌨️ 🔶 **[gpt-crawler](https://github.com/BuilderIO/gpt-crawler)** 🔧 R:🟡 M:🔴 — Crawl a site to generate knowledge files to create your own custom GPT from a URL by BuilderIO *(22.4k ⭐)*
 - 🔗 🔷 **[doctor](https://github.com/sisig-ai/doctor)** 🖱️ R:🟡 M:🔴 — Doctor is a tool for discovering, crawl, and indexing web sites to be exposed as an MCP server for LLM agents. by sisig-ai *(458 ⭐)*
 - ⌨️ 🔷 **[voyage-geo-agent](https://github.com/onvoyage-ai/voyage-geo-agent)** 🤖🧠 R:🟡 M:🟠 — Agentic Generative Engine Optimizaiton by onvoyage-ai *(385 ⭐)*
-- 🔗 🔶 **[thomasxm/CrowdSentinels-AI-MCP](https://github.com/thomasxm/CrowdSentinels-AI-MCP)** 🔧 R:🟡 M:🟢 — AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch by thomasxm *(204 ⭐)*
+- 🔗 🔶 **[thomasxm/CrowdSentinels-AI-MCP](https://github.com/thomasxm/CrowdSentinels-AI-MCP)** 🔧 R:🟡 M:✅ — AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch by thomasxm *(204 ⭐)*
 - 📚 🔶 **[LobsterBoard](https://github.com/Curbob/LobsterBoard)** 🔧 R:🟢 M:✅ — OpenClaw Dashboard Builder - Create custom dashboards by Curbob *(975 ⭐)*
 - 🔗 🔷 **[axion-planetary-mcp](https://github.com/Dhenenjay/axion-planetary-mcp)** 🤖🔧 R:🟡 M:🟠 — World's first Virtual Satellite that you can connect with MCP by Dhenenjay *(221 ⭐)*
 - 🔗 🔶 **[universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp)** ▶ Runs 🤖🧠 R:🟡 M:✅ — 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据 by Anarkh-Lee *(940 ⭐)*
