@@ -7,7 +7,7 @@
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 [![Verified working](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fverified-count)](https://skills.911fund.io/tools?verified=any)
 
-**1,400+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,300,000+ ⭐.
+**1,400+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,400,000+ ⭐.
 
 *(counts as of 2026-10-17 01:52 UTC; the badges above are live)*
 
@@ -1498,6 +1498,7 @@
 - 📚 🔶 **[dp-archive/archive](https://github.com/dp-archive/archive)** ✓ Loads clean 🤖🧠 R:🟡 M:✅ — Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI. by dp-archive *(1.1k ⭐)*
 - 🔗 🔶 **[k8s-mcp-server](https://github.com/alexei-led/k8s-mcp-server)** 🤖 R:🔴 M:✅ — K8s-mcp-server is a Model Context Protocol (MCP) server that enables AI assistants like Claude to securely execute Kubernetes commands. It provides a bridge between language models and essential Kubernetes CLI tools including kubectl, helm, istioctl, and argocd, allowing AI systems to assist with cluster management, troubleshooting, and deployments by alexei-led *(212 ⭐)*
 - ⌨️ 🔶 **[skill-kits](https://github.com/scottcwy/skill-kits)** 🤖 R:🟡 M:🟠 — Skill-kits is a zero-dependency, single-binary AI Agent Skills management tool for any LLM and multi-agent workflows. by scottcwy *(201 ⭐)*
+- 📄  **[servers](https://github.com/modelcontextprotocol/servers)** 🤖 R:🟢 M:🟢 — Model Context Protocol Servers by modelcontextprotocol *(91.3k ⭐)*
 
 ## 📦 Agent Orchestration
 
