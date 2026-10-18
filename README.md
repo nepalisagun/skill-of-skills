@@ -9,7 +9,7 @@
 
 **1,400+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,600,000+ ⭐.
 
-*(counts as of 2026-10-18 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-18 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📦 🔷 **[social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI. by ScrapeCreators *(4k ⭐)* — discovered Oct 17
-- 📚 🔷 **[PilotDeck](https://github.com/OpenBMB/PilotDeck)** 🤖 R:🟡 M:🟢 — Task-oriented AI Agent productivity platform by OpenBMB *(4.6k ⭐)* — discovered Oct 17
-- 📦 ⭐ **[hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex) by kerpopule *(1.1k ⭐)* — discovered Oct 17
-- 📚 🔷 **[opencode2api](https://github.com/jasonxu114514/opencode2api)** 🔧 R:🟡 M:🟢 — A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI. by jasonxu114514 *(1k ⭐)* — discovered Oct 16
-- 🔗 ⭐ **[artemis](https://github.com/google/artemis)** ▶ Runs 🔧 R:🟡 M:🟢 — ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark. by google *(12.2k ⭐)* — discovered Oct 16
+- 📚 🔶 **[AIStudio2API](https://github.com/Mag1cFall/AIStudio2API)** 🔧 R:🟡 M:🟢 — 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API by Mag1cFall *(345 ⭐)* — discovered Oct 18
+- ⌨️ 🔷 **[lazyskills](https://github.com/alvinunreal/lazyskills)** 🤖🧠 R:🟡 M:🟢 — mission control for agent skills by alvinunreal *(523 ⭐)* — discovered Oct 18
+- ⌨️ ⭐ **[zlib](https://github.com/heartleo/zlib)** 🤖 R:🟡 M:🟢 — A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents. by heartleo *(1.1k ⭐)* — discovered Oct 18
+- 📚 ⭐ **[otari](https://github.com/mozilla-ai/otari)** 🤖🧠 R:🟡 M:🟢 — Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking. by mozilla-ai *(638 ⭐)* — discovered Oct 18
+- 📦 🔷 **[ASPIRE](https://github.com/NVlabs/ASPIRE)** 🤖🧠 R:🟡 M:🟢 — ASPIRE: Agentic /Skills Discovery for Robotics by NVlabs *(511 ⭐)* — discovered Oct 18
 
 ---
 
@@ -189,6 +189,7 @@
 - 📚 🔷 **[OpenBB-finance/OpenBB](https://github.com/openbq-org/OpenBB)** ▶ Runs 🤖 R:🟢 M:🟢 — Financial data platform for analysts, quants and AI agents. by openbq-org *(74.4k ⭐)*
 - 🔗 ⭐ **[serena](https://github.com/oraios/serena)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent by oraios *(30.4k ⭐)*
 - 🔗 🔷 **[apify-mcp-server](https://github.com/apify/apify-mcp-server)** 🤖🧠 R:🟡 M:🟢 — The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. by apify *(11.7k ⭐)*
+- 📚 🔷 **[opencode2api](https://github.com/jasonxu114514/opencode2api)** 🔧 R:🟡 M:🟢 — A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI. by jasonxu114514 *(1k ⭐)*
 - 🔗 🔷 **[engram](https://github.com/Gentleman-Programming/engram)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. by Gentleman-Programming *(7.4k ⭐)*
 - ⌨️ 🔷 **[tunnel-client](https://github.com/openai/tunnel-client)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet. by openai *(573 ⭐)*
 - 📚 🔷 **[llama_index](https://github.com/run-llama/llama_index)** ▶ Runs 🧠 R:🟢 M:🟢 — LlamaIndex is the leading document agent and OCR platform by run-llama *(52.5k ⭐)*
@@ -734,6 +735,7 @@
 ## 🧪 Product Verification
 
 - ⌨️ ⭐ **[inspector](https://github.com/modelcontextprotocol/inspector)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Visual testing tool for MCP servers by modelcontextprotocol *(11.1k ⭐)*
+- 🔗 ⭐ **[artemis](https://github.com/google/artemis)** ▶ Runs 🔧 R:🟡 M:🟢 — ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark. by google *(12.2k ⭐)*
 - 🔌 ⭐ **[claude-hud](https://github.com/jarrodwatts/claude-hud)** ✓ Loads clean 🤖 R:🟢 M:🟢 — A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress by jarrodwatts *(28.6k ⭐)*
 - ⌨️ 🔷 **[iFixAi](https://github.com/ifixai-ai/iFixAi)** ▶ Runs 🤖 R:🟡 M:🟢 — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. by ifixai-ai *(29.2k ⭐)*
 - ⌨️ ⭐ **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Browser automation CLI for AI agents by vercel-labs *(44.2k ⭐)*
@@ -837,6 +839,7 @@
 - 📚 🔷 **[hyperdx](https://github.com/hyperdxio/hyperdx)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry. by hyperdxio *(10k ⭐)*
 - 🧩 🔷 **[AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — better agentic engineering by microsoft *(4.3k ⭐)*
 - ⌨️ 🔷 **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)** ▶ Runs 🤖 R:🟡 M:🟢 — Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today. by PeonPing *(5.1k ⭐)*
+- 📦 🔷 **[social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI. by ScrapeCreators *(4k ⭐)*
 - 📚 🔷 **[Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** ✓ Loads clean 🤖 R:⚫ M:🟢 — Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. by BigBodyCobain *(11.3k ⭐)*
 - 📚 🔷 **[TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock)** ▶ Runs 🤖 R:🟡 M:🟢 — A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。 by simonlin1212 *(3.7k ⭐)*
 - 📚 🔷 **[signoz](https://github.com/SigNoz/signoz)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps. by SigNoz *(32.4k ⭐)*
@@ -1527,6 +1530,7 @@
 - 📚 ⭐ **[laya](https://github.com/aayushch/laya)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook,  Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK. by aayushch *(709 ⭐)*
 - 📚 ⭐ **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** 🤖🖱️🧠 R:🔴 M:🟢 — AI Agent Framework, the Pydantic way by pydantic *(20.7k ⭐)*
 - 📚 ⭐ **[cmux](https://github.com/manaflow-ai/cmux)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. by manaflow-ai *(28.2k ⭐)*
+- 📚 🔷 **[PilotDeck](https://github.com/OpenBMB/PilotDeck)** 🤖 R:🟡 M:🟢 — Task-oriented AI Agent productivity platform by OpenBMB *(4.6k ⭐)*
 - 📚 ⭐ **[open-dots](https://github.com/Anil-matcha/open-dots)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype. by Anil-matcha *(5.9k ⭐)*
 - 📚 🔷 **[OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI)** ▶ Runs 🤖 R:🟡 M:🟢 — Open-Source Generative UI Framework by CopilotKit *(3.4k ⭐)*
 - 📚 🔶 **[openai/symphony](https://github.com/openai/symphony)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. by openai *(27.7k ⭐)*
@@ -1549,6 +1553,7 @@
 - 🔌 🔷 **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference by NVIDIA *(22.8k ⭐)*
 - 📚 ⭐ **[pi-gui](https://github.com/minghinmatthewlam/pi-gui)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Electron GUI app for the pi coding agent runtime by minghinmatthewlam *(1.3k ⭐)*
 - 📚 🔷 **[cindy](https://github.com/makecindy/cindy)** 🤖🧠 R:🟡 M:🟢 — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 by makecindy *(3.2k ⭐)*
+- 📦 ⭐ **[hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex) by kerpopule *(1.1k ⭐)*
 - 📚 🔷 **[FounderOS-DEMO](https://github.com/Bennettxai/FounderOS)** ▶ Runs 🤖 R:🟡 M:🟢 — An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. by Bennettxai *(1.2k ⭐)*
 - ⌨️ ⭐ **[Albatross](https://github.com/morganlinton/Albatross)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box. by morganlinton *(236 ⭐)*
 - 📚 🔷 **[pi-agent-desktop](https://github.com/abcwyc/pi-agent-desktop)** ▶ Runs 🧠 R:🟡 M:🟢 — Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away. by abcwyc *(812 ⭐)*
