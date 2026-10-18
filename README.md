@@ -9,7 +9,7 @@
 
 **1,400+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,600,000+ ⭐.
 
-*(counts as of 2026-10-18 18:25 UTC; the badges above are live)*
+*(counts as of 2026-10-18 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
