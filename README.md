@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,600,000+ ⭐.
 
-*(counts as of 2026-10-19 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-19 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📚 🔷 **[itsaplan](https://github.com/croffasia/itsaplan)** 🤖🧠 R:🟡 M:🟢 — ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. by croffasia *(1.4k ⭐)* — discovered Oct 19
+- 🔌 🔷 **[dsh-context](https://github.com/bowenliang123/dsh-context)** 🧠 R:🟡 M:🟢 — The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。 by bowenliang123 *(2.3k ⭐)* — discovered Oct 19
+- 📚 ⭐ **[crm](https://github.com/trycompai/crm)** 🤖🧠 R:🟡 M:🟢 — Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM. by trycompai *(11.5k ⭐)* — discovered Oct 19
 - 📦 🔷 **[typescript-style-guide](https://github.com/mkosir/typescript-style-guide)** ✓ Loads clean 🤖 R:🟡 M:🟢 — ⚙️ TypeScript Style Guide and Agent Skill. A concise set of conventions and best practices for consistent, maintainable code. by mkosir *(783 ⭐)* — discovered Oct 19
 - 📚 🔶 **[AIStudio2API](https://github.com/Mag1cFall/AIStudio2API)** 🔧 R:🟡 M:🟢 — 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API by Mag1cFall *(359 ⭐)* — discovered Oct 18
-- ⌨️ 🔷 **[lazyskills](https://github.com/alvinunreal/lazyskills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — mission control for agent skills by alvinunreal *(566 ⭐)* — discovered Oct 18
-- ⌨️ ⭐ **[zlib](https://github.com/heartleo/zlib)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents. by heartleo *(1.1k ⭐)* — discovered Oct 18
-- 📚 ⭐ **[otari](https://github.com/mozilla-ai/otari)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking. by mozilla-ai *(665 ⭐)* — discovered Oct 18
 
 ---
 
@@ -149,11 +149,12 @@
 - 📚 🔷 **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API by router-for-me *(55.6k ⭐)*
 - 📚 🔷 **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — The agent engineering platform. by langchain-ai *(148k ⭐)*
 - 📚 🔷 **[BerriAI/litellm](https://github.com/BerriAI/litellm)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] by BerriAI *(61.5k ⭐)*
-- 📚 🔷 **[QuantumNous/new-api](https://github.com/QuantumNous/new-api)** 🤖🧠 R:🟡 M:🟢 — A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 by QuantumNous *(50.2k ⭐)*
+- 📚 🔷 **[QuantumNous/new-api](https://github.com/QuantumNous/new-api)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 by QuantumNous *(50.2k ⭐)*
 - 📚 ⭐ **[pipecat](https://github.com/pipecat-ai/pipecat)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community. by pipecat-ai *(16.6k ⭐)*
 - 📚 🔷 **[langflow](https://github.com/langflow-ai/langflow)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Langflow is a powerful tool for building and deploying AI-powered agents and workflows. by langflow-ai *(155.8k ⭐)*
 - 📚 ⭐ **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. by teng-lin *(19.8k ⭐)*
 - 📚 🔷 **[Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)** ✓ Loads clean 🤖 R:🔴 M:🟢 — Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native tool compatibility. by Wei-Shaw *(44.3k ⭐)*
+- ⌨️ ⭐ **[zlib](https://github.com/heartleo/zlib)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents. by heartleo *(1.1k ⭐)*
 - 📦 ⭐ **[Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. by muratcankoylan *(18.2k ⭐)*
 - 📚 🔷 **[vllm](https://github.com/vllm-project/vllm)** 🤖🧠 R:🔴 M:🟢 — A high-throughput and memory-efficient inference and serving engine for LLMs by vllm-project *(94.1k ⭐)*
 - 📚 🔷 **[langgraph](https://github.com/langchain-ai/langgraph)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — Build resilient language agents as graphs. by langchain-ai *(43.5k ⭐)*
@@ -189,7 +190,7 @@
 - 📚 🔷 **[YuE](https://github.com/multimodal-art-projection/YuE)** ▶ Runs 🤖 R:🟡 M:🟢 — YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. by multimodal-art-projection *(12.2k ⭐)*
 - 📚 🔷 **[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)** 🤖🖱️🧠 R:🟡 M:🟢 — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol by CopilotKit *(38.1k ⭐)*
 - 📦 🔷 **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Production-grade engineering skills for AI coding agents. by addyosmani *(108.3k ⭐)*
-- 📚 🔷 **[composio](https://github.com/ComposioHQ/composio)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. by ComposioHQ *(30.6k ⭐)*
+- 📚 🔷 **[composio](https://github.com/ComposioHQ/composio)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. by ComposioHQ *(30.6k ⭐)*
 - ⌨️ ⭐ **[claude-notifications-go](https://github.com/777genius/agent-notifications)** ✓ Loads clean 🤖 R:🔴 M:🟢 — 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Instant. Analyze context. Zero dependencies. webhooks. Easy installation. Linux, MacOS, Windows. by 777genius *(817 ⭐)*
 - 📚 ⭐ **[claw-code](https://github.com/ultraworkers/claw-code)** ✓ Loads clean 🤖🧠 R:⚫ M:🟢 — The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. by ultraworkers *(194.9k ⭐)*
 - 📚 🔷 **[java-sdk](https://github.com/modelcontextprotocol/java-sdk)** 🧠 R:🟢 M:🟢 — The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI by modelcontextprotocol *(3.7k ⭐)*
@@ -210,7 +211,7 @@
 - 📚 🔷 **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** 🤖 R:🟢 M:🟢 — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. by PaddlePaddle *(91.3k ⭐)*
 - 📚 🔷 **[genoffice](https://github.com/genspark-ai/genoffice)** ▶ Runs 🤖 R:🟡 M:🟢 — Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux. by genspark-ai *(10k ⭐)*
 - 📚 🔷 **[univer](https://github.com/dream-num/univer)** ▶ Runs 🔧 R:🟡 M:🟢 — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. by dream-num *(22.7k ⭐)*
-- 🔗 ⭐ **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — The Unofficial and Awesome Home Assistant MCP Server by homeassistant-ai *(5.1k ⭐)*
+- 🔗 ⭐ **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** 🤖🧠 R:🔴 M:🟢 — The Unofficial and Awesome Home Assistant MCP Server by homeassistant-ai *(5.1k ⭐)*
 - ⌨️ 🔷 **[worktrunk](https://github.com/max-sixty/worktrunk)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows by max-sixty *(9.3k ⭐)*
 - 📚 🔷 **[openai-python](https://github.com/openai/openai-python)** ✓ Loads clean 🔧 R:🟢 M:🟢 — The official Python library for the OpenAI API by openai *(31.9k ⭐)*
 - 📄 ⭐ **[modlens](https://github.com/liustack/modlens)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网第一个 DeepSeek Harness 视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。 by liustack *(4.3k ⭐)*
@@ -236,7 +237,7 @@
 - 🔗 ⭐ **[mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops)** ▶ Runs 🤖🧠📟 R:🟢 M:🟢 — An MCP server for Azure DevOps by Tiberriver256 *(395 ⭐)*
 - 🔗 🔷 **[unity-mcp](https://github.com/CoplayDev/unity-mcp)** ▶ Runs 🤖 R:🔴 M:🟢 — Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. by CoplayDev *(15.1k ⭐)*
 - 📚 ⭐ **[pg_textsearch](https://github.com/timescale/pg_textsearch)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed. by timescale *(4k ⭐)*
-- ⌨️ 🔷 **[kimi-code](https://github.com/MoonshotAI/kimi-code)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Kimi Code CLI  —  The Starting Point for Next-Gen Agents by MoonshotAI *(7.9k ⭐)*
+- ⌨️ 🔷 **[kimi-code](https://github.com/MoonshotAI/kimi-code)** 🤖🧠 R:🟡 M:🟢 — Kimi Code CLI  —  The Starting Point for Next-Gen Agents by MoonshotAI *(7.9k ⭐)*
 - 📚 🔷 **[whisper](https://github.com/openai/whisper)** ▶ Runs 🔧 R:🟢 M:🟢 — Robust Speech Recognition via Large-Scale Weak Supervision by openai *(110.8k ⭐)*
 - 📚 🔷 **[PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)** ▶ Runs 🤖🖱️🧠 R:🔴 M:🟢 — 🚀 The fast, Pythonic way to build MCP servers and clients. by PrefectHQ *(28.1k ⭐)*
 - 📚 🔷 **[harness-sdk](https://github.com/strands-agents/harness-sdk)** 🤖🧠 R:🟡 M:🟢 — Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. by strands-agents *(8.9k ⭐)*
@@ -263,7 +264,7 @@
 - 📚 🔷 **[TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)** ▶ Runs 🤖🧠 R:⚫ M:🟢 — Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit. by TraderAlice *(7.3k ⭐)*
 - 📦 ⭐ **[browserbase/skills](https://github.com/browserbase/skills)** 🤖 R:🟡 M:🟢 — Browserbase's official collection of agent skills to access the web. by browserbase *(3.7k ⭐)*
 - 🔗 ⭐ **[jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp)** 🤖🧠 R:🔴 M:🟢 — The leading, most token-efficient MCP server for GitHub source code exploration via tree-sitter AST parsing by jgravelle *(2.8k ⭐)*
-- 🧠 ⭐ **[llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern. by atomicstrata *(2.2k ⭐)*
+- 🧠 ⭐ **[llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler)** 🤖🧠 R:🟡 M:🟢 — The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern. by atomicstrata *(2.2k ⭐)*
 - 📚 🔷 **[vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)** 🤖 R:🔴 M:🟢 — A framework for efficient model inference with omni-modality models by vllm-project *(7.2k ⭐)*
 - 📦 🔷 **[agent-skills](https://github.com/supabase/agent-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Agent Skills to help developers using AI agents with Supabase by supabase *(2.9k ⭐)*
 - 📚 🔷 **[ag-ui](https://github.com/ag-ui-protocol/ag-ui)** 🤖🖱️🧠 R:🟡 M:🟢 — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. by ag-ui-protocol *(16.7k ⭐)*
@@ -801,7 +802,7 @@
 - 🔌 ⭐ **[gbrain](https://github.com/garrytan/gbrain)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Garry's Opinionated OpenClaw/Hermes Agent Brain by garrytan *(31k ⭐)*
 - 📚 🔷 **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)** ✓ Loads clean 🔧 R:🟡 M:🟢 — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 by 666ghj *(80.4k ⭐)*
 - 📚 ⭐ **[dozzle](https://github.com/amir20/dozzle)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Realtime log viewer for containers.  Supports Docker, Swarm and K8s. by amir20 *(14.7k ⭐)*
-- 📚 🔷 **[worldmonitor](https://github.com/koala73/worldmonitor)** 🤖🧠 R:🟡 M:🟢 — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface by koala73 *(88.8k ⭐)*
+- 📚 🔷 **[worldmonitor](https://github.com/koala73/worldmonitor)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface by koala73 *(88.8k ⭐)*
 - 📚 ⭐ **[comet-ml/opik](https://github.com/comet-ml/opik)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. by comet-ml *(22.7k ⭐)*
 - 📚 🔷 **[playwright](https://github.com/microsoft/playwright)** 🤖 R:🟡 M:🟢 — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. by microsoft *(98k ⭐)*
 - 📄 🔷 **[last30days-skill](https://github.com/mvanhorn/last30days-skill)** 🤖 R:🟡 M:🟢 — Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts by mvanhorn *(64.7k ⭐)*
@@ -1031,7 +1032,7 @@
 - 📚 🔷 **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click by THU-MAIC *(41k ⭐)*
 - 📚 ⭐ **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Clone any website with one command using AI coding agents by JCodesMore *(37k ⭐)*
 - 🔄 ⭐ **[cangjie-skill](https://github.com/kangarooking/cangjie-skill)** ✓ Loads clean 🤖 R:🟢 M:🟢 — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills by kangarooking *(11.5k ⭐)*
-- 📦 🔷 **[BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** 🤖🧠 R:🟡 M:🟢 — Breakthrough Method for Agile Ai Driven Development by bmad-code-org *(54.3k ⭐)*
+- 📦 🔷 **[BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Breakthrough Method for Agile Ai Driven Development by bmad-code-org *(54.3k ⭐)*
 - 📚 🔷 **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** 🤖🧠 R:🟢 M:🟢 — 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 by datawhalechina *(83.6k ⭐)*
 - 📦 ⭐ **[claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern. by AgriciDaniel *(15.6k ⭐)*
 - 📚 ⭐ **[DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. by melgarafael *(4.7k ⭐)*
@@ -1043,7 +1044,7 @@
 - 📦 🔷 **[patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)** ✓ Loads clean 🤖 R:🟢 M:🟢 — 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 by handsomestWei *(11.9k ⭐)*
 - 📚 🔷 **[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)** ▶ Runs 🤖 R:🟡 M:🟢 — The absolute trainer to light up AI agents. by microsoft *(18.7k ⭐)*
 - 📄 🔷 **[colleague-skill](https://github.com/titanwings/distilly)** ▶ Runs 🤖 R:🟡 M:🟢 — 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 by titanwings *(25.8k ⭐)*
-- 📚 ⭐ **[astryx](https://github.com/facebook/astryx)** ✓ Loads clean 🤖 R:🟡 M:🟢 — An open source design system that's fully customizable and agent ready by facebook *(13.7k ⭐)*
+- 📚 ⭐ **[astryx](https://github.com/facebook/astryx)** 🤖 R:🟡 M:🟢 — An open source design system that's fully customizable and agent ready by facebook *(13.7k ⭐)*
 - 📚 ⭐ **[oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)** 🤖🧠 R:🟡 M:🟢 — Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services by oracle-devrel *(4.4k ⭐)*
 - 📦 🔷 **[garden-skills](https://github.com/ConardLi/garden-skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. by ConardLi *(13k ⭐)*
 - 🔄 ⭐ **[TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. by TheCraigHewitt *(7.5k ⭐)*
@@ -1267,7 +1268,7 @@
 - 📄 🔷 **[asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)** ✓ Loads clean 🤖 R:🟡 M:🟢 — ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. by danyuchn *(5.2k ⭐)*
 - 📚 ⭐ **[rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Local-first privacy guard: anonymize your documents before sharing with LLMs. by Rizzo-AI-Academy *(1.2k ⭐)*
 - 📚 ⭐ **[AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation. by Tencent *(6.9k ⭐)*
-- ⌨️ 🔷 **[pr-agent](https://github.com/The-PR-Agent/pr-agent)** ▶ Runs 🧠 R:🟡 M:🟢 — 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier. by The-PR-Agent *(13.4k ⭐)*
+- ⌨️ 🔷 **[pr-agent](https://github.com/The-PR-Agent/pr-agent)** 🧠 R:🟡 M:🟢 — 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier. by The-PR-Agent *(13.4k ⭐)*
 - 📦 🔷 **[Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)** 🤖🧠 R:🟢 M:🟢 — 🗂 The essential checklist for modern web development, for humans and AI agents by thedaviddias *(74.5k ⭐)*
 - 📄 🔷 **[security-audit-skill](https://github.com/cloudflare/security-audit-skill)** 🤖 R:🟡 M:🟢 — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings by cloudflare *(31.2k ⭐)*
 - 📚 ⭐ **[moltis](https://github.com/moltis-org/moltis)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in. by moltis-org *(2.9k ⭐)*
@@ -1398,8 +1399,8 @@
 
 - 📚 🔷 **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** 🤖🧠 R:🟡 M:🟢 — Hindsight: Agent Memory That  Learns by vectorize-io *(51.3k ⭐)*
 - 🔗 ⭐ **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org by Ikalus1988 *(531 ⭐)*
-- 📄 ⭐ **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** 🤖🖱️🧠 R:🔴 M:🟢 — Build your own AI SRE agents. The open source toolkit for the AI era. by Tracer-Cloud *(12.2k ⭐)*
-- 🧠 ⭐ **[Decepticon](https://github.com/BitterSecurity/Decepticon)** 🤖🧠 R:⚫ M:🟢 — Autonomous Hacking Agent for Red Team by BitterSecurity *(6.3k ⭐)*
+- 📄 ⭐ **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** ▶ Runs 🤖🖱️🧠 R:🔴 M:🟢 — Build your own AI SRE agents. The open source toolkit for the AI era. by Tracer-Cloud *(12.2k ⭐)*
+- 🧠 ⭐ **[Decepticon](https://github.com/BitterSecurity/Decepticon)** ▶ Runs 🤖🧠 R:⚫ M:🟢 — Autonomous Hacking Agent for Red Team by BitterSecurity *(6.3k ⭐)*
 - 📦 ⭐ **[defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ▶ Runs 🤖 R:🟡 M:🟢 — Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize by anthropics *(7.6k ⭐)*
 - 📚 ⭐ **[AiSOC](https://github.com/beenuar/AiSOC)** ▶ Runs 🧠 R:🟡 M:🟢 — Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable. by beenuar *(2.4k ⭐)*
 - 📚 ⭐ **[Ed1s0nZ/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)** 🤖 R:🔴 M:🟢 — CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. by AIPentest *(7.9k ⭐)*
@@ -1442,8 +1443,8 @@
 - 📚 🔷 **[bifrost](https://github.com/maximhq/bifrost)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS. by maximhq *(8.9k ⭐)*
 - 📚 ⭐ **[ODS](https://github.com/Osmantic/ODS)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. by Osmantic *(7.6k ⭐)*
 - 📚 ⭐ **[kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)** 🔧 R:🟡 M:🟢 — agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes. by kubernetes-sigs *(4.3k ⭐)*
-- 📚 🔷 **[Netcatty](https://github.com/binaricat/Netcatty)** 🤖🧠 R:🟡 M:🟢 — SSH workspace, SFTP, and terminals in one by binaricat *(6.7k ⭐)*
-- 📚 🔷 **[radar](https://github.com/skyhook-io/radar)** ▶ Runs 🤖 R:🟡 M:🟢 — The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary. by skyhook-io *(3.9k ⭐)*
+- 📚 🔷 **[Netcatty](https://github.com/binaricat/Netcatty)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — SSH workspace, SFTP, and terminals in one by binaricat *(6.7k ⭐)*
+- 📚 🔷 **[radar](https://github.com/skyhook-io/radar)** 🤖 R:🟡 M:🟢 — The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary. by skyhook-io *(3.9k ⭐)*
 - 📚 🔷 **[qm](https://github.com/yc-software/qm)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Multiplayer agent harness for work by yc-software *(15.4k ⭐)*
 - 📚 ⭐ **[archestra-ai/archestra](https://github.com/archestra-ai/archestra)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator by archestra-ai *(4.4k ⭐)*
 - 📦 ⭐ **[agentops](https://github.com/boshu2/agentops)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions. by boshu2 *(450 ⭐)*
@@ -1532,10 +1533,11 @@
 - 📚 🔷 **[PilotDeck](https://github.com/OpenBMB/PilotDeck)** 🤖 R:🟡 M:🟢 — Task-oriented AI Agent productivity platform by OpenBMB *(4.7k ⭐)*
 - 📚 ⭐ **[agenticSeek](https://github.com/Fosowl/agenticSeek)** ✓ Loads clean 🔧 R:🟡 M:🟢 — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. by Fosowl *(27.5k ⭐)*
 - 📚 🔷 **[ax](https://github.com/google/ax)** ✓ Loads clean 🔧 R:🟡 M:🟢 — Google's open agentic orchestration runtime by google *(13.9k ⭐)*
-- 📚 ⭐ **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** 🤖🖱️🧠 R:🔴 M:🟢 — AI Agent Framework, the Pydantic way by pydantic *(20.7k ⭐)*
-- 📚 ⭐ **[open-dots](https://github.com/Anil-matcha/open-dots)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype. by Anil-matcha *(5.9k ⭐)*
+- 📚 ⭐ **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** ▶ Runs 🤖🖱️🧠 R:🔴 M:🟢 — AI Agent Framework, the Pydantic way by pydantic *(20.7k ⭐)*
+- 📚 ⭐ **[open-dots](https://github.com/Anil-matcha/open-dots)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype. by Anil-matcha *(5.9k ⭐)*
 - 📚 ⭐ **[obsidian-mind](https://github.com/breferrari/obsidian-mind)** 🤖🧠 R:🟡 M:🟢 — A self-organizing Obsidian vault that gives AI coding agents persistent memory. by breferrari *(5.4k ⭐)*
 - 📚 ⭐ **[omnigent](https://github.com/omnigent-ai/omnigent)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. by omnigent-ai *(10.9k ⭐)*
+- 📚 ⭐ **[otari](https://github.com/mozilla-ai/otari)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking. by mozilla-ai *(665 ⭐)*
 - 📚 ⭐ **[awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)** 🤖🧠 R:🟡 M:🟢 — A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins by hashgraph-online *(1.3k ⭐)*
 - 📚 🔷 **[OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI)** ▶ Runs 🤖 R:🟡 M:🟢 — Open-Source Generative UI Framework by CopilotKit *(3.4k ⭐)*
 - 📦 🔷 **[ASPIRE](https://github.com/NVlabs/ASPIRE)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — ASPIRE: Agentic /Skills Discovery for Robotics by NVlabs *(591 ⭐)*
@@ -1544,8 +1546,8 @@
 - 📦 🔷 **[newsjack](https://github.com/elvisun/newsjack)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — The open-source skills that turn your agent into a full PR team. by elvisun *(1.6k ⭐)*
 - 📚 ⭐ **[agentos](https://github.com/rivet-dev/agentos)** 🤖🧠 R:🔴 M:🟢 — A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in. by rivet-dev *(4.8k ⭐)*
 - 📚 ⭐ **[withastro/flue](https://github.com/withastro/flue)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — The sandbox agent framework. by withastro *(8.5k ⭐)*
-- 📚 🔷 **[agno](https://github.com/agno-agi/agno)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Build, run, and manage agent platforms. by agno-agi *(42.8k ⭐)*
-- ⌨️ 🔷 **[tuios](https://github.com/Gaurav-Gosain/tuios)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. by Gaurav-Gosain *(5.5k ⭐)*
+- 📚 🔷 **[agno](https://github.com/agno-agi/agno)** 🤖🖱️🧠 R:🟡 M:🟢 — Build, run, and manage agent platforms. by agno-agi *(42.8k ⭐)*
+- ⌨️ 🔷 **[tuios](https://github.com/Gaurav-Gosain/tuios)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. by Gaurav-Gosain *(5.5k ⭐)*
 - 📚 🔷 **[starnet](https://github.com/androoAGI/starnet)** 🔧 R:🟡 M:🟢 — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. by androoAGI *(1.5k ⭐)*
 - 📚 🔷 **[FounderOS-DEMO](https://github.com/Bennettxai/FounderOS)** ▶ Runs 🤖 R:🟡 M:🟢 — An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. by Bennettxai *(1.2k ⭐)*
 - 📚 ⭐ **[kyegomez/swarms](https://github.com/kyegomez/swarms)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai by kyegomez *(7.3k ⭐)*
@@ -1554,6 +1556,7 @@
 - 📚 🔷 **[cindy](https://github.com/makecindy/cindy)** 🤖🧠 R:🟡 M:🟢 — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 by makecindy *(3.2k ⭐)*
 - 📦 ⭐ **[agentii-investment-intelligence](https://github.com/agentii-ai/agentii-investment-intelligence)** 🤖 R:🟡 M:🟢 — Claude-type skills for institutional equity research — 25 AI agent skills with SEC   filings, XBRL financials, earnings calendars, DCF/comps/LBO models, and PPT   generation. Powered by agentii.ai data plane. Works with Claude Code, OpenCode,   Codex, OpenClaw, Goose. by agentii-ai *(207 ⭐)*
 - 🧩 🔷 **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. by nanobrowser *(14.1k ⭐)*
+- ⌨️ 🔷 **[lazyskills](https://github.com/alvinunreal/lazyskills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — mission control for agent skills by alvinunreal *(566 ⭐)*
 - ⌨️ ⭐ **[MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — MiMo Code: Where Models and Agents Co-Evolve by XiaomiMiMo *(13.7k ⭐)*
 - 🔗 ⭐ **[toolkit](https://github.com/getsentry/toolkit)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic tooling for Sentry by getsentry *(933 ⭐)*
 - 📚 🔷 **[VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework by VoltAgent *(10.8k ⭐)*
