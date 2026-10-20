@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,700,000+ ⭐.
 
-*(counts as of 2026-10-20 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-20 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1173,7 +1173,7 @@
 - 📦 🔷 **[claude-code-plugins-plus-skills](https://github.com/jeremylongshore/tons-of-skills-marketplace)** 🤖 R:🟡 M:🟢 — 270+ Claude Code plugins with 739 agent skills. Production orchestration patterns, interactive tutorials (11 Jupyter notebooks), and CCPI package manager. 4.13.0 by jeremylongshore *(2.9k ⭐)*
 - 📚 🔷 **[liferay-portal](https://github.com/liferay/liferay-portal)** 🤖 R:🟡 M:🟢 — Source code for Liferay DXP, a Java-based digital experience platform. Supports building from source with Ant and Gradle, deploying OSGi modules, and running a Tomcat application server with Liferay DXP. by liferay *(2.3k ⭐)*
 - 🔌 🔷 **[naksha-studio](https://github.com/Adityaraj0421/naksha-studio)** ✓ Loads clean 🤖🖱️🧠🏄 R:🟡 M:🟢 — A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 26 roles, 60 commands, 13,800+ lines of expert design knowledge. Your agency's design brain, inside your terminal. by Adityaraj0421 *(343 ⭐)*
-- 🔄 ⭐ **[Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Claude Code Workflow for beginners & intermediate users. Tutorial and Installer included by peterkrueck *(1.4k ⭐)*
+- 🔄 ⭐ **[Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit)** ✓ Loads clean 🤖🧠 R:🔴 M:✅ — Claude Code Workflow for beginners & intermediate users. Tutorial and Installer included by peterkrueck *(1.4k ⭐)*
 - 📚 ⭐ **[openyak/openyak](https://github.com/openyak/openyak)** ✓ Loads clean 🔧 R:🟡 M:🟢 — Open-source local-first AI agent for desktop work. No account, no telemetry: use local models with Ollama/Rapid-MLX or bring your own provider key. by openyak *(693 ⭐)*
 - 📚 🔷 **[self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)** 🔧 R:🟢 M:🟢 — The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. by n8n-io *(15.3k ⭐)*
 - 📦 🔷 **[Auto-Redbook-Skills](https://github.com/comeonzhj/Auto-Redbook-Skills)** ✓ Loads clean 🤖 R:🔴 M:🟢 —  一个自动撰写小红书笔记，自动生成图片，自动发布的 Skills by comeonzhj *(2.4k ⭐)*
@@ -1235,7 +1235,7 @@
 - 📚 🔶 **[shareAI-lab/claw0](https://github.com/shareAI-lab/claw0)** 🤖🧠 R:🟡 M:🟠 — 0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch by shareAI-lab *(3.4k ⭐)*
 - ⌨️ 🔶 **[get-shit-done](https://github.com/gsd-build/get-shit-done)** ▶ Runs 🧠📟 R:🟢 M:✅ — A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. by gsd-build *(64.3k ⭐)*
 - 📄 🔶 **[interface-design](https://github.com/Dammyjay93/interface-design)** ✓ Loads clean 🤖 R:🟡 M:✅ — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(5.8k ⭐)*
-- 📚 🔶 **[firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder)** ✓ Loads clean 🔧 R:🟡 M:🟠 — 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution by firecrawl *(2.6k ⭐)*
+- 📚 🔶 **[firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder)** ✓ Loads clean 🔧 R:🟡 M:🔴 — 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution by firecrawl *(2.6k ⭐)*
 - 🔄 🔷 **[llm-wiki](https://github.com/mduongvandinh/llm-wiki)** ✓ Loads clean 🤖🧠 R:🟡 M:🟠 — Hệ thống knowledge base cá nhân hoàn toàn tự động, vận hành bởi LLM. Dựa trên pattern LLM Wiki của Andrej Karpathy. by mduongvandinh *(214 ⭐)*
 - 📄 🔶 **[revealjs-skill](https://github.com/ryanbbrown/revealjs-skill)** ✓ Loads clean 🤖 R:🟡 M:🟠 — Claude Code skill for making reveal.js presentations by ryanbbrown *(416 ⭐)*
 - 🔗 🔶 **[SixHq/Overture](https://github.com/SixHq/Overture)** 🤖 R:🟡 M:✅ — Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code.  by SixHq *(641 ⭐)*
