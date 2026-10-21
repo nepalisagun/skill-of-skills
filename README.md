@@ -7,9 +7,9 @@
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 [![Verified working](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fverified-count)](https://skills.911fund.io/tools?verified=any)
 
-**1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,700,000+ ⭐.
+**1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,800,000+ ⭐.
 
-*(counts as of 2026-10-21 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-21 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📚 ⭐ **[harvey](https://github.com/ethanplusai/harvey)** 🤖 R:🟡 M:🟢 — Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions. by ethanplusai *(1.9k ⭐)* — discovered Oct 21
 - 📦 🔶 **[guard-skills](https://github.com/amElnagdy/guard-skills)** ✓ Loads clean 🤖 R:🟡 M:🟠 — Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs by amElnagdy *(1.3k ⭐)* — discovered Oct 21
 - 📚 🔷 **[itsaplan](https://github.com/croffasia/itsaplan)** 🤖🧠 R:🟡 M:🟢 — ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. by croffasia *(1.7k ⭐)* — discovered Oct 19
 - 🔌 🔷 **[dsh-context](https://github.com/bowenliang123/dsh-context)** ✓ Loads clean 🧠 R:🟡 M:🟢 — The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。 by bowenliang123 *(2.7k ⭐)* — discovered Oct 19
 - 📚 ⭐ **[crm](https://github.com/trycompai/crm)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM. by trycompai *(11.6k ⭐)* — discovered Oct 19
-- 📦 🔷 **[typescript-style-guide](https://github.com/mkosir/typescript-style-guide)** ✓ Loads clean 🤖 R:🟡 M:🟢 — ⚙️ TypeScript Style Guide and Agent Skill. A concise set of conventions and best practices for consistent, maintainable code. by mkosir *(784 ⭐)* — discovered Oct 19
 
 ---
 
@@ -1326,6 +1326,7 @@
 - 📚 🔷 **[WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources)** 🔧 R:🟢 M:🟢 — 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.  by WangRongsheng *(9k ⭐)*
 - 📚 🔷 **[karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills)** 🤖 R:🟢 M:🟢 — 🎯 The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivity with TDD, debugging, git workflows, document processing, and more. Community-driven, actively maintained. by karanb192 *(554 ⭐)*
 - 📚 🔷 **[programing-best-practices](https://github.com/dereknguyen269/programing-best-practices)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Awesome Programming Best Practices for Beginners by dereknguyen269 *(675 ⭐)*
+- 📦 🔷 **[typescript-style-guide](https://github.com/mkosir/typescript-style-guide)** ✓ Loads clean 🤖 R:🟡 M:🟢 — ⚙️ TypeScript Style Guide and Agent Skill. A concise set of conventions and best practices for consistent, maintainable code. by mkosir *(784 ⭐)*
 - 📄 🔶 **[academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer)** ✓ Loads clean 🤖 R:🟡 M:🟠 — Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind. by AIScientists-Dev *(2.3k ⭐)*
 - 📚 🔷 **[ChYing](https://github.com/yhy0/ChYing)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — 承影，愿你在光影之间，找到属于自己的锋芒。开源的类 BurpSuite 应用 ChYing — may you find your own edge between light and shadow. An open-source, BurpSuite-like application. by yhy0 *(779 ⭐)*
 - 🔄 🔷 **[vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)** 🤖🧠 R:🟡 M:✅ — An orchestrated sub agent dev team powered by claude code by vijaythecoder *(4.4k ⭐)*
