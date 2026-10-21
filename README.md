@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,800,000+ ⭐.
 
-*(counts as of 2026-10-21 18:25 UTC; the badges above are live)*
+*(counts as of 2026-10-21 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -583,7 +583,7 @@
 - 🔗 ⭐ **[metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server)** 🤖 R:⚫ M:✅ — Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform by ariadng *(831 ⭐)*
 - ⌨️ 🔷 **[sigcli](https://github.com/sigcli/sigcli)** ▶ Runs 🤖 R:🔴 M:🟢 — The authentication CLI & Proxy for AI agents. Give agents access, not your credentials. by sigcli *(292 ⭐)*
 - 📚 🔶 **[mijia-api](https://github.com/Do1e/mijia-api)** ▶ Runs 🤖 R:🟡 M:🟢 — 使用代码、CLI、MCP 直接控制米家设备。 by Do1e *(884 ⭐)*
-- 📄 🔷 **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** 🤖 R:🟡 M:🟢 — AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools. by evolsb *(478 ⭐)*
+- 📄 🔷 **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** 🤖 R:🟡 M:✅ — AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools. by evolsb *(478 ⭐)*
 - 🔗 🔷 **[polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server)** ▶ Runs 🔧 R:🔴 M:🟢 — 🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features by caiovicentino *(716 ⭐)*
 - 🔌 🔷 **[claude-subconscious](https://github.com/letta-ai/claude-subconscious)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Give Claude Code a subconscious by letta-ai *(2.9k ⭐)*
 - 🔗 🔷 **[punitarani/fli](https://github.com/punitarani/fli)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Google Flights MCP, CLI and Python Library by punitarani *(3.2k ⭐)*
