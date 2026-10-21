@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,700,000+ ⭐.
 
-*(counts as of 2026-10-21 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-21 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -63,8 +63,8 @@
 
 > Quality-gated momentum — what's genuinely gaining traction right now.
 
-- 🔥 📚 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** 🤖🧠 R:🟢 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(256.0k ⭐)*
 - 🔥 📦 ⭐ **[mattpocock/skills](https://github.com/mattpocock/skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Skills for Real Engineers. Straight from my .claude directory. by mattpocock *(298.8k ⭐)*
+- 🔥 📚 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** 🤖🧠 R:🟢 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(256.0k ⭐)*
 - 🔥 🔗 ⭐ **[rea](https://github.com/morluto/rea)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(349.4k ⭐)*
 - 🔥 📦 ⭐ **[affaan-m/ECC](https://github.com/affaan-m/ECC)** 🤖🖱️🧠 R:🟡 M:🟢 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. by affaan-m *(285.0k ⭐)*
 - 🔥 📦 ⭐ **[ponytail](https://github.com/DietrichGebert/ponytail)** ✓ Loads clean 🤖🖱️🧠📟 R:🟡 M:🟢 — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. by DietrichGebert *(170.0k ⭐)*
@@ -636,7 +636,7 @@
 - 📦 🔶 **[butterbase-skills](https://github.com/butterbase-ai/butterbase-skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Plugin for Butterbase.ai by butterbase-ai *(535 ⭐)*
 - 📦 🔷 **[swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills)** 🤖🧠 R:🟢 M:🟢 — Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks by dpearson2699 *(1.2k ⭐)*
 - 📚 🔷 **[haskell-flake](https://github.com/srid/haskell-flake)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A `flake-parts` Nix module for Haskell development by srid *(241 ⭐)*
-- ⌨️ 🔷 **[psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done)** ▶ Runs 🔧 R:🟡 M:🟢 — The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI). by psi-oss *(971 ⭐)*
+- ⌨️ 🔷 **[psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done)** ▶ Runs 🔧 R:🟡 M:✅ — The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI). by psi-oss *(971 ⭐)*
 - 📚 🔷 **[drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient)** 🤖🧠 R:🟢 M:🟠 — One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes. by drona23 *(6.1k ⭐)*
 - ⌨️ 🔷 **[langchain-code](https://github.com/zamalali/langchain-code)** ▶ Runs 🤖 R:🟡 M:🟠 — Gemini-cli or claude code? Why not both? LangCode combines all CLI capabilities and models in one place ☂️! by zamalali *(438 ⭐)*
 - ⌨️ 🔷 **[tinte](https://github.com/Railly/tinte)** ▶ Runs 🤖 R:🟡 M:🟢 — Agent-native design system infrastructure. Generate, compile, install, and preview design systems from one source of truth. by Railly *(625 ⭐)*
