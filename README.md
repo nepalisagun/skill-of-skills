@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,700,000+ ⭐.
 
-*(counts as of 2026-10-21 06:25 UTC; the badges above are live)*
+*(counts as of 2026-10-21 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -953,7 +953,7 @@
 - 📦 🔷 **[ai-berkshire](https://github.com/xbtlin/ai-berkshire)** ✓ Loads clean 🤖 R:🟡 M:🟢 — AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis. by xbtlin *(16.8k ⭐)*
 - 📚 🔷 **[homerail](https://github.com/xiaotianfotos/homerail)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Voice-first local agent orchestration runtime for auditable DAG workflows. by xiaotianfotos *(996 ⭐)*
 - 📄 ⭐ **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** ✓ Loads clean 🤖 R:🔴 M:🟠 — Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark. by op7418 *(2.9k ⭐)*
-- ⌨️ ⭐ **[ductor](https://github.com/PleasePrompto/ductor)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Control Claude Code, Codex CLI and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing. by PleasePrompto *(463 ⭐)*
+- ⌨️ ⭐ **[ductor](https://github.com/PleasePrompto/ductor)** ▶ Runs 🤖🧠 R:🔴 M:✅ — Control Claude Code, Codex CLI and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing. by PleasePrompto *(463 ⭐)*
 - 📚 ⭐ **[boop-agent](https://github.com/raroque/boop-agent)** ✓ Loads clean 🤖🧠 R:🔴 M:🟠 — iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations. by raroque *(1.4k ⭐)*
 - 📦 🔷 **[ai-business-skills](https://github.com/minhnv0807/ai-business-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SOP packs — content, design, performance, leader ops — plus strategy, personal brand, AI avatar, dropshipping, design master, knowledge library. 4 regions (US/EU/SEA/LATAM) + Vietnam 2025-2026. Companion: opa-kit. by minhnv0807 *(621 ⭐)*
 - 🔄 🔷 **[n8n-workflows](https://github.com/Zie619/n8n-workflows)** ✓ Loads clean 🤖 R:🟡 M:✅ — all of the workflows of n8n i could find (also from the site itself) by Zie619 *(57k ⭐)*
