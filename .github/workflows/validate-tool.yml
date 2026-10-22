@@ -17,6 +17,10 @@ on:
         required: true
         type: string
 
+# Least privilege: the job only reads the target repository and posts the result to our own API.
+permissions:
+  contents: read
+
 jobs:
   validate:
     runs-on: ubuntu-latest
@@ -34,8 +38,9 @@ jobs:
             echo "repo_url must be a canonical GitHub repository URL" >&2
             exit 2
           fi
-          if ! echo "$CALLBACK_URL" | grep -Eq '^https://'; then
-            echo "callback_url must be an https URL" >&2
+          # Results go only to our own API (Cursor audit 2026-10-22, supply.validate-tool.callback).
+          if ! echo "$CALLBACK_URL" | grep -Eq '^https://skills\.911fund\.io/api/'; then
+            echo "callback_url must be an https://skills.911fund.io/api/ URL" >&2
             exit 2
           fi
 
