@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,800,000+ ⭐.
 
-*(counts as of 2026-10-22 06:25 UTC; the badges above are live)*
+*(counts as of 2026-10-22 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -427,7 +427,7 @@
 - 📄 ⭐ **[openclaw-claude-code](https://github.com/Enderfga/claw-orchestrator)** ▶ Runs 🤖 R:🔴 M:🟢 — Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support. by Enderfga *(596 ⭐)*
 - ⌨️ 🔷 **[vinhnx/VTCode](https://github.com/vinhnx/VTCode)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. by vinhnx *(884 ⭐)*
 - 📚 🔷 **[tambo](https://github.com/tambo-ai/tambo)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Generative UI SDK for React by tambo-ai *(11.2k ⭐)*
-- 📄 ⭐ **[claude-watch](https://github.com/taoufik123-collab/claude-watch)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Give Claude the ability to watch any video — scene-change frames + transcript + a structured report, with a 0-10s hook microscope and optional Obsidian auto-save. by taoufik123-collab *(1k ⭐)*
+- 📄 ⭐ **[claude-watch](https://github.com/taoufik123-collab/claude-watch)** ✓ Loads clean 🤖 R:🟡 M:✅ — Give Claude the ability to watch any video — scene-change frames + transcript + a structured report, with a 0-10s hook microscope and optional Obsidian auto-save. by taoufik123-collab *(1k ⭐)*
 - 📦 ⭐ **[skills](https://github.com/microsoft/skills)** 🤖🧠 R:🟡 M:🟢 — Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents by microsoft *(3.1k ⭐)*
 - 📚 🔷 **[dapr](https://github.com/dapr/dapr)** ✓ Loads clean 🔧 R:🟢 M:🟢 — Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration. by dapr *(26.2k ⭐)*
 - 📚 ⭐ **[Agent-Field/agentfield](https://github.com/Agent-Field/agentfield)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one. by Agent-Field *(2.6k ⭐)*
@@ -1502,7 +1502,7 @@
 - 📄 🔷 **[auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)** ✓ Loads clean 🤖🧠 R:🔴 M:🟠 — 🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory. by Xiangyue-Zhang *(1.1k ⭐)*
 - 📚 🔶 **[OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant)** 🤖🧠 R:🔴 M:🟢 — OpenClaw Assistant – Home Assistant Add-on by techartdev *(521 ⭐)*
 - 📚 🔷 **[abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control)** ✓ Loads clean 🧠 R:🟢 M:🟢 — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway. by abhi1693 *(4.1k ⭐)*
-- 📚 🔶 **[daytona](https://github.com/daytonaio/daytona)** 🤖🧠 R:🟢 M:🟢 — Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code by daytonaio *(71.5k ⭐)*
+- 📚 🔶 **[daytona](https://github.com/daytonaio/daytona)** 🤖🧠 R:🟢 M:✅ — Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code by daytonaio *(71.5k ⭐)*
 - ⌨️ 🔷 **[coasts](https://github.com/coast-guard/coasts)** ✓ Loads clean 🧠 R:🔴 M:✅ — Localhost service isolation and orchestration for git worktrees. by coast-guard *(433 ⭐)*
 - 📚 🔷 **[claude-code-webui](https://github.com/sugyan/claude-code-webui)** 🤖🔧 R:🟡 M:✅ — Web-based interface for Claude CLI with streaming chat responses by sugyan *(1.1k ⭐)*
 - ⌨️ 🔷 **[zerobox](https://github.com/afshinm/zerobox)** ▶ Runs 🔧 R:🟡 M:✅ — Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls. by afshinm *(723 ⭐)*
