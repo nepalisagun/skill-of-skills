@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,800,000+ ⭐.
 
-*(counts as of 2026-10-22 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-22 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📚 🔷 **[OpenBot](https://github.com/CopilotKit/OpenBot)** 🤖 R:🟡 M:🟢 — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. by CopilotKit *(6.9k ⭐)* — discovered Oct 22
 - 🔗 🔷 **[design-extract](https://github.com/Manavarya09/design-extract)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+. by Manavarya09 *(4.3k ⭐)* — discovered Oct 22
 - 📄 🔶 **[content-pipeline](https://github.com/OrangeViolin/content-pipeline)** ✓ Loads clean 🤖 R:🟡 M:🟠 — AI-powered content production pipeline for creators. One prompt → multi-platform publishing. Claude Code Skill. by OrangeViolin *(218 ⭐)* — discovered Oct 22
 - 📚 ⭐ **[omnara](https://github.com/omnara-ai/omnara)** ✓ Loads clean 🤖 R:🟡 M:🟢 — The open-source managed agent platform. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API. by omnara-ai *(3k ⭐)* — discovered Oct 22
 - 📚 ⭐ **[harvey](https://github.com/ethanplusai/harvey)** 🤖 R:🟡 M:🟢 — Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions. by ethanplusai *(2k ⭐)* — discovered Oct 21
-- 📦 🔶 **[guard-skills](https://github.com/amElnagdy/guard-skills)** ✓ Loads clean 🤖 R:🟡 M:🟠 — Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs by amElnagdy *(1.3k ⭐)* — discovered Oct 21
 
 ---
 
@@ -1346,6 +1346,7 @@
 - 📦 🔶 **[new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A collection of standardized Agent Skills to teach GitHub Copilot, Claude, Gemini and Cursor about modern Android development (Kotlin, Jetpack Compose, etc.). by new-silvermoon *(984 ⭐)*
 - 🧩 🔶 **[vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)** ✓ Loads clean 🤖🧠 R:🟡 M:✅ — Copilot Chat extension for VS Code by microsoft *(10k ⭐)*
 - 📚 🔷 **[Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)** ✓ Loads clean 🤖 R:🟢 M:🟠 — ✨ A curated list of awesome GitHub instructions, prompt, skills, MCPs and agent markdown files for enhancing your GitHub Copilot AI experience. by Code-and-Sorts *(586 ⭐)*
+- 📦 🔶 **[guard-skills](https://github.com/amElnagdy/guard-skills)** ✓ Loads clean 🤖 R:🟡 M:🟠 — Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs by amElnagdy *(1.3k ⭐)*
 - 📦 🔶 **[fleurytian/awesome-claude-skills](https://github.com/fleurytian/awesome-claude-skills)** ✓ Loads clean 🤖 R:🟢 M:✅ — Claude Skills developed for brain-workers. Dev by Fleury, an Ex-McKinsey and now AI product manager. 小红书/RedNote@如宝｜AI&Anlalytics. Email me @fleurytian@gmail.com by fleurytian *(323 ⭐)*
 - 📚 🔶 **[AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh)** 🤖🧠 R:🟢 M:✅ — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好  by AlexAnys *(4.4k ⭐)*
 - 📚 🔶 **[rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers)** 🔧 R:🟢 M:🟠 — A curated list of awesome MCP servers focused on DevOps tools and capabilities. by rohitg00 *(1k ⭐)*
@@ -1427,7 +1428,7 @@
 - 📚 🔷 **[hexo-ai/sia](https://github.com/hexo-ai/sia)** ▶ Runs 🔧 R:🟡 M:🟢 — SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task. by hexo-ai *(2.2k ⭐)*
 - 📄 🔶 **[self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time. by Kulaxyz *(970 ⭐)*
 - 🔌 🔷 **[FableCodex](https://github.com/baskduf/FableCodex)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable. by baskduf *(437 ⭐)*
-- 📚 🔷 **[BoxPwnr](https://github.com/0ca/BoxPwnr)** 🤖🧠 R:🔴 M:🟢 — A modular framework for benchmarking LLMs and agentic strategies on security challenges across HackTheBox, TryHackMe, PortSwigger Labs, Cybench, picoCTF and more. by 0ca *(465 ⭐)*
+- 📚 🔷 **[BoxPwnr](https://github.com/0ca/BoxPwnr)** 🤖🧠 R:🔴 M:✅ — A modular framework for benchmarking LLMs and agentic strategies on security challenges across HackTheBox, TryHackMe, PortSwigger Labs, Cybench, picoCTF and more. by 0ca *(465 ⭐)*
 - 📄 🔶 **[ResearcherSkill](https://github.com/krzysztofdudek/ResearcherSkill)** ✓ Loads clean 🤖 R:🟡 M:🟢 — One file. Your AI coding agent becomes a scientist. 30+ experiments while you sleep. by krzysztofdudek *(265 ⭐)*
 - 🔌 🔷 **[numina-lean-agent](https://github.com/project-numina/numina-lean-agent)** ✓ Loads clean 🤖 R:🔴 M:🟠 — An agent built on Claude Code for formal theorem proving in Lean that performs proof search, code transformation, verification, and formalization of mathematical theorems using integrated skills for semantic search, informal proving, and proof synthesis. by project-numina *(280 ⭐)*
 
