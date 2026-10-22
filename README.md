@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,800,000+ ⭐.
 
-*(counts as of 2026-10-22 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-22 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1401,8 +1401,8 @@
 
 - 📚 ⭐ **[AiSOC](https://github.com/beenuar/AiSOC)** ▶ Runs 🧠 R:🔴 M:🟢 — Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable. by beenuar *(2.6k ⭐)*
 - 📚 🔷 **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** 🤖🧠 R:🟡 M:🟢 — Hindsight: Agent Memory That  Learns by vectorize-io *(52.4k ⭐)*
-- 📦 ⭐ **[reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** 🤖🧠 R:🔴 M:🟢 — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 by zhaoxuya520 *(42.9k ⭐)*
 - 📦 ⭐ **[defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** ▶ Runs 🤖 R:🟡 M:🟢 — Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize by anthropics *(7.6k ⭐)*
+- 📦 ⭐ **[reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** 🤖🧠 R:🔴 M:🟢 — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 by zhaoxuya520 *(42.9k ⭐)*
 - 📄 ⭐ **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** ▶ Runs 🤖🖱️🧠 R:🔴 M:🟢 — Build your own AI SRE agents. The open source toolkit for the AI era. by Tracer-Cloud *(12.4k ⭐)*
 - 🧠 ⭐ **[Decepticon](https://github.com/BitterSecurity/Decepticon)** ▶ Runs 🤖🧠 R:⚫ M:🟢 — Autonomous Hacking Agent for Red Team by BitterSecurity *(6.4k ⭐)*
 - 📚 ⭐ **[Ed1s0nZ/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)** 🤖 R:🔴 M:🟢 — CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. by AIPentest *(7.9k ⭐)*
@@ -1502,10 +1502,10 @@
 - 📄 🔷 **[auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)** ✓ Loads clean 🤖🧠 R:🔴 M:🟠 — 🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory. by Xiangyue-Zhang *(1.1k ⭐)*
 - 📚 🔶 **[OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant)** 🤖🧠 R:🔴 M:🟢 — OpenClaw Assistant – Home Assistant Add-on by techartdev *(521 ⭐)*
 - 📚 🔷 **[abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control)** ✓ Loads clean 🧠 R:🟢 M:🟢 — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway. by abhi1693 *(4.1k ⭐)*
-- 📚 🔶 **[daytona](https://github.com/daytonaio/daytona)** 🤖🧠 R:🟢 M:✅ — Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code by daytonaio *(71.5k ⭐)*
 - ⌨️ 🔷 **[coasts](https://github.com/coast-guard/coasts)** ✓ Loads clean 🧠 R:🔴 M:✅ — Localhost service isolation and orchestration for git worktrees. by coast-guard *(433 ⭐)*
 - 📚 🔷 **[claude-code-webui](https://github.com/sugyan/claude-code-webui)** 🤖🔧 R:🟡 M:✅ — Web-based interface for Claude CLI with streaming chat responses by sugyan *(1.1k ⭐)*
 - ⌨️ 🔷 **[zerobox](https://github.com/afshinm/zerobox)** ▶ Runs 🔧 R:🟡 M:✅ — Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls. by afshinm *(723 ⭐)*
+- 📚 🔶 **[daytona](https://github.com/daytonaio/daytona)** 🤖🧠 R:🟢 M:✅ — Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code by daytonaio *(71.5k ⭐)*
 - ⌨️ 🔷 **[ProxyPilot](https://github.com/Finesssee/ProxyPilot)** 🤖🧠 R:🟡 M:✅ — Windows-native CLIProxyAPI fork with TUI, system tray, and multi-provider OAuth for AI coding tools - No API key needed by Finesssee *(260 ⭐)*
 - 📚 🔶 **[dp-archive/archive](https://github.com/dp-archive/archive)** ✓ Loads clean 🤖🧠 R:🟡 M:✅ — Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI. by dp-archive *(1.1k ⭐)*
 - 🔗 🔶 **[k8s-mcp-server](https://github.com/alexei-led/k8s-mcp-server)** 🤖 R:🔴 M:✅ — K8s-mcp-server is a Model Context Protocol (MCP) server that enables AI assistants like Claude to securely execute Kubernetes commands. It provides a bridge between language models and essential Kubernetes CLI tools including kubectl, helm, istioctl, and argocd, allowing AI systems to assist with cluster management, troubleshooting, and deployments by alexei-led *(212 ⭐)*
