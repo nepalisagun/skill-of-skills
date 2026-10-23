@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 19,900,000+ ⭐.
 
-*(counts as of 2026-10-23 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-23 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📚 🔷 **[open-saas](https://github.com/wasp-lang/open-saas)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework. by wasp-lang *(16.1k ⭐)* — discovered Oct 23
+- 🔌 🔷 **[ds-harness-remote](https://github.com/liguobao/ds-harness-remote)** 🧠 R:🟡 M:🟢 — 一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.) by liguobao *(761 ⭐)* — discovered Oct 23
 - 🔗 🔷 **[world-intel-mcp](https://github.com/marc-shade/world-intel-mcp)** ▶ Runs 🤖 R:🟡 M:🟢 — 160-tool MCP server for real-time global intelligence from free public APIs: markets, liquidity, prediction markets, SEC filings, conflict, military, aircraft-cohort early warning, migration and border flows, cyber, climate, news and more. Dated observation history, 29 research prompts, cited briefs, geofences, SSE dashboard. MIT, no paid API keys. by marc-shade *(1k ⭐)* — discovered Oct 23
 - 🔗 🔷 **[supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server)** 🤖 R:🟡 M:🟢 — Query MCP enables end-to-end management of Supabase via chat interface: read & write query executions, management API support, automatic migration versioning, access to logs and much more. by alexander-zuev *(833 ⭐)* — discovered Oct 23
+- 📚 🔷 **[open-saas](https://github.com/wasp-lang/open-saas)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework. by wasp-lang *(16.1k ⭐)* — discovered Oct 23
 - 📚 🔷 **[OpenBot](https://github.com/CopilotKit/OpenBot)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. by CopilotKit *(7k ⭐)* — discovered Oct 22
-- 🔗 🔷 **[design-extract](https://github.com/Manavarya09/design-extract)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+. by Manavarya09 *(4.3k ⭐)* — discovered Oct 22
 
 ---
 
@@ -248,6 +248,7 @@
 - 📚 ⭐ **[pg_textsearch](https://github.com/timescale/pg_textsearch)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed. by timescale *(4k ⭐)*
 - 📚 🔷 **[SkillOpt](https://github.com/microsoft/SkillOpt)** ▶ Runs 🤖 R:🟢 M:🟢 — SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts. by microsoft *(18.6k ⭐)*
 - 📚 ⭐ **[nanobot](https://github.com/HKUDS/nanobot)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Lightweight, open-source AI agent for your tools, chats, and workflows. by HKUDS *(49.3k ⭐)*
+- 🔗 🔷 **[design-extract](https://github.com/Manavarya09/design-extract)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+. by Manavarya09 *(4.3k ⭐)*
 - 📚 ⭐ **[Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know)** ✓ Loads clean 🤖 R:🟢 M:🟢 — A practical Claude Code guide with clear mental models and copy-paste examples — setup, prompt engineering, slash commands, skills, hooks, subagents, agent teams, and MCP servers. Beginner path to power-user depth. Featured in Awesome Claude Code. by wesammustafa *(3.5k ⭐)*
 - ⌨️ 🔷 **[chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)** 🤖🧠 R:🔴 M:🟢 — Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. by chenhg5 *(16.1k ⭐)*
 - 🔗 ⭐ **[hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)** 🧠 R:🟡 M:🟢 — The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development. by hashicorp *(1.6k ⭐)*
