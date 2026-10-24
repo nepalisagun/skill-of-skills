@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,000,000+ ⭐.
 
-*(counts as of 2026-10-24 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-24 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📄 🔶 **[qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)** 🤖 R:🟡 M:🟢 — Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc. by joeseesun *(6.4k ⭐)* — discovered Oct 24
+- ⌨️ ⭐ **[sandbox-runtime](https://github.com/anthropics/sandbox-runtime)** 🔧 R:🟡 M:🟢 — A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. by anthropics *(6.3k ⭐)* — discovered Oct 24
 - 📚 🔷 **[activepieces](https://github.com/activepieces/activepieces)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents by activepieces *(25.2k ⭐)* — discovered Oct 24
 - 📦 ⭐ **[universal-modder](https://github.com/rehan-remade/universal-modder)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos. by rehan-remade *(8.8k ⭐)* — discovered Oct 24
 - 🔗 🔷 **[pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)** 🤖🧠 R:🟡 M:🟠 — The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. by BeehiveInnovations *(11.8k ⭐)* — discovered Oct 24
-- 🔗 ⭐ **[CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)** 🤖🖱️ R:🟡 M:🟢 — An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants. by CodeGraphContext *(4.4k ⭐)* — discovered Oct 24
+- 📄 🔶 **[qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)** 🤖 R:🟡 M:🟢 — Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc. by joeseesun *(6.4k ⭐)* — discovered Oct 24
 
 ---
 
@@ -230,6 +230,7 @@
 - ⌨️ 🔷 **[aider](https://github.com/Aider-AI/aider)** ▶ Runs 🔧 R:🟡 M:✅ — aider is AI pair programming in your terminal by Aider-AI *(49.7k ⭐)*
 - 🔗 🔷 **[ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)** 🤖 R:🟡 M:🟢 — AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. by mrexodia *(13.1k ⭐)*
 - 🔗 🔷 **[github/github-mcp-server](https://github.com/github/github-mcp-server)** ✓ Loads clean 🤖 R:🟢 M:🟢 — GitHub's official MCP Server by github *(33.9k ⭐)*
+- 🔗 ⭐ **[CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)** 🤖🖱️ R:🟡 M:🟢 — An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants. by CodeGraphContext *(4.4k ⭐)*
 - 📦 ⭐ **[kicad-happy](https://github.com/aklofas/kicad-happy)** ✓ Loads clean 🤖🖱️ R:🟡 M:🟢 — AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source components, and prep boards for fabrication. by aklofas *(1.5k ⭐)*
 - 📚 ⭐ **[elsa-core](https://github.com/elsa-workflows/elsa-core)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — The Workflow Engine for .NET by elsa-workflows *(7.9k ⭐)*
 - 📚 🔷 **[univer](https://github.com/dream-num/univer)** ▶ Runs 🔧 R:🟡 M:🟢 — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. by dream-num *(22.7k ⭐)*
@@ -1436,7 +1437,7 @@
 - 📦 🔷 **[Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — An Agent Skill helping you to optimize Xcode incremental and clean builds by running benchmarks and optimizing build settings. by AvdLee *(1.3k ⭐)*
 - 📚 🔷 **[hexo-ai/sia](https://github.com/hexo-ai/sia)** ▶ Runs 🔧 R:🟡 M:🟢 — SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task. by hexo-ai *(2.2k ⭐)*
 - 📄 🔶 **[self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time. by Kulaxyz *(972 ⭐)*
-- 🔌 🔷 **[FableCodex](https://github.com/baskduf/FableCodex)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable. by baskduf *(437 ⭐)*
+- 🔌 🔷 **[FableCodex](https://github.com/baskduf/FableCodex)** ✓ Loads clean 🤖🧠 R:🟡 M:✅ — 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable. by baskduf *(437 ⭐)*
 - 📚 🔷 **[BoxPwnr](https://github.com/0ca/BoxPwnr)** 🤖🧠 R:🔴 M:✅ — A modular framework for benchmarking LLMs and agentic strategies on security challenges across HackTheBox, TryHackMe, PortSwigger Labs, Cybench, picoCTF and more. by 0ca *(466 ⭐)*
 - 📄 🔶 **[ResearcherSkill](https://github.com/krzysztofdudek/ResearcherSkill)** ✓ Loads clean 🤖 R:🟡 M:🟢 — One file. Your AI coding agent becomes a scientist. 30+ experiments while you sleep. by krzysztofdudek *(265 ⭐)*
 - 🔌 🔷 **[numina-lean-agent](https://github.com/project-numina/numina-lean-agent)** ✓ Loads clean 🤖 R:🔴 M:🟠 — An agent built on Claude Code for formal theorem proving in Lean that performs proof search, code transformation, verification, and formalization of mathematical theorems using integrated skills for semantic search, informal proving, and proof synthesis. by project-numina *(282 ⭐)*
