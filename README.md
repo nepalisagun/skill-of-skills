@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,000,000+ ⭐.
 
-*(counts as of 2026-10-24 06:25 UTC; the badges above are live)*
+*(counts as of 2026-10-24 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -588,7 +588,7 @@
 - 📚 🔷 **[amp.dev](https://github.com/ampproject/amp.dev)** ✓ Loads clean 🔧 R:🟢 M:🟢 — The AMP Project Website. by ampproject *(600 ⭐)*
 - 📚 🔷 **[AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** 🔧 R:🔴 M:🟠 — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search by SakanaAI *(7.4k ⭐)*
 - 📚 🔷 **[agent-systems-handbook](https://github.com/Prompthon-IO/agent-systems-handbook)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent memory, evaluation, observability, and multi-agent architecture. Current trend focus: Gemini Interactions API and managed agents, emerging agent runtimes, and production AI workflow patterns. by Prompthon-IO *(315 ⭐)*
-- 🔗 🔷 **[cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)** 🤖🧠 R:🟡 M:🟢 — TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically. by grab *(7.1k ⭐)*
+- 🔗 🔷 **[cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)** 🤖🧠 R:🟡 M:🟠 — TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically. by grab *(7.1k ⭐)*
 - 📚 🔷 **[criterium](https://github.com/hugoduncan/criterium)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Benchmarking library for clojure by hugoduncan *(1.2k ⭐)*
 - 📦 ⭐ **[dot-skills](https://github.com/pproenca/dot-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A collection of AI agent skills following the Agent Skills open format by pproenca *(218 ⭐)*
 - 🧩 🔷 **[Claude-code-ChatInWindows](https://github.com/LKbaba/Claude-code-ChatInWindows)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Full-featured GUI for Claude Code CLI in VS Code — Windows (no WSL) & macOS. Third-party API, MCP plugins, Skills, Hooks, real-time token tracking. Actively maintained. by LKbaba *(225 ⭐)*
@@ -1342,7 +1342,7 @@
 - 📦 🔷 **[typescript-style-guide](https://github.com/mkosir/typescript-style-guide)** ✓ Loads clean 🤖 R:🟡 M:🟢 — ⚙️ TypeScript Style Guide and Agent Skill. A concise set of conventions and best practices for consistent, maintainable code. by mkosir *(784 ⭐)*
 - 📚 🔶 **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)** 🔧 R:🟢 M:🟢 — A curated list of Claude Skills. by BehiSecc *(10.3k ⭐)*
 - 📚 🔶 **[c-code-style](https://github.com/MaJerle/c-code-style)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Recommended C code style and coding rules for standard C99 or later. Comes with AI agent skill to write, edit and format the code. by MaJerle *(1.4k ⭐)*
-- 📚 🔷 **[ComposioHQ/awesome-claude-plugins](https://github.com/composio-community/awesome-claude-plugins)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system. by composio-community *(2k ⭐)*
+- 📚 🔷 **[ComposioHQ/awesome-claude-plugins](https://github.com/composio-community/awesome-claude-plugins)** ✓ Loads clean 🤖🧠 R:🟡 M:🟠 — A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system. by composio-community *(2k ⭐)*
 - 📚 🔶 **[ai-boost/awesome-a2a](https://github.com/ai-boost/awesome-a2a)** 🔧 R:🟢 M:🟢 — Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place. by ai-boost *(699 ⭐)*
 - ⌨️ 🔷 **[emanote](https://github.com/srid/emanote)** 🤖🧠 R:🔴 M:✅ — Emanate a structured view of your plain-text notes by srid *(966 ⭐)*
 - 📚 🔶 **[jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code)** 🔧 R:🟢 M:🟢 — A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic's Claude Code.  by jqueryscript *(534 ⭐)*
