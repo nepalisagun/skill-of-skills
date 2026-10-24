@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,000,000+ ⭐.
 
-*(counts as of 2026-10-24 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-24 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -532,8 +532,8 @@
 - 📚 🔷 **[Foundry](https://github.com/promptise-com/Foundry)** ▶ Runs 🧠 R:🟢 M:🟢 — The foundation layer for agentic intelligence. by promptise-com *(892 ⭐)*
 - 📚 🔷 **[Misago](https://github.com/rafalp/Misago)** 🔧 R:🟢 M:🟢 — Misago is fully featured modern forum application that is fast, scalable and responsive. by rafalp *(2.8k ⭐)*
 - 📚 🔷 **[agentset](https://github.com/agentset-ai/agentset)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more. by agentset-ai *(2.1k ⭐)*
-- 📄 🔷 **[railway-skills](https://github.com/railwayapp/railway-skills)** 🤖🧠 R:🟡 M:🟢 — Agent skills for interacting with Railway by railwayapp *(334 ⭐)*
 - 🔗 🔷 **[ai-tools](https://github.com/sveltejs/ai-tools)** 🤖🧠 R:🟡 M:🟢 — The official svelte MCP for all your agentic needs. by sveltejs *(334 ⭐)*
+- 📄 🔷 **[railway-skills](https://github.com/railwayapp/railway-skills)** 🤖🧠 R:🟡 M:🟢 — Agent skills for interacting with Railway by railwayapp *(334 ⭐)*
 - 📄 🔷 **[bazi-skill](https://github.com/jinchenma94/bazi-skill)** ✓ Loads clean 🤖 R:🟢 M:🟢 — 四柱八字命理分析 by jinchenma94 *(3.6k ⭐)*
 - 🔗 🔷 **[mcp-server-tauri](https://github.com/hypothesi/mcp-server-tauri)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server and plugin for Tauri v2 development by hypothesi *(326 ⭐)*
 - 📚 🔷 **[po-angular](https://github.com/po-ui/po-angular)** ▶ Runs 🧠 R:🟢 M:🟢 — Biblioteca de componentes Angular. by po-ui *(1k ⭐)*
@@ -1201,7 +1201,7 @@
 - 📚 🔷 **[gluestack-ui](https://github.com/gluestack/gluestack-ui)** ▶ Runs 🤖 R:🟡 M:🟢 — React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind)) by gluestack *(5.3k ⭐)*
 - 🔌 🔷 **[claude-code](https://github.com/MadAppGang/claude-code)** 🤖🧠 R:🟡 M:✅ — claude code plugins marketplace by MadAppGang *(287 ⭐)*
 - 📚 🔷 **[zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot)** 🔧 R:🔴 M:🟢 — Sub-millisecond VM sandboxes for AI agents via copy-on-write forking by zerobootdev *(2.5k ⭐)*
-- 📦 🔷 **[zhu1090093659/spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents. by zhu1090093659 *(991 ⭐)*
+- 📦 🔷 **[zhu1090093659/spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop)** ✓ Loads clean 🤖🧠 R:🟡 M:✅ — Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents. by zhu1090093659 *(991 ⭐)*
 - 📚 🔷 **[AutoMaker-Org/automaker](https://github.com/AutoMaker-Org/automaker)** ✓ Loads clean 🤖 R:🔴 M:✅ — Automaker is an autonomous AI development studio where you describe features on a Kanban board and AI agents powered by Claude Agent SDK automatically implement them, with real-time streaming, git worktree isolation, plan approval, and multi-agent task execution. by AutoMaker-Org *(3.2k ⭐)*
 - 📚 🔶 **[awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit by libukai *(5.2k ⭐)*
 - 📦 🔷 **[research-writing-skill](https://github.com/Norman-bury/research-writing-skill)** ✓ Loads clean 🤖🧠 R:🟡 M:🟠 — 科研写作助手 (Research Writing Assistant) by Norman-bury *(3.5k ⭐)*
