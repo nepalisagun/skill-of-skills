@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-25 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-25 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📄 🔷 **[nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)** ✓ Loads clean 🤖 R:🟡 M:🟢 — AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images. by YouMind-OpenLab *(1.9k ⭐)* — discovered Oct 25
+- 📚 🔷 **[humanlayer](https://github.com/humanlayer/humanlayer)** 🤖🧠 R:🟡 M:🟢 — The best way to get AI coding agents to solve hard problems in complex codebases. by humanlayer *(12.5k ⭐)* — discovered Oct 25
+- 📚 🔷 **[skill-recorder](https://github.com/microsoft/skill-recorder)** 🔧 R:🟡 M:🟢 — Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio. by microsoft *(4.9k ⭐)* — discovered Oct 25
+- 📚 ⭐ **[openbot](https://github.com/nightly-labs/openbot)** 🤖🧠 R:🟡 M:🟢 — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. by nightly-labs *(906 ⭐)* — discovered Oct 25
 - 📦 🔶 **[ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** ✓ Loads clean 🤖🖱️ R:🟡 M:🟠 — A collection of AI agent skills focused on resume optimization, job applications, and career development. Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search. by Paramchoudhary *(2.9k ⭐)* — discovered Oct 25
-- 🔗 🔷 **[Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)** 🤖 R:🟡 M:🟢 — MCP server to provide Figma layout information to AI coding agents like Cursor by GLips *(16.1k ⭐)* — discovered Oct 25
 - 📦 🔶 **[youtube-agent-skill](https://github.com/Jakeschincariol/youtube-agent-skill)** 🤖 R:🟡 M:🟢 — Eleven Claude skills that run a YouTube channel: scripts off 21 hook formulas with a scored hook, title and thumbnail linted as one pairing, an edit decision list from your transcript, a retention reader that finds where viewers actually leave, a Shorts cutter, and a virality engine. Free, MIT. by Jakeschincariol *(2.7k ⭐)* — discovered Oct 25
-- 📦 🔷 **[pentest-agents](https://github.com/H-mmer/pentest-agents)** 🤖🖱️🧠 R:🟡 M:🟠 — Bug bounty agent framework for Claude Code, Codex, Gemini, Cursor, Windsurf, Copilot, and OpenClaw — 48 agents, 26 commands, 19 CLI tools, 2 MCP servers, autonomous hunt loops, exploit chain builder. by H-mmer *(1k ⭐)* — discovered Oct 25
 
 ---
 
@@ -515,6 +515,7 @@
 - 📦 🔷 **[apple-skills](https://github.com/Prisma-Labs-Dev/apple-skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Apple development skills for Claude Code and Codex — latest iOS 26+ APIs, SwiftUI, Liquid Glass, and more by Prisma-Labs-Dev *(349 ⭐)*
 - 📦 🔷 **[kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — A collection of AI agent skills useful for projects using Kotlin language by Kotlin *(1.1k ⭐)*
 - 📚 🔷 **[Compresr-ai/Context-Gateway](https://github.com/Compresr-ai/Context-Gateway)** 🔧 R:🔴 M:🟢 — Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools by Compresr-ai *(645 ⭐)*
+- 🔗 🔷 **[Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)** 🤖 R:🟡 M:🟢 — MCP server to provide Figma layout information to AI coding agents like Cursor by GLips *(16.1k ⭐)*
 - 📄 🔷 **[statewright/statewright](https://github.com/statewright/statewright)** ▶ Runs 🤖 R:🟡 M:🟢 — State machine guardrails for AI agents by statewright *(506 ⭐)*
 - 🔗 🔷 **[gcloud-mcp](https://github.com/googleapis/gcloud-mcp)** 🔧 R:🟢 M:🟢 — gcloud MCP server by googleapis *(932 ⭐)*
 - 📚 🔷 **[webperf-snippets](https://github.com/nucliweb/webperf-snippets)** ▶ Runs 🤖 R:🟡 M:🟢 — ⚡️ 💾  Web Performance Snippets by nucliweb *(1.5k ⭐)*
@@ -544,6 +545,7 @@
 - 📚 🔷 **[morphir](https://github.com/finos/morphir)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A universal language for business and technology by finos *(215 ⭐)*
 - 📄 🔷 **[registry-broker-skills](https://github.com/hashgraph-online/registry-broker-skills)** ▶ Runs 🤖 R:🟢 M:🟢 — AI agent skills for the Universal Registry - search, chat, and register 72,000+ agents across 14+ protocols. Works with Claude, Codex, Cursor, OpenClaw, and any AI assistant. by hashgraph-online *(468 ⭐)*
 - 📚 🔷 **[sleap](https://github.com/talmolab/sleap)** ▶ Runs 🤖 R:🟡 M:🟢 — A deep learning framework for multi-animal pose tracking. by talmolab *(619 ⭐)*
+- 📄 🔷 **[nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)** ✓ Loads clean 🤖 R:🟡 M:🟢 — AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images. by YouMind-OpenLab *(1.9k ⭐)*
 - 📦 🔷 **[full-stack-skills](https://github.com/partme-ai/full-stack-skills)** ✓ Loads clean 🤖 R:🟡 M:🟢 — 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。 by partme-ai *(713 ⭐)*
 - 📦 🔷 **[binance-skills-hub](https://github.com/binance/binance-skills-hub)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto by binance *(1.1k ⭐)*
 - 📚 🔷 **[dataframely](https://github.com/Quantco/dataframely)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — A declarative, 🐻‍❄️-native data frame validation library. by Quantco *(622 ⭐)*
@@ -1633,6 +1635,7 @@
 - 📚 🔷 **[llm-d-router](https://github.com/llm-d/llm-d-router)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — llm-d Router: The intelligent entry point for inference requests by llm-d *(431 ⭐)*
 - 📚 🔷 **[AI-Gateway](https://github.com/Azure-Samples/AI-Gateway)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry 🚀 by Azure-Samples *(1k ⭐)*
 - 📚 🔷 **[go_binance_futures](https://github.com/sorry510/go_binance_futures)** 🤖🧠 R:🟡 M:🟢 — AI agent + 币安合约量化 + 模拟交易 + 历史回测 by sorry510 *(253 ⭐)*
+- 📦 🔷 **[pentest-agents](https://github.com/H-mmer/pentest-agents)** 🤖🖱️🧠 R:🟡 M:🟠 — Bug bounty agent framework for Claude Code, Codex, Gemini, Cursor, Windsurf, Copilot, and OpenClaw — 48 agents, 26 commands, 19 CLI tools, 2 MCP servers, autonomous hunt loops, exploit chain builder. by H-mmer *(1k ⭐)*
 - 📦 🔷 **[communitytools](https://github.com/transilienceai/communitytools)** 🤖 R:🟡 M:🟢 — Open-source Claude Code skills, agents, and slash commands for AI-powered penetration testing, bug bounty hunting, and security research by transilienceai *(591 ⭐)*
 - ⌨️ 🔶 **[OptMem](https://github.com/VictorTaelin/OptMem)** 🔧 R:🟡 M:🟢 — Permanent memory for AI agents. A 426-token prompt, a script, plug and play. by VictorTaelin *(2.3k ⭐)*
 - 📚 🔷 **[Chanakya-Local-Friend](https://github.com/samosa-ai-com/Chanakya-Local-Friend)** ▶ Runs 🧠 R:🟡 M:🟢 — Chanakya is an advanced, open-source, and self-hostable voice assistant designed for privacy, power, and flexibility. It leverages local AI/ML models to ensure your data stays with you. It Integrates with 1000+ third-party MCP servers including Home Assistant. by samosa-ai-com *(212 ⭐)*
