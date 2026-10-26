@@ -7,7 +7,7 @@
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 [![Verified working](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fverified-count)](https://skills.911fund.io/tools?verified=any)
 
-**1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,500+ skills** across 10 skill types · **430+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,100,000+ ⭐.
 
 *(counts as of 2026-10-26 03:11 UTC; the badges above are live)*
 
@@ -429,6 +429,7 @@
 - 📚 🔷 **[vllm-project/semantic-router](https://github.com/vllm-project/semantic-router)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge by vllm-project *(6.3k ⭐)*
 - ⌨️ 🔷 **[aider](https://github.com/Aider-AI/aider)** ▶ Runs 🔧 R:🟡 M:✅ — aider is AI pair programming in your terminal by Aider-AI *(49.7k ⭐)*
 - 📚 🔶 **[VibeVoice](https://github.com/microsoft/VibeVoice)** 🔧 R:🟢 M:🟢 — Open-Source Frontier Voice AI by microsoft *(55k ⭐)*
+- 📚 🔷 **[carbon](https://github.com/crbnos/carbon)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Open-source manufacturing ERP, MES and QMS. Quoting, MRP, inventory, shop floor, quality and lot/serial traceability on one Postgres schema, with a REST API and MCP server. Self-host or use Carbon Cloud. by crbnos *(2.8k ⭐)*
 - 📦 🔷 **[agent-skills](https://github.com/callstackincubator/agent-skills)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — A collection of agent-optimized React Native skills for AI coding assistants. by callstackincubator *(1.7k ⭐)*
 - 🔗 🔷 **[unity-mcp](https://github.com/CoplayDev/unity-mcp)** ▶ Runs 🤖 R:🔴 M:🟢 — Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. by CoplayDev *(15.4k ⭐)*
 - 🔗 🔷 **[anytype-mcp](https://github.com/anyproto/anytype-mcp)** 🤖 R:🟢 M:🟢 — An MCP server enabling AI assistants to interact with Anytype - your encrypted, local and collaborative wiki - to organize objects, lists, and more through natural language. by anyproto *(537 ⭐)*
@@ -526,7 +527,6 @@
 - ⌨️ ⭐ **[stitch-mcp](https://github.com/davideast/stitch-mcp)** 🤖🧠 R:🟡 M:✅ — A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow. by davideast *(981 ⭐)*
 - 📚 🔷 **[golutra/golutra](https://github.com/golutra/golutra)** 🔧 R:🔴 M:🟢 — Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace. by golutra *(3.9k ⭐)*
 - 🔗 🔷 **[AmoyLab/Unla](https://github.com/AmoyLab/Unla)** 🤖🖱️🧠 R:🟡 M:🟢 — 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications. by AmoyLab *(2.2k ⭐)*
-- 📚 🔷 **[milisp/mcp-linker](https://github.com/milisp/mcp-linker)** 🔧 R:🟡 M:🟢 — mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡mcphub by milisp *(344 ⭐)*
 - 📚 🔷 **[Misago](https://github.com/rafalp/Misago)** 🔧 R:🟢 M:🟢 — Misago is fully featured modern forum application that is fast, scalable and responsive. by rafalp *(2.8k ⭐)*
 - 📦 ⭐ **[dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit)** 🤖🖱️🧠 R:🟡 M:🟢 — Make Claude Code a .NET 10 Expert by codewithmukesh *(787 ⭐)*
 - 🔗 🔷 **[ai-tools](https://github.com/sveltejs/ai-tools)** 🤖🧠 R:🟡 M:🟢 — The official svelte MCP for all your agentic needs. by sveltejs *(334 ⭐)*
