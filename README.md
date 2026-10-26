@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **440+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-26 18:25 UTC; the badges above are live)*
+*(counts as of 2026-10-26 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ ⭐ **[copperhead](https://github.com/copperheadhq/copperhead)** 🤖🧠 R:🟡 M:🟢 — Hardware as fast as software. by copperheadhq *(632 ⭐)* — discovered Oct 26
+- 🔗 ⭐ **[bankmcp](https://github.com/noskillish/bankmcp)** 🤖 R:🟡 M:🟢 — BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama. by noskillish *(294 ⭐)* — discovered Oct 26
 - 📚 ⭐ **[node-banana](https://github.com/shrimbly/node-banana)** 🤖🧠 R:🟡 M:🟢 — Free and open node based generative workflows. by shrimbly *(1.6k ⭐)* — discovered Oct 26
 - 📚 🔷 **[Amagine3D](https://github.com/amagine-ai/Amagine3D)** 🤖🧠 R:🟡 M:🟢 — Amagine3D: From hardware requirements to editable 3D designs by amagine-ai *(6.3k ⭐)* — discovered Oct 26
 - 🔗 🔷 **[hf-mcp-server](https://github.com/huggingface/hf-mcp-server)** 🤖🧠 R:🟡 M:🟢 — Hugging Face MCP Server by huggingface *(309 ⭐)* — discovered Oct 26
-- 📚 🔷 **[html-to-markdown](https://github.com/xberg-io/html-to-markdown)** 🤖 R:🟡 M:🟢 — High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 98+ document formats using streaming parsers and built-in OCR. by xberg-io *(885 ⭐)* — discovered Oct 26
-- 🔗 ⭐ **[touchdesigner-mcp](https://github.com/8beeeaaat/touchdesigner-mcp)** 🤖🧠 R:🟡 M:🟢 — MCP server for TouchDesigner by 8beeeaaat *(603 ⭐)* — discovered Oct 26
 
 ---
 
@@ -374,6 +374,7 @@
 - 📄 🔷 **[eze-is/web-access](https://github.com/eze-is/web-access)** ✓ Loads clean 🤖 R:🔴 M:🟢 — 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治 by eze-is *(9.3k ⭐)*
 - 📚 🔷 **[palmier-pro](https://github.com/palmier-io/palmier-pro)** 🤖🖱️🧠 R:🟡 M:🟢 — macOS video editor built for AI by palmier-io *(14.6k ⭐)*
 - 📚 🔷 **[KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh)** 🔧 R:🟢 M:🟢 — Claude Code + OpenClaw + Codex 中文教程 | 39篇完整教程 + 1张速查卡 | 80万+内容量 | 1500+实操示例 | AI Coding / Agent 三线学习路径 by KimYx0207 *(6.3k ⭐)*
+- 🔗 ⭐ **[touchdesigner-mcp](https://github.com/8beeeaaat/touchdesigner-mcp)** 🤖🧠 R:🟡 M:🟢 — MCP server for TouchDesigner by 8beeeaaat *(603 ⭐)*
 - 📚 🔷 **[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way. by NVIDIA *(14.9k ⭐)*
 - 📦 ⭐ **[skills-for-fabric](https://github.com/microsoft/skills-for-fabric)** 🤖🖱️🧠🏄 R:🟢 M:🟢 — A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operate over Microsoft Fabric by microsoft *(1.3k ⭐)*
 - ⌨️ 🔷 **[zero](https://github.com/Twigpine/zero)** ▶ Runs 🧠 R:🔴 M:🟢 — The coding agent that answers to you, your model, your machine, your rules. by Twigpine *(1.7k ⭐)*
@@ -509,6 +510,7 @@
 - 📚 🔷 **[mcphub](https://github.com/samanhappy/mcphub)** 🤖🧠 R:🟡 M:🟢 — A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies by samanhappy *(2.6k ⭐)*
 - 📚 🔷 **[deepdetect](https://github.com/jolibrain/deepdetect)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Deep Learning Server and CLI for Torch and TensorRT by jolibrain *(2.6k ⭐)*
 - 📚 🔷 **[vendo](https://github.com/runvendo/vendo)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Embedded agents your customers use to automate work, build views, and connect their tools. by runvendo *(633 ⭐)*
+- 📚 🔷 **[html-to-markdown](https://github.com/xberg-io/html-to-markdown)** 🤖 R:🟡 M:🟢 — High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 98+ document formats using streaming parsers and built-in OCR. by xberg-io *(885 ⭐)*
 - 📚 🔷 **[dexto](https://github.com/truffle-ai/dexto)** 🤖🖱️🧠 R:🔴 M:🟢 — A coding agent and general agent harness for building and orchestrating agentic applications. by truffle-ai *(657 ⭐)*
 - 📚 🔶 **[mijia-api](https://github.com/Do1e/mijia-api)** ▶ Runs 🤖 R:🟡 M:🟢 — 使用代码、CLI、MCP 直接控制米家设备。 by Do1e *(929 ⭐)*
 - 📚 🔷 **[MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)** ✓ Loads clean 🔧 R:🟢 M:🟢 — Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. by MemoriLabs *(17.1k ⭐)*
