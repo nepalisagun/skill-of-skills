@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **450+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-27 06:25 UTC; the badges above are live)*
+*(counts as of 2026-10-27 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -682,7 +682,7 @@
 - 📚 🔷 **[harness-books](https://github.com/wquguru/harness-books)** ✓ Loads clean 🤖🧠 R:🟢 M:🟠 — 📚 Two books on harness engineering — the design philosophies behind Claude Code & Codex: constraints, query loops, context governance, multi-agent verification. harness-books.agentway.dev by wquguru *(3.2k ⭐)*
 - 📚 🔶 **[web-performance](https://github.com/w3c/web-performance)** 🤖 R:🟢 M:🟢 — W3C Web Performance Working Group repo by w3c *(430 ⭐)*
 - 🔗 🔷 **[1270011/claude-buddy](https://github.com/ramarivera/coding-buddy)** 🤖 R:🟡 M:✅ — Keep Your Claude Code Buddy Forever — permanent coding companion that survives every update by ramarivera *(463 ⭐)*
-- 📚 🔶 **[Gennadiyev/STS2MCP](https://github.com/Gennadiyev/STS2MCP)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Full agentic runs for Slay the Spire 2. A mod that exposes in-game state, and the MCP server for the mod. by Gennadiyev *(533 ⭐)*
+- 📚 🔶 **[Gennadiyev/STS2MCP](https://github.com/Gennadiyev/STS2MCP)** ▶ Runs 🤖🧠 R:🟡 M:✅ — Full agentic runs for Slay the Spire 2. A mod that exposes in-game state, and the MCP server for the mod. by Gennadiyev *(533 ⭐)*
 - 🔗 🔷 **[bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp)** ▶ Runs 🤖🧠 R:🟢 M:✅ — MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool by vasylenko *(206 ⭐)*
 - 📚 🔶 **[jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway)** ✓ Loads clean 🧠 R:🟡 M:✅ — 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client. by jwadow *(2.3k ⭐)*
 - 🔗 🔷 **[mcp-openapi-server](https://github.com/ivo-toby/mcp-openapi-server)** ▶ Runs 🤖🖱️🧠 R:🟡 M:✅ — MCP Server (Model Context Protocol) for turning OpenAPI specifications into a MCP Resource by ivo-toby *(301 ⭐)*
@@ -1641,14 +1641,14 @@
 - ⌨️ ⭐ **[jinn](https://github.com/hristo2612/jinn)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Lightweight AI gateway daemon orchestrating Claude Code, Codex, Hermes, Grok and Antigravity CLI. by hristo2612 *(326 ⭐)*
 - 📚 🔷 **[cft0808/edict](https://github.com/cft0808/edict)** ✓ Loads clean 🔧 R:🔴 M:🟢 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails by cft0808 *(17k ⭐)*
 - 📚 🔷 **[whiteboard](https://github.com/devdotfast/whiteboard)** 🤖🧠 R:🟡 M:🟢 — open-source IDE for thoughtful software design by devdotfast *(3.4k ⭐)*
-- 📚 ⭐ **[node-banana](https://github.com/shrimbly/node-banana)** 🤖🧠 R:🟡 M:🟢 — Free and open node based generative workflows. by shrimbly *(1.7k ⭐)*
+- 📚 ⭐ **[node-banana](https://github.com/shrimbly/node-banana)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Free and open node based generative workflows. by shrimbly *(1.7k ⭐)*
 - 📦 ⭐ **[AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research. by Orchestra-Research *(14k ⭐)*
 - 📦 🔷 **[ASPIRE](https://github.com/NVlabs/ASPIRE)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — ASPIRE: Agentic /Skills Discovery for Robotics by NVlabs *(880 ⭐)*
 - 📚 🔷 **[cyrus](https://github.com/cyrusagents/cyrus)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor, Gemini, and Opencode harnesses too. by cyrusagents *(876 ⭐)*
 - 📚 ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** ✓ Loads clean 🤖 R:🟡 M:🟢 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(594 ⭐)*
 - 🔗 ⭐ **[toolkit](https://github.com/getsentry/toolkit)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic tooling for Sentry by getsentry *(947 ⭐)*
 - 🔗 ⭐ **[atomicmemory](https://github.com/atomicstrata/atomicmemory)** 🤖🖱️🧠 R:🟡 M:🟢 — Portable semantic memory for AI agents: core engine, TypeScript SDK, framework adapters, MCP server, CLI, and host plugins. by atomicstrata *(440 ⭐)*
-- ⌨️ ⭐ **[copperhead](https://github.com/copperheadhq/copperhead)** 🤖🧠 R:🟡 M:🟢 — Hardware as fast as software. by copperheadhq *(632 ⭐)*
+- ⌨️ ⭐ **[copperhead](https://github.com/copperheadhq/copperhead)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Hardware as fast as software. by copperheadhq *(632 ⭐)*
 - 📚 🔷 **[slashdocs](https://github.com/razorpay/slashdocs)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions. by razorpay *(400 ⭐)*
 - 🔗 ⭐ **[agent-call](https://github.com/XiyaoWang0519/agent-call)** 🖱️🧠 R:🟡 M:🟢 — Open-source MCP server for safe, stateful AI-agent phone calls with OpenAI Realtime and Twilio. by XiyaoWang0519 *(269 ⭐)*
 - 📚 🔷 **[mindfs](https://github.com/a9gent/mindfs)** 🔧 R:🔴 M:🟢 — Access your personal AI agents and workstation data anywhere, anytime through MindFS. by a9gent *(1.9k ⭐)*
