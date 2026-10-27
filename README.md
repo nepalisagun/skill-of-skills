@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **450+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-27 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-27 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📚 🔷 **[wslmanager](https://github.com/bostrot/wslmanager)** 🧠 R:🟡 M:🟢 — GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL over SSH. by bostrot *(4k ⭐)* — discovered Oct 27
+- 📚 🔷 **[auto-ontology](https://github.com/NVIDIA/auto-ontology)** 🤖🖱️🧠 R:🟡 M:🟢 — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. by NVIDIA *(243 ⭐)* — discovered Oct 27
+- ⌨️ 🔷 **[AutoSwarm](https://github.com/HKUDS/AutoSwarm)** 🤖🧠 R:🟡 M:🟢 — AutoSwarm: All Your Agents, Working as One (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more) by HKUDS *(2k ⭐)* — discovered Oct 27
 - 🔗 🔷 **[open-webSearch](https://github.com/Aas-ee/open-webSearch)** ▶ Runs 🤖 R:🟡 M:🟢 — Multi-engine MCP server, CLI, and local daemon for agent web search and content retrieval — skill-guided workflows, no API keys. by Aas-ee *(1.9k ⭐)* — discovered Oct 27
-- 📚 🔷 **[webiny-js](https://github.com/webiny/webiny-js)** 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations. by webiny *(8k ⭐)* — discovered Oct 27
 - 🔗 🔷 **[mcp-chrome](https://github.com/hangwin/mcp-chrome)** ▶ Runs 🔧 R:🟡 M:🟠 — Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search. by hangwin *(12.5k ⭐)* — discovered Oct 27
-- 📄 ⭐ **[x-research-skill](https://github.com/rohunvora/x-research-skill)** ✓ Loads clean 🤖 R:🟡 M:🟠 — X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. by rohunvora *(1.2k ⭐)* — discovered Oct 27
+- 📚 🔷 **[webiny-js](https://github.com/webiny/webiny-js)** 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations. by webiny *(8k ⭐)* — discovered Oct 27
 
 ---
 
@@ -624,6 +624,7 @@
 - 📚 🔷 **[Diagnostics](https://github.com/AvdLee/Diagnostics)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs. by AvdLee *(1.3k ⭐)*
 - 🔗 🔷 **[mcp-server-12306](https://github.com/drfccv/mcp-server-12306)** ▶ Runs 🔧 R:🟢 M:🟢 — 12306 MCP Server​​ 是一个基于 ​​Model Context Protocol (MCP)​​ 的高性能火车票查询后端系统。它通过标准化接口提供官方 12306 的实时数据服务，包括余票查询、车站信息、列车经停站、中转换乘方案等核心功能。 by drfccv *(414 ⭐)*
 - 🔄 🔷 **[Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3)** 🤖 R:⚫ M:🟠 — Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows. by parcadei *(3.9k ⭐)*
+- 📄 ⭐ **[x-research-skill](https://github.com/rohunvora/x-research-skill)** ✓ Loads clean 🤖 R:🟡 M:🟠 — X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. by rohunvora *(1.2k ⭐)*
 - ⌨️ 🔶 **[mcp2cli](https://github.com/knowsuchagency/mcp2cli)** ▶ Runs 🤖 R:🟡 M:🟢 — Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen by knowsuchagency *(2.4k ⭐)*
 - 📦 🔷 **[dotai](https://github.com/udecode/dotai)** ✓ Loads clean 🤖 R:🔴 M:🟢 — Context manager for all agents by udecode *(1.2k ⭐)*
 - 🔗 🔷 **[hass-mcp](https://github.com/voska/hass-mcp)** ▶ Runs 🔧 R:🟡 M:🟢 — Control and query Home Assistant from Claude and other LLMs — a Model Context Protocol (MCP) server. by voska *(350 ⭐)*
@@ -1534,6 +1535,7 @@
 - 📚 🔷 **[schaltwerk](https://github.com/2mawi2/schaltwerk)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — The IDE without editor by 2mawi2 *(287 ⭐)*
 - 📚 🔷 **[oneclickvirt](https://github.com/oneclickvirt/oneclickvirt)** ✓ Loads clean 🤖 R:🔴 M:🟢 — Universal Virtualization Management Platform   可扩展的通用虚拟化管理平台，支持 Proxmox VE / LXD (GPU) / Incus (GPU) / Docker / Podman / Containerd / Qemu / Kubevirt by oneclickvirt *(380 ⭐)*
 - 📚 🔷 **[rook](https://github.com/rook/rook)** ✓ Loads clean 🧠 R:🟢 M:🟢 — Storage Orchestration for Kubernetes by rook *(13.7k ⭐)*
+- 📚 🔷 **[wslmanager](https://github.com/bostrot/wslmanager)** 🧠 R:🟡 M:🟢 — GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL over SSH. by bostrot *(4k ⭐)*
 - 📚 🔷 **[49Agents](https://github.com/49-Agents/49-IDE)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluster via Tailscale OR connect to app.49agents.com (coming soon) by 49-Agents *(619 ⭐)*
 - 📚 🔷 **[rossoctl](https://github.com/rossoctl/rossoctl)** ✓ Loads clean 🤖 R:⚫ M:🟢 — Main rossoctl repo - installer, UI and docs by rossoctl *(302 ⭐)*
 - 📚 🔷 **[cursor-byok](https://github.com/leookun/cursor-byok)** ✓ Loads clean 🤖 R:🔴 M:🟢 — Infinite BYOK in Cursor  https://github.com/leookun/cursor-byok/releases by leookun *(3.2k ⭐)*
@@ -1679,7 +1681,7 @@
 - 📚 🔷 **[llm-d-router](https://github.com/llm-d/llm-d-router)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — llm-d Router: The intelligent entry point for inference requests by llm-d *(432 ⭐)*
 - 📦 🔷 **[pentest-agents](https://github.com/H-mmer/pentest-agents)** 🤖🖱️🧠 R:🟡 M:🟠 — Bug bounty agent framework for Claude Code, Codex, Gemini, Cursor, Windsurf, Copilot, and OpenClaw — 48 agents, 26 commands, 19 CLI tools, 2 MCP servers, autonomous hunt loops, exploit chain builder. by H-mmer *(1k ⭐)*
 - 📚 🔷 **[Chanakya-Local-Friend](https://github.com/samosa-ai-com/Chanakya-Local-Friend)** ▶ Runs 🧠 R:🟡 M:🟢 — Chanakya is an advanced, open-source, and self-hostable voice assistant designed for privacy, power, and flexibility. It leverages local AI/ML models to ensure your data stays with you. It Integrates with 1000+ third-party MCP servers including Home Assistant. by samosa-ai-com *(214 ⭐)*
-- 📦 🔷 **[communitytools](https://github.com/transilienceai/communitytools)** 🤖 R:🟡 M:🟢 — Open-source Claude Code skills, agents, and slash commands for AI-powered penetration testing, bug bounty hunting, and security research by transilienceai *(595 ⭐)*
+- 📦 🔷 **[communitytools](https://github.com/transilienceai/communitytools)** 🤖 R:🟡 M:🟠 — Open-source Claude Code skills, agents, and slash commands for AI-powered penetration testing, bug bounty hunting, and security research by transilienceai *(595 ⭐)*
 - 📚 🔷 **[go_binance_futures](https://github.com/sorry510/go_binance_futures)** 🤖🧠 R:🟡 M:🟢 — AI agent + 币安合约量化 + 模拟交易 + 历史回测 by sorry510 *(253 ⭐)*
 - 📚 🔷 **[runjam](https://github.com/peintune/runjam)** 🤖 R:🟡 M:🟢 — One desktop for all your AI coding Agent — Claude Code, Codex CLI & Gemini CLI. Auto-detect, one-click install, unified chat, file explorer, terminal & editor. Local-first. Built with Tauri + Rust + Vue 3. by peintune *(221 ⭐)*
 - 📚 🔷 **[aeon](https://github.com/aeonfun/aeon)** 🤖🧠 R:🟡 M:🟢 — The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever. by aeonfun *(783 ⭐)*
