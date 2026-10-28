@@ -9,7 +9,7 @@
 
 **1,500+ skills** across 10 skill types · **450+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-28 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-28 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📦 ⭐ **[html-anything](https://github.com/nexu-io/html-anything)** 🤖🧠 R:🟡 M:🟢 — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider. by nexu-io *(9.3k ⭐)* — discovered Oct 28
+- 📦 🔷 **[skills](https://github.com/expo/skills)** 🤖🧠 R:🟡 M:🟢 — A collection of AI agent skills for working with Expo projects and Expo Application Services by expo *(3.4k ⭐)* — discovered Oct 28
 - 📦 🔷 **[Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)** 🤖🧠 R:🟡 M:🟢 — Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents. by deanpeters *(7.7k ⭐)* — discovered Oct 28
 - 🔗 🔷 **[mcp](https://github.com/awslabs/mcp)** 🤖🧠 R:🟡 M:🟢 — Open source MCP Servers for AWS by awslabs *(9.8k ⭐)* — discovered Oct 28
 - 📦 ⭐ **[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** 🤖 R:🟡 M:🟠 — Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents by diet103 *(10k ⭐)* — discovered Oct 28
-- 📦 🔶 **[replica-skill](https://github.com/Jakeschincariol/replica-skill)** 🤖 R:🟡 M:🟢 — Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. by Jakeschincariol *(6.1k ⭐)* — discovered Oct 28
+- 📦 ⭐ **[html-anything](https://github.com/nexu-io/html-anything)** 🤖🧠 R:🟡 M:🟢 — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider. by nexu-io *(9.3k ⭐)* — discovered Oct 28
 
 ---
 
@@ -1250,6 +1250,7 @@
 - 📦 🔷 **[claude-paper](https://github.com/alaliqing/claude-paper)** 🤖 R:🟡 M:🟢 — 📖 Cross-agent research paper toolkit for Claude Code, Codex, OpenCode, and DeepSeek Harness—quick summaries, deep study materials, code demos, and a local web viewer. by alaliqing *(352 ⭐)*
 - 📚 🔷 **[my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — My personal list of Neovim plugins by yutkat *(833 ⭐)*
 - 📚 🔷 **[amphi-etl](https://github.com/amphi-ai/amphi-etl)** ✓ Loads clean 🤖 R:🟡 M:🟢 — visual data prep powered by python by amphi-ai *(1.4k ⭐)*
+- 📦 🔶 **[replica-skill](https://github.com/Jakeschincariol/replica-skill)** 🤖 R:🟡 M:🟢 — Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. by Jakeschincariol *(6.1k ⭐)*
 - 📄 🔷 **[Pensieve](https://github.com/kingkongshot/Pensieve)** ✓ Loads clean 🤖 R:🟡 M:🟠 — tore your decisions and principles. Claude reads them to make better choices. by kingkongshot *(2.5k ⭐)*
 - 📦 🔷 **[shareAI-skills](https://github.com/shareAI-lab/lab-skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — shareAI Lab's skills for agent to build agent & other custom software system by shareAI-lab *(316 ⭐)*
 - 🔗 🔷 **[spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)** 🤖 R:🟢 M:🟠 — A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment. by Pimzino *(4.3k ⭐)*
