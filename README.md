@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **450+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,600,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-29 18:25 UTC; the badges above are live)*
+*(counts as of 2026-10-29 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -528,7 +528,7 @@
 - 📚 🔷 **[html-to-markdown](https://github.com/xberg-io/html-to-markdown)** 🤖 R:🟡 M:🟢 — High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 98+ document formats using streaming parsers and built-in OCR. by xberg-io *(885 ⭐)*
 - ⌨️ 🔷 **[hey-cli](https://github.com/basecamp/hey-cli)** 🤖🧠 R:🟡 M:🟢 — HEY CLI and Agent Skills by basecamp *(420 ⭐)*
 - 📦 🔶 **[greensock/gsap-skills](https://github.com/greensock/gsap-skills)** 🤖🧠 R:🟢 M:🟠 — Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. by greensock *(17.4k ⭐)*
-- 📦 🔷 **[swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills)** 🤖🧠 R:🟢 M:🟢 — Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks by dpearson2699 *(1.2k ⭐)*
+- 📦 🔷 **[swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills)** 🤖🧠 R:🟢 M:✅ — Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks by dpearson2699 *(1.2k ⭐)*
 - 📦 🔷 **[superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony)** 🤖🧠 R:🟡 M:🟢 — Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD. by dev-toolings *(227 ⭐)*
 - 🔌 🔷 **[openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Dingtalk channel plugin for OpenClaw by soimy *(1.7k ⭐)*
 - 📦 ⭐ **[dot-skills](https://github.com/pproenca/dot-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A collection of AI agent skills following the Agent Skills open format by pproenca *(220 ⭐)*
