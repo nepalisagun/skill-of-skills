@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **450+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,600,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-29 06:25 UTC; the badges above are live)*
+*(counts as of 2026-10-29 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -994,7 +994,7 @@
 - ⌨️ 🔷 **[swarm-forge](https://github.com/unclebob/swarm-forge)** ✓ Loads clean 🔧 R:🔴 M:🟢 — A simple tool for coordinating several AI agents. by unclebob *(4.1k ⭐)*
 - 📚 🔷 **[Kun](https://github.com/KunAgent/Kun)** ✓ Loads clean 🤖🖱️🧠 R:🔴 M:🟢 — Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI. by KunAgent *(6.3k ⭐)*
 - 📚 🔷 **[Shpigford/chops](https://github.com/Shpigford/chops)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. by Shpigford *(2.1k ⭐)*
-- 📚 ⭐ **[Synapse](https://github.com/zai-org/Synapse)** 🤖🧠 R:🟡 M:🟢 — Self-hosted AI workspace with shareable AI teammates, shared conversations, memory, and governed access to plugins, MCP tools, and local devices. by zai-org *(517 ⭐)*
+- 📚 ⭐ **[Synapse](https://github.com/zai-org/Synapse)** 🤖🧠 R:🟡 M:🟠 — Self-hosted AI workspace with shareable AI teammates, shared conversations, memory, and governed access to plugins, MCP tools, and local devices. by zai-org *(517 ⭐)*
 - 📚 🔷 **[AgentRecall](https://github.com/zszz3/AgentRecall)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — AgentRecall is a desktop application for macOS and Windows that enables searching, viewing, and recovering AI coding agent sessions across Claude Code, Codex, and other supported agents. It provides session management with filtering, keyword search, cross-device sync, AI-assisted retrieval, session migration, export to multiple formats, MCP integration, and token usage tracking. by zszz3 *(597 ⭐)*
 - 📄 🔶 **[qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)** 🤖 R:🔴 M:🟢 — Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc. by joeseesun *(6.4k ⭐)*
 - 📚 🔷 **[rowboat](https://github.com/rowboatlabs/rowboat)** 🤖🧠 R:🟡 M:🟢 — Open-source AI coworker, with memory by rowboatlabs *(18.1k ⭐)*
